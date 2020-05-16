@@ -1,0 +1,4503 @@
+﻿Helena Dodd Ferrez e Maria Helena S. Bianchini
+THESAURUS
+para acervos museológicos
+SÉRIE TÉCNICA
+MinC • SPHAN • Pró-memória
+
+Presidente da República
+José Sarney
+Ministro da Cultura
+Celso Furtado
+Secretário do Patrimônio
+Histórico e Artístico Nacional
+Ângelo Oswaldo de Araújo Santos
+Presidente da Fundação Nacional Pró-memória
+Joaquim Falcão
+Coordenadora da
+Coordenadoria Geral de Acervos Museológicos
+Maria de Lourdes Parreiras Horta Barretto
+Diretora-geral do
+Museu Histórico Nacional
+Solange de Sampaio Godoy
+Assessoria de Comunicação Social
+Ivonne Felman da Cunha Rego
+Núcleo de Editoração
+José Américo Motta Pessanha
+Coordenação editorial e
+projeto gráfico
+Vera Bernardes / Núcleo de Editoração
+Datilografia
+Maryland Leal Paiva / MHN
+Revisão da datilografia
+Cristina Albuquerque de Araújo / MHN
+Denise Portugal Lasmar / MHN
+Maria de Jesus Pires Alencar / MHN
+Maria Lucia Guerra de Souto Maior / MHN
+Maria Rosane dos Santos Cardoso / MHN
+Maryland Leal Paiva / MHN
+Nanei Gonçalves da Nóbrega / MHN
+Rosângela de Almeida Costa Bandeira / MHN
+Arte-final
+Guilherme Sarmento
+Produção gráfica
+Oswaldo Ulhoa
+
+Helena Dodd Ferrez e Maria Helena S. Bianchini
+do Museu Histórico Nacional
+
+THESAURUS
+para acervos museológicos
+1.º volume
+ordem sistemática
+Ministério da Cultura
+Secretaria do Patrimônio Histórico e Artístico Nacional
+Fundação Nacional Pró-Memória
+Coordenadoria Geral de Acervos Museológicos
+Rio de Janeiro. 1987
+
+Série Técnica
+n.º 1
+© 1987, Helena Dodd Ferrez, Maria Helena S. Bianchini e
+Museu Histórico Nacional
+Praça Marechal Ancora s/n.º Rio de Janeiro, RJ
+Fundação Nacional Pró-Memória
+Núcleo de Editoração
+Rua da Imprensa 16, sala 615
+Rio de Janeiro, RJ
+Ferrez, Helena Dodd
+F387	Thesaurus	para	acervos	museológicos / Helena Dodd
+Ferrez, Maria Helena S. Bianchini. - Rio de Janeiro :
+Fundação Nacional Pró-memória. Coordenadoria Geral de
+Acervos Museológicos, 1987.
+2	v. - (Série técnica, 1)
+Conteúdo : v. 1. Ordem sistemática - v. 2. Ordem alfabética.
+1. Museologia - Tesauros. 2. Tesauros. X. Bianchini,
+Maria Helena S. II. Fundação Nacional Pró-memória.
+Coordenadoria Geral de Acervos Museológicos, Rio de
+Janeiro, RJ. III. Museu Histórico Nacional, Rio de Janeiro,
+RJ. IV. Título. V. Série.
+MHN/
+Biblioteca
+ISBN 85-7064-009-9	R	025.49
+-V. 1: 85-7064-010-2	R	069.52
+
+Colaboradores no
+levantamento da terminologia
+Arquivo-Museu de Literatura da Fundação Casa de Rui Barbosa,
+Rio de Janeiro, RJ
+Casa da Hera, Vassouras, RJ
+Casa de Benjamin Constant, Rio de Janeiro, RJ
+Casa Natal de Victor Meirelles, Florianópolis, SC'
+Museu Casa de Rui Barbosa da Fundação Casa de Rui Barbosa,
+Rio de Janeiro, RJ
+Museu da Inconfidência, Ouro Preto, MG
+Museu da República, Rio de Janeiro, RJ
+Museu das Bandeiras, Goiás, GO
+Museu das Missões, Santo Ângelo, RS
+Museu de Arqueologia de Itaipu, Niterói, RJ
+Museu de Arqueologia e Artes Populares, Paranaguá, PR
+Museu de Arte Sacra da Igreja da Boa Morte, Goiás, GO
+Museu de Arte Sacra da Igreja de Santa Rita, Parati, RJ
+Museu de Folclore Edison Carneiro
+da Fundação Nacional de Arte, Rio de Janeiro, RJ
+Museu de Valores do Banco Central do Brasil,
+Rio de Janeiro, RJ
+Museu do Diamante, Diamantina, MG
+Museu do Ouro, Sabará, MG
+Museu Histórico Nacional, Rio de Janeiro, RJ
+Museu Imperial, Petrópolis, RJ
+Museu Nacional de Belas Artes, Rio de Janeiro, RJ
+Museu Regional de São João dei Rey, MG
+Museu Solar Monjardim, Vitória, ES
+Programa Nacional de Museus, Rio de Janeiro, RJ
+Esta obra foi impressa com o patrocínio da
+Xerox do Brasil S.A.,
+beneficiada pela Lei Sarney n.º 7505/86.
+
+Agradecimentos
+
+Protelamos estes agradecimentos atê o último minuto. Apenas me
+do. Medo de esquecer, um sequer, de nossos ilustres ou anônimos
+colaboradores desta fascinante tarefa de procurar relacionar
+e classificar parte do universo dos documentos/objetos
+criados pelo homem e preservados, hoje, nos museus.
+
+Gostaríamos de começar homenageando aqueles que, anonimamente
+, nos auxiliaram e a quem recorremos em busca de língua
+viva para objetos em desuso. Deixá-los por último seria mais
+uma injustiça, como se não bastasse seu anonimato. Foram, sobretudo,
+balconistas de lojas como 0 Dragão, da rua "Larga",
+a Luiz Ferrando, do Largo de São Francisco e outras tantas.
+Em seguida, agradecer aos museólogos, aos quais nem chegamos
+a conhecer, das diversas instituições colaboradoras que,
+pacientemente, coletaram os termos referentes às peças de seus
+acervos, bem como aos médicos, filólogos, veterinários, eclesiásticos
+etc. contactados, muitas vezes por terceiros, para
+nos fornecer a terminologia específica de seus campos de
+conhecimento.
+
+A consecução da primeira versão deste trabalho, que se limitou
+ao acervo catalogado do Museu Histórico Nacional, contou
+com o auxílio e apoio inestimáveis de especialistas de diversas
+áreas, aos quais desejaríamos expressar nossos mais sinceros
+agradecimentos: Adler Homero Fonseca de Castro,Deocleciano
+Azambuja, Eliane Rose Vaz Cabral Nery, Gerardo Britto Raposo
+da Câmara, Hagar Espanha Gomes, Maria Bernardete Fernandes Gon
+çalves, Regina Helena Tavares, Rejane Maria Lobo Vieira, Sér-
+gio Ferreira da Cunha, Sidney Simons Braga e Vera Lucia Bottrel
+Tostes.
+Quanto â presente versão, queremos agradecê-la enfatica-
+mente ã iniciativa.de S.onia Celli e ao empenho de Celia Maria
+Corsino, ambas do antigo Programa Nacional de Museus, em dar-
+lhe nova dimensão. Perceberam que, com a colaboração de museus
+com características semelhantes, este Thesaurus, de instrumen-
+to próprio para atender às necessidades especificas do Museu
+Histórico Nacional, poderia se transformar numa ferramenta bã
+sica para um trabalho museológico maior.
+Reforçamos nossos agradecimentos às mestres Hagar Espanha
+Gomes e Regina Helena Tavares, apaixonadas que são pela classi
+ficaçlo, terminologia e construção de linguagens documentá-
+rias;: ao especialista em armaria, Adler Homero Fonseca de Cas
+tro, a quem devemos os subsídios para a elaboração da classe
+"Caça/guerra", assim como sua disposição de sempre nos ajudar.
+Ainda desejamos deixar aqui registrado nosso mais profundo re
+conhecimento às pessoas abaixo mencionadas: Solange de Sampaio
+Godoy, nossa Diretora, pelo apoio e incentivo; aos especialis-
+tas Celina Santos Barboza, Kelvin Rothier Duarte, Marília Duar
+te Nunes, Monica F. B. Xexéo, Raul Lody e Sérgio Burgi pela co
+laboração dada na análise da terminologia de suas respectivas
+áreas; Vera Bernardes pelo carinho com que tratou a produção
+visual deste trabalho técnico, procurando torná-lo ao menos le
+ve e gostoso; Maryland Leal Paiva, ranheta, mal-humorada, mas
+datilografa e revisora para não botar defeito, que fielmente
+nos acompanhou ao longo de todo o trabalho; Ricardo Gomes Lima,
+Claudia Mareia Ferreira e Vera Lúcia Ferreira da Rosa pelas du
+ras críticas ao plano de classificação dos objetos, que nos le
+varam a derrubar preconceitos e a perceber vícios; Adriano da
+Gama Kury e Rachel Teixeira Valença, que com sua sabedoria de
+filõlogos tanto nos tranqüilizaram quanto ao uso de alguns vo-
+cábulos; José Maria Neves pela atenção que deu â classificação
+dos instrumentos musicais; Nei Batista Gonçalves e Maria de
+Lourdes Gonçalves, que generosamente nos deram acesso ao Siste
+ma Museu, do Museu de Valores do Banco Central do Brasil, o
+que nos permitiu montar a classe "Objetos Pecuniários"; Robert
+G. Chenhall autor da obra que tanta luz nos deu, Nomenclature
+for Museum Cataloguinq; a System for classifying man-made ob-
+jects; Teresinha Marinho, pelas sugestões na fase de prepara
+ção e organização dos originais; José Bernardino Cotta Maga-
+lhães Vieira e Sylvio Clemente da Motta, pela revisão ortográ-
+fica; Lena Vania Ribeiro Pinheiro, pela dedicação e carinho ao
+rever a Introdução deste trabalho; e, finalmente, às amigas e
+companheiras de trabalho Denise Portugal, Regina Timbó, Nanei
+Gonçalves da Nóbrega, Rejane Maria Lobo Vieira, Eliane Rose
+Vaz Cabral Nery, Maria de Jesus Pires Alencar, Mareia Muller ,
+Maria de Lourdes Lima de Moraes Martins, Maria Aparecida Fraga
+Lima dos Reis, Maryland Leal Paiva, Rosângela de Almeida Costa
+Bandeira e Rita de Cassia Marques, pela paciência que tiveram
+conosco, nas nossas, idas e vindas, pelas colaborações, revi-
+sões, sugestões e outros "ões" que sempre nos chegaram como si.
+nais de afeto.
+Apresentação
+Com a publicação do Thesaurus para acervos museológicos, o Mu
+seu Histórico Nacional retoma uma tradição de produção cientT
+fica, apresentando o trabalho de duas de suas técnicas mais
+destacadas: Maria Helena S. Bianchini, museóloga, profunda co
+nhecedora de artes decorativas e de sua profissão e Helena Dodd
+Ferrez, mestre em Ciência da Informação, cabeça especialmente
+dotada para a classificação dos documentos/objetos.
+O	trabalho é fruto do feliz encontro dessas profissionais,
+que se completaram com seus conhecimentos e se empenharam ar
+duamente durante quatro anos na execução de uma obra tão impor
+tante para os museus brasileiros.
+Sua oportunidade é inquestionável, num momento em que se
+procura a Informática para, através dela, democratizar o acer-
+vo dos museus, e as inúmeras informações que possam transmitir.
+Sensíveis ao enorme esforço despendido na elaboração des
+te Thesaurus, e reconhecendo sua importância e abrangência, a
+Coordenadoria Geral de Acervos Museológicos e o Núcleo de Edi-
+toração da Fundação Nacional Pró-Memõria somam-se ao Museu His
+tórico Nacional para viabilizar esta primeira edição.
+O	Museu Histórico Nacional possui rico tesouro, composto
+das mais variadas categorias de objetos: desde um canhão feito
+com bronze do sino das igrejas paroquiais^- "El Cristiano", até
+uma toalha de mesa que pertenceu a Napoleão III; do manto do
+Imperador da China (séc. XVII) até uma cadeira^de arruar; da
+forca de Tiradentes a uma rara moeda de dois séculos antes de
+Cristo; do primeiro selo alemão até um ex-voto da Batalha de
+Guararapes.
+Esse tesouro e a enorme necessidade de organizá-lo e sis
+tematizã-lo originaram a idéia do Thesaurus.
+O	Thesaurus encontrou no tesouro do Museu Histórico Nacio
+nal não apenas fonte de inspiração, mas campo de teste para fu
+turas aplicações.
+O	futuro nos indicará as correções e enriquecimentos que
+ele deverá receber. Mas, desde já, constitui sem dúvida uma
+obra de que muito nos orgulhamos.
+Solange de Sampaio Godoy
+Diretora-Geral do
+Museu Histórico Nacional
+Sumário
+Colaboradores no levantamento da Terminologia	V
+Agradecimento	VII
+Apresentação	IX
+Introdução	XV
+0 que é um thesaurus	XV
+Por que um thesaurus para museus?	XVI
+0 thesaurus para acervos museológicos	XVII
+Instruções para consulta	XXXIII
+Ordem Sistemática	1
+Plano geral de classificação	3
+Ordem Alfabética	89
+"Serpente!" gritou a Pomba.
+"Não sou uma serpente!" disse Alice indignada. "Deixe-me em
+paz!"
+"Serpente, digo novamente!" repetiu a Pomba mais controlada e
+acrescentou em soluços, "Já experimentei todos os meios e não consi-
+go livrar-me delas!"
+"Não tenho a menor idéia sobre o que você está falando", disse
+Alice.
+"Experimentei as raízes das árvores, os barrancos mais íngremes
+e as rochas escarpadas", continuou a Pomba como falando para si mes-
+ma, "mas aquelas serpentes! Nada adianta!"
+Alice qstava cada vez mais intrigada, mas não tinha sentido di-
+zer nada até que a Pomba tivesse terminado.
+"Como se não fosse trabalho bastante chocar os ovos", disse a
+Pomba, "ainda tenho que estar atenta às serpentes dia e noite! Há
+três semanas que não fecho os olhos!"
+"Sinto muito tê-la inquietado", disse Alice, que já estava come
+çando a compreender o sentido das suas queixas.
+"E eu que tinha escolhido a árvore mais alta da floresta", con
+tinuou a Pomba aumentando a sua voz em tom de desespero, "pensando
+que assim poderia me livrar delas facilmente; parece que elas têm
+necessidade até de caírem do cêu! Malditas serpentes!"
+"Mas eu já disse que não sou uma serpente!" retrucou Alice. "Eu
+sou uma — Eu sou uma —"
+"Bem, o que você é?" disse a Pomba, "posso ver que você está
+tentando inventar alguma coisa!"
+"Eu — eu sou uma menina!" disse Alice quase duvidando, porque
+se lembrou do número de transformações por que tinha passado naquele
+dia.
+"Mas que bela história!" disse a Pomba em tom de ironia. "Tenho
+visto muitas meninas, mas nunca vi nenhuma com pescoço assim! Não,
+não! Você é uma serpente e não há porque negá-lo. Daqui a pouco aca-
+ba afirmando que jamais provou um ovo!"
+"Ê claro que já provei ovos!", disse Alice que era uma menina
+que nunca mentia, "mas, como você sabe, as meninas comem ovos tanto
+quanto as serpentes".
+"Eu não acredito nisso", disse a Pomba "por que se	fosse verda-
+de que as meninas comem ovos, então elas	seriam um tipo	de	serpente
+e isso é tudo o que posso dizer".
+Essa era uma nova idéia para Alice,	que permaneceu	em	silêncio
+por	um minuto ou dois, o que deu à Pomba	a oportunidade	de	acrescen-
+tar, "Você está à procura de ovos, bem sei; e, sendo assim, o que
+me importa que você seja uma menina ou uma serpente?"
+Lewis Carroll
+As aventuras de Alice no pais das Maravilhas
+Introdução
+é
+1 O QUE fi UM THESAURUS?
+Um thesaurus é um conjunto de conceitos ordenados, de modo cia
+ro e livre de ambigüidade, a partir do estabelecimento de rela
+ções entre os mesmos e que pode ser definido segundo sua fun-
+ção ou estrutura. Do ponto de vista de sua função, é um instru
+mento de controle terminológico adotado por sistemas e/ou cen
+tros de informação e bibliotecas com o objetivo de tornar a in
+dexação do conteúdo temático de documentos textuais/bibliogrã-
+ficos mais consistente e, conseqüentemente, garantir maior pre
+cisão na recuperação de informações. Quanto à sua estrutura, e
+um vocabulário controlado e dinâmico de termos que têm entre
+si relações semânticas e genéricas, e que se aplica a uma área
+particular do conhecimento.1
+0	thesaurus, portanto, é um conjunto de termos que sofre-
+ram controle e de relações que definem os seus conteúdos semân
+ticos, a saber:
+. relações de equivalência;
+. relações genéricas (gênero-espécie);
+. relações associativas; e
+. relações partitivas.
+são estas relações entre os termos que fornecem uma espé
+cie de definição e concorrem para reduzir os riscos de ambigüi
+dade, ao situa-los num campo semântico.
+As relações de equivalência remetem diversos sinônimos ou
+quase-sinônimos de um conceito da linguagem natural (não-con-
+trolada) ao termo único correspondente, cujo uso ê permitido
+pelo thesaurus (linguagem artificial ou documentária).
+As relações genéricas (gênero-espécie) exprimem as rela-
+ções hierárquicas de superioridade e de subordinação entre os
+conceitos e constituem a ossatura de um thesaurus, dirigindo e
+controlando sua organização. Nelas o termo genérico representa
+uma classe de conceitos da qual faz parte o conceito represen-
+tado pelo termo especifico. E, portanto, a relação entre dois
+termos, na qual um se subordina ao outro.
+As relações associativas indicam proximidade de significa
+1	UNISIST. Principes directeurs pour 1'établissement et le
+dêveloppement de thesaurus monolinques. Paris, UNESCO T
+1973.	34p.
+XV
+do. As partitivas, por sua vez, surgem quando se quer relacio-
+nar um todo a qualquer uma de suas partes.
+2	POR QUE UM THESAURUS PARA MUSEUS?
+Nas áreas científicas e tecnológicas mais dinâmicas, _o volume
+da produção de conhecimento e de demanda de informação exigi-
+ram uma infra-estrutura informacional capaz de responder e
+apoiar as atividades de pesquisa de suas comunidades. Em decor
+rência dessa realidade, foram implantados sistemas de informa-
+ção e desenvolvidos, no âmbito da Biblioteconomia e da Ciência
+da Informação, metodologias e instrumentos de trabalho, entre
+os quais os thesauri, com o objetivo de tornar a recuperação
+da informação mais eficiente.
+Por outro lado, a Museologia, no Brasil, pouco tem inves-
+tido nesse sentido, em decorrência de fatores internos e exter
+nos a seu campo de atuação, que contribuem para que os acervos
+museológicos não sejam encarados, de modo geral, como fontes
+de informação.
+Conseqüentemente, na medida em que os acervos museolõgi-
+cos não sao vistos como fontes de informação, os museus brasi-
+leiros encontram muitas dificuldades em se organizar como sis
+temas que devem ser, de informação, isto ê, intermediários en-
+tre documentos/objetos e usuários. Também não chegam a ser um
+espaço onde, com freqüência, aflorem preocupações com o desen-
+volvimento de metodologias e instrumentos que visem a permi-
+tir, como acima foi dito, uma recuperação de informação mais
+eficiente.
+Refletindo-se sobre essa problemática, pode-se chegar a
+uma causa básica: a sacralização do objeto. Os objetos têm si-
+do vistos muito mais pelo seu valor artístico ou financeiro,
+resultando daí, provavelmente, o elitismo que caracteriza al^
+guns dos museus do país. Esse enfoque parece ter predominado
+em detrimento do valor documental, que corresponde â análise
+dosobjetos na totalidade de seus atributos, o que transcende
+visões parciais, quaisquer que sejam.
+Além disso, o conteúdo informativo dos objetos não é sufi
+cientemente explorado, acarretando a subutilização dos acervos
+museológicos enquanto fontes de pesquisa. Assim, o reduzido nú
+mero de pesquisadores existentes não tem chegado a exercer uma
+pressão que antecipe mudanças na política informacional dos mu
+seus brasileiros.
+Um fator que certamente concorrerá para a quebra desse
+status guo é a automação. A introdução dos computadores nos mu
+seus exigirá maior racionalização gerencial e técnica, sobretu
+do se considerada a complexidade da catalogação de objetos
+criados pelo homem.
+Estes, ao contrário de um livro, de um artigo de periódi-
+co, de uma carta, enfim, dos documentos textuaio/bibliogrãfi-
+cos, não detêm em si, geralmente, nenhuma informação legível.
+Não possuem, por exemplo, uma folha de rosto para orientar os
+catalogadores. Além disso, o número de categorias de dados a
+serem recuperadas ê muito grande. Novamente, ã diferença de um
+livro, não basta recuperar informações relativas a autor, títu
+lo e assunto. Dados quanto a material, técnica, dimensões, lo-
+cal e data de produção, estado de conservação, estilo, peso ,
+procedência etc. são igualmente fundamentais para os pesquisa-
+dores .
+Portanto, no presente trabalho, a Museologia foi buscar
+um recurso utilizado em Biblioteconomia e Ciência da Informa-
+ção, traduzindo, neste esforço, a necessidade de maior aproxi-
+mação entre museus, bibliotecas e até mesmo arquivos, por suas
+naturais afinidades, tanto mais evidentes quanto mais se abor
+de o objeto como documento.
+E possível que, ao contrário do que ocorreu naquelas á-
+reas, onde o thesaurus foi conseqüência de um lento processo
+evolutivo na direção de sofisticados sistemas de informação,
+na Museologia, no Brasil, quem sabe seja a causa de profundas
+transformações nesta mesma direção.
+3	O THESAURUS PARA ACERVOS MUSEOLÕGICOS
+0	Thesaurus para acervos museolõgicos é um instrumento de con-
+trole da terminologia utilizada para designar os documentos/
+objetos criados pelo homem e existentes nos museus, em particu
+lar os de caráter histórico. Elaborado para atender, sobretudo,
+ã recuperação de acervos museolõgicos, seja ela manual ou auto
+matizada, procura apresentar um sistema internamente consisten
+te para a classificação e denominação de artefatos. O thesaurus
+não elimina, entretanto, o trabalho essencialmente do museolo-
+go, de identificação dos objetos, etapa que antecede o seu ma
+nuseio e, diferentemente dos demais thesauri, não foi criado
+para auxiliar na indexação do conteúdo temático de documentos
+textuais/bibliogrãficos.
+Não tendo sido testado amplamente, para que se possa ava
+liar sua capacidade de recuperar informação, o Thesaurus deve
+rã ser revisto e atualizado, na medida de seu uso e em função
+de três tipos de procedimento:
+a)	adição de novos termos/nomes de objetos;
+b)	ampliação ou restrição do significado de termos/nomes de ob
+jetos já existentes;,
+c)	eliminação de termos/nomes de objetos.
+Esse processo de revisão e atualização ê que o torna um
+instrumento dinâmico, permitindo verificar seu nível de quali-
+dade e adequação, e possibilitando um constante aperfeiçoamen-
+to.
+3.1	Antecedentes
+A idéia de se elaborar um instrumento de controle terminológi-
+co surgiu quando, analisando-se o processamento técnico do a
+cervo museolõgico no Museu Histórico Nacional, constatou-se a
+ausência de uma linguagem normalizada que possibilitasse, atra
+vês do controle de sinônimos e homõgrafos, uma nomenclatura
+XVII
+mais consistente dos documentos/objetos, bem como de uma clas-
+sificação sistematizada, capazes ambas de assegurarem maior
+precisão na sua recuperação.
+Para melhor exemplificar as ausências acima apontadas, no
+que diz respeito ã sinonlmia, um mesmo objeto podia ter duas
+ou mais designações (ex.: penico, ürinol, vaso noturno); obje
+tos homõgrafos não vinham acompanhados de modificadores ( ex.:
+palmatória (castigo), palmatória (castiçal); e quanto ã classi
+ficação, os objetos ora estavam reunidos por material (prata -
+ria, têxteis), ora pela disciplina encarregada de estudá-los
+(Filatelia, Numismãtica), ora pela técnica (cerâmica, escultu-
+ra) , ora pelo coletivo (armaria, joalheria) e ora pela função
+(meios de transporte, condecoração).
+A falta de consistência interna na nomenclatura empregada
+para designar os documentos/objetos e na estrutura de classifi
+cação não permitia que os catálogos funcionassem como eficien-
+tes instrumentos de armazenagem e recuperação de informações
+sobre o acervo. E, em qualquer processo de catalogação, ê fun
+damental que as informações registradas, em cada categoria de
+dados, sejam cuidadosamente controladas.
+Pensou-se, inicialmente, na criação de uma simples lista
+autorizada de termos/nomes de objetos, ordenada alfabeticamen-
+te, contendo as definições destes. Mas, uma vez levantados e
+conceituados os termos/nomes de objetos, ficou evidenciada a
+urgência de dar-lhes nova classificação com base num único cri
+tério. Foi, então, que se resolveu agrupar os termos/nomes de
+objetos de acordo com sua função original, partindo-se do pres
+suposto de que todo objeto criado pelo homem o é para cumprir
+alguma finalidade primeira. Simultaneamente, decidiu-se dar ã
+listagem inicial, a_estrutura de thesaurus. Com esta medida ga
+rantia-se a definição de cada termo, permitiam-se pesquisas em
+diferentes graus de_generalidade ou de especificidade e facili
+tava-se a recuperação de grupos de objetos pertencentes a uma
+mesma classe, vantagens estas que não ocorrem numa simples lis
+ta alfabética de termos. Por outro lado, abandonou-se a idéia
+da elaboração de um glossário, mas as dificuldades encontradas
+no decorrer do trabalho, sobretudo de natureza semântica, de-
+monstraram que um glossário teria sido instrumento complemen-
+tar valioso.
+Compilado na sua primeira versão para uso do Museu Histó
+rico Nacional, o Thesaurus para acervos museológicos foi am-
+pliado para atender aos demais museus de carater histórico do
+pais, por sugestão da equipe do antigo Programa Nacional de Mu
+seus que teve, ainda, a iniciativa de coletar a terminologia
+empregada pelos mesmos para designar seus objetos.1 Nesta se
+gunda fase, não só a contribuição de outros museus como o con
+tacto com a obra de CHENHALL2 foram de fundamental importância
+1	A relação das instituições que colaboraram se encontra ã pá-
+gina V.
+2	CHENHALL, Robert G. Nomenclature for museum cataloguinq; a
+system for classifying man-made objects. Nashville, Ameri
+can Association for State and Local History, 1978. 512p.
+XVIII
+para dar a este Thesaurus novo aspecto e, mais do que isso, no
+va dimensão.	.	_	'
+A retomada do trabalho, exigida por sua ampliação, susci •
+tou o aparecimento de novas questões relativas ao tratamento
+técnico de acervos museolõgicos, dentre as quais se destacam a
+problemática de como lidar com partes e acessórios de objetos
+não mais existentes na sua integridade ou totalidade, e com ob
+jetos em escala reduzida (modelos, brinquedos e miniaturas) ,
+conforme discute-se no item "Classificações ProblemáticasDed
+xou, ainda, transparecer a necessidade de, em trabalhos futu-
+ros, se aprofundar mais sobre a classificação dos objetos cria
+dos pelo homem, como um todo. E,.finalmente, mostrou que a for
+te presença do espírito do colecionador nos museus, inclusive
+na própria eguipe deste trabalho, na medida em que dificulta a
+desmitificaçao dos objetos, contribui para consolidar as cias
+sificações consideradas "clássicas". Portanto, a sacralização
+dos objetos, que têm raizes ideológicas profundas, é fator de
+terminante das discriminações que envolvem o estudo dos obje-
+tos e, conseqüentemente, a sua classificação. Na luta contra
+esses preconceitos, muito contribuiu o enfoque do Museu de Foi
+clore Edison Carneiro.
+3.2	Metodologia
+A elaboração do Thesaurus para acervos museolõgicos teve por
+base as diretrizes da UNISIST e da Associação Francesa de Nor-
+malização para o estabelecimento de thesauri monolingues 1 e 2
+com inúmeras adaptações necessárias ã realidade deste trabalho.
+A metodologia obedeceu às seguintes etapas:
+. coleta e conceituação;
+. seleção;
+. classificação a partir do estabelecimento das relações gêne-
+ro-espécie; e
+. determinação das relações associativas e partitivas.
+A coleta dos termos/nomes de objetos foi feita pelos mu-
+seõlogos das diversas instituições colaboradoras e, a partir da
+lista dal resultante, cada termo/nome de objeto foi estudado e
+conceituado.
+Em.seguida, passou-se ã seleção dos que seriam considera-
+dos termos autorizados3, isto é, termo, palavra ou frase de
+uma linguagem documentária que exprime um conceito e cujo uso
+é permitido para fins de indexação/classificação.
+A seleção foi realizada através do estabelecimento das re
+' UNISIST. Príncipes directeurs pour 1'établissement et le dé-
+veloppement de thesaurus monolingues. Paris, UNESCO, 1973.
+34 p.
+2	RÊGLES d'établissement des thesaurus en langue française;nor
+me expérimentale, Z47-100. Paris, Association Françaisede
+Normalisation (AFNOR), 1973. 20p.
+3	Nos thesauri, os termos autorizados são comumente denomina-
+dos descritores.
+XIX
+lações de equivalência (USE e USADO POR) que, neste Thesaurus,
+se deu entre palavras sinônimas (ex.: CÂMERA DE FILMAR, e nao
+Máquina de filmar); entre palavras que podem_ser consideradas
+sinônimas para fins de indexação/classificaçao - os chamados
+quase-sinônimos - (ex.: CALENDÁRIO, e não Folhinha) e entre um
+conceito muito especifico e o conceito mais genérico, nos ca-
+sos em que a especificidade não era relevante ao sistema (ex.:
+ATRIBUTO DE ESCULTURA RELIGIOSA, e não Coroa de imagem. Palma
+de imagem etc.).
+Esta seleção procurou, ainda, obedecer a alguns critérios:
+. escolher como termo/nome de objeto, palavras na língua
+portuguesa, embora alguns em línguas estrangeiras, que não pos
+sulssem equivalentes, tenham sido mantidos e apareçam grifados
+(ex.: NETSUKfi);
+. escolher como termo/nome de objeto aquele que o concei-
+tua, ao invés de descrevê-lo (ex.: FACISTOL, e não Estante de
+coro); e
+. distinguir os homógrafos, isto é, quando mais de um ob
+jeto era expresso pelo mesmo termo, adicionando-se a um deles,
+entre parênteses, um termo ou expressão que o qualificasse (ex.:
+BERÇO (Mata-borrão) e BERÇO, quando leito para criança). O re
+curso de se acrescentar um qualificador também foi adotado,_in
+dependentemente da existência de homógrafos, quando as relações
+estabelecidas não pareciam ou podiam não parecer suficientes
+para determinar, claramente, seus campos semânticos (ex.:	CÃO
+(Lareira) e POMBA (Açúcar) subordinados, respectivamente, ãs
+classes CONDICIONADOR DE TEMPERATURA e EQUIPAMENTO AGRlCOLA).
+Na fase classificatõria procurou-se, inicialmente, deter-
+minar as relações gênero/espécie impostas pelo significado dos
+termos/nomes de objetos e, a partir dessas relações e com base
+na função pela qual os objetos foram originariamente criados ,
+reuni-los por classes funcionais. Para melhor compreensão des
+sa etapa do trabalho, exemplifica-se: conceituados e seleciona
+dos os termos/nomes de objetos "prato de sobremesa" e "xícara
+de café", estes foram hierarquicamente subordinados aos termos
+"prato" e "xícara", respectivamente. "Prato" e "xícara" , por
+terem característica funcional comum de utensílios relaciona-
+dos ã cozinha/mesa, puderam, ainda, por sua vez, integrar uma
+classe funcional maior que reunia todos os termos/nomes de ob
+jetos ligados ao funcionamento interno de uma casa ou edifício.
+Exemplo:
+INTERIORES
+UTENSÍLIO DE COZINHA/MESA
+PRATO
+PRATO DE SOBREMESA
+XÍCARA
+XÍCARA DE CAFÉ
+Finalmente, definidas as relações genéricas que, ao esta-
+belecerem os diferentes níveis hierárquicos da terminologia ,
+constituem a ossatura de um thesaurus, determinou-se as rela
+ções associativas (ex.: BENGALA-BENGALEIRO) e as partitivas
+(ex.: ESPADA-BAINHA).
+Esta rede de inter-relações e a inclusão em determinada
+classe é que conferem, com suficiente rigor, significado aos
+termos/nomes de objetos, para que não apresentem^ambigüidades.
+Assim, o termo "Bala", que tem mais de uma acepção, quando re
+lacionado ã'caça, guerra, munição, projétil, arma de fogo, de
+fine-se, claramente, como projétil metálico com que se carre-
+gam as armas de fogo.
+Os conjuntos obtidos de termos/nomes de objetos foram en
+tão encaminhados, sempre que possível, a especialistas para cri
+ticas e sugestões. Entretanto_todos os passos na busca de maior
+consistência, no Thesaurus, não anulam a carga subjetiva que o
+ato de classificar/indexar traz em si mesmo. Nestas tarefas in
+terferem a subjetividade do classificador/indexador com suas
+idiossincrasias, as palavras e suas diversas acepções e, enfim,
+as mutações da língua no espaço e no tempo. Por conseguinte,
+decisões arbitrárias tiveram que ser tomadas em matéria de sj^
+nonímia, generalidade e especificidade, e nem sempre a tão al
+mejada consistência foi alcançada.
+3.3	Classificação
+A classificação ou categorização \ se constitui num dos passos
+metodológicos mais importantes na construção de um thesaurus.
+No item anterior, a classificação foi abordada no seu aspecto
+geral. Aqui ê tratada mais especificamente, dada a complexida-
+de que apresentou como um todo, e em particular, em relação a
+fragmentos de objetos (partes e acessórios) e objetos em esca
+la reduzida.
+A relatividade das classificações está, como muito bem e
+xemplificou LANGRIDGE 1 2 , imortalizada no diálogo entre ‘Alice e
+a Pomba, reproduzido na epígrafe deste trabalho. E a escolha
+por uma ou por outra classificação está sempre relacionada a
+um propósito.
+"Na sua ânsia de conhecimento, o Homem tem procurado aque-
+las classificações que são as mais fundamentais. Os cientistas
+servem-se das classes nas quais os membros possuem o maior nú
+mero possível de características em comum. Por exemplo, os zoo
+logos classificam os animais de acordo com as semelhanças es-
+truturais. Por esse método, as baleias pertencem ã mesma cias
+se (mamíferos) como os cavalos, as vacas, os coelhos e os ra-
+tos. 0 leigo estaria mais inclinado a pensar nas baleias como
+pertencentes ã mesma classe dos peixes porque ambos vivem na
+água, mas esta é uma característica mais ou menos isolada
+1	Alguns autores adotam o termo categoria ao invés de classe.
+Neste trabalho, optou-se pelo uso dos termos "classe" e"cias
+sificação".
+2	LANGRIDGE, Derek. Classificação; abordagem para estudantes
+de Biblioteconomia. Rio de Janeiro, Interciência, 1977. p.
+17-8.
+XXI
+baleias e peixes não têm muito em comum.
+0 primeiro tipo de classificaçao é conhecido como natu-
+ral, o segundo como artificial. Para o cientista que procura o
+conhecimento máximo do mundo essa distinção é importante, mas
+para muitas outras aplicações de classificação nao o é. 0 fa-
+zendeiro não está tentando produzir conhecimento, mas alimento.
+Sua principal divisão de animais seria colocar os cavalos e as
+vacas na classe de animais de utilidade e os coelhos e os ratos
+na classe de animais nocivos. O fato dos zoólogos classifica-
+rem todos os quatro como mamíferos não interessa ao fazendeiro.
+De modo semelhante, ele não pensaria em baleias como animais,
+desde que não esperaria vê-las fazendo companhia às suas vacas
+e nem comendo a sua comida. A indústria pesqueira, por outro
+lado, consideraria as baleias como pertencentes ao seu campo ,
+uma vez que "as atividades quanto ao uso das baleias são seme-
+lhantes àquelas dos peixes".1
+No presente trabalho não se teve como propósito classifi-
+car a totalidade do universo dos documentos/objetos criados pe
+lo homem, e sim, aqueles existentes em alguns museus brasilei-
+ros, isto ê, os que colaboraram para este estudo. Mas ainda as
+sim, este Thesaurus não ê um reflexo fiel de seus acervos, por
+dois motivos: nao se tem como garantir a exaustividade da cole
+ta e algumas classes foram acrescidas de termos/nomes de obje-
+tos para melhor caracterizá-las.
+Como anteriormente foi dito, optou-se por organizar os
+termos/nomes de objetos com base em sua função, pressupondo-se,
+de acordo com o pensamento de CHENHALL, que todo objeto feito
+pelo homem foi originariamente criado para cumprir alguma fun
+ção (conhecida ou inferida) e mais, que a função original é o
+unico denominador comum que está presente em todos os artefa-
+tos. E o conceito de função original ê uma parte importante des
+te princípio, pois é o atributo imutável presente em todos os
+objetos e, portanto, é a única característica que pode ser uti
+lizada como fundamento para uma classificação sistematizada ,
+independentemente do 'uso que esses objetos possam vir a ter
+mais tarde.2 Basta aqui lembrar que grande parte dos objetos
+utilitários cumprem, hoje, função decorativa._
+0 esquema classificatõrio consiste de três -níveis básicos
+de terminologia, hierarquicamente relacionados: classes, sub-
+classes e uma lista aberta de termos/nomes de objetos que pode
+ser expandida, de forma controlada, pelos usuários do Thesau-
+rus, embora para algumas classes não tenham sido criadas sub-
+classes.
+As classes são importantes sobretudo como arcabouço de
+referência para se considerar o universo dos objetos coleta-
+dos; as subclasses são subdivisões das classes principais, on
+de os objetos estão reunidos por classes funcionais mais preci
+sas; e, finalmente, os termos/nomes de objetos são palavras
+usadas para identificar objetos específicos, ou melhor, subdi
+1	LANGRIDGE, op. qit., p.16.
+2	CHENHALL, op. cit., p.8.
+XXII
+visões das subclasses.	Exemplo:
+OBJETOS PESSOAIS
+ACESSÓRIO DE INDUMENTÁRIA
+ABOTOADURA
+ADEREÇO DE MÃO
+ALAMAR
+Classe/Gênero
+Subclasse/Espécie
+Tetmos/Nomes de Objetos
+Na maioria das vezes, não houve dificuldade em enquadrar
+determinado termo/nome de objeto em sua respectiva classe fun
+cional, embora, em certas situações, em seguida analisadas,tal
+não ocorresse.
+Alguns objetos cumprem mais de uma finalidade e, nem sem
+pre, a função original é facilmente determinada, o que vale di
+zer que um mesmo termo/nome de Objeto poderia aparecer repeti-
+do no Thesaurus em mais de uma classe.
+Diante dessa realidade, decidiu-se que cada termo/nome de
+objeto pertenceria a apenas uma classe, o que, embora possa pa
+recer arbitrário, visa evitar a dispersão de um mesmo termo/no
+me de objeto em diferentes classes e, ao mesmo tempo, facili-
+tar a classificação e recuperação dos objetos.
+Trata-se, sobretudo, de objetos utilitários criados tam-
+bém para homenagear pessoas e lugares ou para comemorar even-
+tos e, ainda, para fins de propaganda. Nestes casos, priorizou
+se a função utilitária, em detrimento das demais. Assim, um
+cinzeiro que cumpre igualmente a função comemorativa, foi inse
+rido na subclasse ARTIGO DE TABAGISMO, juntamente com os demais
+cinzeiros, e não na subclasse OBJETO COMEMORATIVO.
+Por outro lado, o que fazer com peças de mobiliário, de
+vestuário etc. associadas a determinada ocupação ou atividade?
+Por exemplo: um uniforme de enfermeira poderia ser subordinado
+a trabalho, um vestido, a objetos pessoais, e uma fantasia, a
+lazer. Nestes casos, em vez de dispersá-las pelas diversas sub
+classes correspondentes às atividades para as quais foram cria
+das, optou-se por agrupá-las numa única subclasse. Desta forma,
+na subclasse PEÇA DE INDUMENTÁRIA está subordinada toda espé-
+cie de vestuário, o mesmo ocorrendo com as subclasses PEÇA DE
+MOBILIÁRIO, OBJETO DE ILUMINAÇÃO etc.
+£ importante, ainda, ressaltar que existem nos museus fraç[
+mentos, partes ou acessõrios de objetos não-identificados e
+que, por conseguinte, não podem ter sua função definida. Para
+atender a estes casos, criou-se a classe. AMOSTRAS/ FRAGMENTOS.
+A subclasse MAQUINARIA, por sua vez, foi estabelecida apenas
+como recurso para nela ser inserido equipamento de trabalho me
+cânico ou elétrico que os museus poderão vir a ter no futuro e
+que não se enquadre nas demais subclasses.
+3.4	Classificações Problemáticas1
+Ao lado dos casos de fragmentos de objetos não-identificados es
+i Este capítulo foi desenvolvido a partir de uma versão primei
+ra, elaborada por Maria Helena S. Bianchini.
+XXIII
+tão os de fragmentos, partes ou acessórios de objetos não mais
+existentes em sua integridade ou totalidade, mas que por esta-
+rem identificados podem ter sua função determinada. Ambas , as
+situações, pela complexidade que apresentam, mereceram ser ana
+lisadas, em detalhe, num item ã parte, bem como os casos de ob
+jetos em escala reduzida. Ainda, neste item, faz-se menção ãs
+réplicas e reproduções.
+3.4.1	Fragmentos de Objetos Identificados e Não Identificados
+0 termo "fragmento", de acordo com o Novo Dicionário da Língua
+Portuguesa, de Aurélio Buarque de Holanda Ferreira, apresenta
+tres acepções:
+a)	cada um dos pedaços de uma coisa partida ou quebrada;
+b)	parte de um todo, fração; e
+c)	parte que resta de uma obra literária ou antiga ou de qual-
+quer preciosidade.
+No tratamento técnico de acervos museolõgicos, grandes
+são as dificuldades encontradas na elucidação desse problema,
+uma vez que a maioria dos museus detêm fragmentos de objetos
+que se enquadram em cada um dos conceitos acima descritos e
+que requerem abordagens diversas.
+Acresce-se a existência, nos museus, de fragmentos que ,
+por não serem claramente identificáveis, nao podem ser relacio
+nados, com segurança, a nenhum objeto.
+De acordo com tais considerações, optou-se pelos seguin-
+tes critérios:
+a)	Fragmentos como pedaços de um objeto identificado partido
+ou quebrado.
+Os fragmentos, enquanto pedaços de um objeto identificado par
+tido ou quebrado, são tratados pelos nomes dos objetos de que
+fizeram parte integrante, acompanhados ou não da denominação da
+parte que restou. Assim, um pedaço de telha e a lâmina de uma
+espada devem ser classificados da seguinte forma:
+Exemplo:
+Termo/Nome de Objeto
+TELHA (Fragmento)
+ESPADA (Fragmento); lâmina
+A palavra "fragmento" deve vir entre parênteses indicando
+se, quando necessário, a parte que restou do objeto, precedida
+de ponto e vírgula.
+b)	Fragmentos como parte, fração ou acessório de um todo iden-
+tificado.
+Os fragmentos, enquanto parte de um todo identificado e não
+mais existente, foram considerados como objetos propriamente
+ditos. Assim, um pires isolado foi classificado como pires, o
+mesmo ocorrendo com a bainha de uma espada que, embora sendo
+parte integrante da espada, forma com esta um conjunto, funcio
+nando do mesmo modo que o pires, como acessório:
+Exemplo:
+Termo/Nome de Objeto
+PIRES
+XlCARA
+ESPADA
+BAINHA
+Esta decisão está fundamentada no fato de que tais obje-
+tos se encontram íntegros, inteiros, e portanto são acessórios
+e não pedaços de coisas partidas ou quebradas.
+Por outro lado, existem acessórios que fizeram parte inte
+grante de artefatos e estes foram, também, considerados como
+objetos propriamente ditos:
+Exemplo:
+Termo/Nome de Objeto
+BOTÃO
+RODA DO LEME
+Há raras situações, porém, nas quais parece não haver in-
+teresse em recuperar, especificamente, a parte do todo ou fra-
+ção que restou, como ocorre com as tampas de objetos e, nestes
+casos, seguiu-se o critério do item 'a':
+Exemplo:
+TERRINA (Fragmento); tampa
+A inclusão ou não dos acessórios nas mesmas subclasses a
+que pertenciam os objetos de que fizeram parte, não obedeceu a
+nenhum critério rígido, embora tenham sido inseridos sempre na
+mesma classe. Quando constituíram subclasses ã parte, isto se
+deu sobretudo em decorrência da quantidade de termos/nomes de
+objetos e/ou da especificidade dos mesmos. Deste modo, PIRES ,
+juntamente com XÍCARA, está inserido na subclasse UTENSÍLIO DE
+COZINHA/MESA, e BOTÃO se encontra na subclasse ACESSÓRIO DE IN
+DUMENTÃRIA que, como a subclasse PEÇA DE INDUMENTÁRIA, está su
+bordinada ã classe OtíJETOS PESSOAIS.
+Como se_pôde observar, o problema das partes ou acessórios
+de objetos não mais existentes na sua totalidade se reduz ã se
+guinte regra básica: a entrada, no Thesaurus, somente deve o
+correr quando o objeto de que fizeram parte não mais existir e,
+em assim sendo, devem ser inseridos na mesma subclasse ou cias
+se daquele objeto. Por conseguinte, a buzina de uma bicicleta,
+embora sendo um equipamento de comunicação sonora, deverá es-
+tar subordinada ã subclasse ACESSÓRIO DE TRANSPORTE TERRESTRE.
+c)	Fragmentos como resto de um objeto identificado.
+Os fragmentos, enquanto partes que restam de obras literárias
+ou antigas, ou de quaisquer preciosidades, demonstram, de modo
+geral, o desejo deliberado de preservá-los como lembranças de
+artefatos únicos, insubstituíveis, relacionados a eventos ou
+personagens históricos, manifestações culturais, artísticas
+etc. Estes objetos, em conseqüência de desastres naturais ou
+hão, já não existem a não ser pelo testemunho de seu fragmen-
+XXV
+to, tais como: alça de caixão do Duque de Caxias, tábua do cas
+co da Fragata Niterói e os restos do Balão Pax.
+Nestes casos, aplicou-se, também, o critério do item 'a':
+Exemplo:
+Termo/Nome de Objeto
+CAIXÃO (Fragmento); alça
+FRAGATA (Fragmento); tabua do casco
+BALÃO DIRIGÍVEL (Fragmento) ,- fragmento não identificado
+d)	Fragmentos de objetos não identificados.
+Na impossibilidade de se classificar,1 por função, fragmentos de
+objetos não identificados criou-se, como anteriormente mencio-
+nado, a classe AMOSTRAS/FRAGMENTOS que atende, também, aos mu
+seus que possuem amostras de natureza animal, vegetal ou mine-
+ral .
+Os fragmentos identificáveis que fizeram parte de um todo
+não identificado foram considerados como objetos propriamente
+ditos:
+Exemplo:
+AMOSTRAS/FRAGMENTOS
+CADEADO
+CHAVE
+FIVELA
+PARAFUSO
+PREGO
+Caso não se encontrem íntegros, seguir o critério do item
+'a' :
+Classe
+Termos/Nomes de Objetos
+Exemplo:
+CHAVE (Fragmento)
+Quanto aos pedaços de um objeto partido ou quebrado não
+identificado, isto ê, aqueles fragmentos de tal forma incomple
+tos que nem os materiais nem as formas permitem que se saiba a
+que objeto pertenceram, procedeu-se como abaixo exemplificado,
+embora, nestes casos, o ideal fosse que os museus dessem baixa:
+Exemplo:
+AMOSTRAS/FRAGMENTOS	Classe
+FRAGMENTO	Termo/Nome de Objeto
+Ao termo FRAGMENTO, pode ser acrescentado, opcionalmente
+como qualificador, o material da que ê feito:
+Exemplo:
+FRAGMENTO (Vidro)
+3.4.2	Objetos em Escala Reduzida
+Dos acervos museológicos fazem parte inúmeros objetos, geralmen
+te de pequenas dimensões, criados na forma de artefatos utilita
+XXVI
+rios completos ou incompletos mas que, na maioria das vezes,
+não têm a nfesma função dos objetos reais dos quais são reprodu
+ções em escala reduzida. Tratam-se, sobretudo, dos brinquedos,
+modelos e miniaturas e que como tais devem ser distinguidos 1•
+a)	Brinquedo
+Considerou-se brinquedo os objetos criados para serem usados
+pelas crianças em suas brincadeiras. Muitos deles reproduzem,
+em escala reduzida, objetos reais, como um carrossel, um cami-
+nhão, um trator, um carrinho de bebê. Nestes casos, o termo/no
+me de objeto usado para identificá-los foi BRINQUEDO, seguido
+de termo(s) que o(s) qualifique(m).
+Exemplo:
+Termo/Nome de Obj eto
+BRINQUEDO; Carrossel
+BRINQUEDO; Caminhão
+BRINQUEDO; Trator
+BRINQUEDO; Carrinho de bebê
+Para aqueles, entretanto, que não reproduzem objetos re-
+ais e, conseqüentemente, têm designações próprias, usou-se ter
+mos específicos, subordinados ao termo BRINQUEDO:
+Exemplo:
+BRINQUEDO
+BONECO
+IOlO
+PIÃO
+b)	Modelo/Maquete
+Considerou-se modelos a representação, em escala reduzida ou
+não, de objetos ou construções que se pretende executar em ta
+manho maior ou em quantidade. Dada a semelhança dos termos mo-
+delo e maquete, optou-se pelo primeiro, por_ser o mais abran-
+gente. Os modelos têm, pelo menos, uma função que permite que
+sejam assim classificados:
+Modelo de venda: criado para auxiliar na demonstração do funcio
+namento de um produto;
+Modelo de patente: usado como base para obtenção do registro
+de uma patente;
+Modelo de exposição: construído depois que o objeto representa
+do jã está pronto;
+Modeio de instrução: criado para auxiliar na demonstração, tan
+to de princípios abstratos (Ex.: o funcionamento de um plano
+inclinado) quanto de engrenagens de mecanismos complexos, como
+o de uma arma de fogo; e
+1	A elaboração deste tópico foi baseada em CHENHALL, op. cit.,
+p. 16-7, no que diz respeito aos modelos.
+XXVII
+Modelo de projeto: modelo de um navio, de um edifício, de uma
+moeda, medalha etc., elaborado antes da construção do objeto
+representado, geralmente como base para discussão ou estudo dos
+planos de execução.
+Obs.: Tipos especiais de modelos de projeto podem ser especifi
+cados caso interesse recuperar fases do projeto:
+Exemplo:
+Termo/Nome de Objeto
+MOEDA (Modelo de projeto : prova de cunho)
+CÉDULA (Modelo de projeto: ensaio)
+BUSTO (Modelo de projeto : esboço)
+PINTURA DOCUMENTAL (Modelo de projeto: estudo)
+Nestes cinco primeiros tipos de modelo o termo/nome de ob
+jeto usado para identificá-los deve ser o mesmo usado para o
+objeto de tamanho real, acrescido do termo "modelo" como quali
+ficador.
+Exemplo:
+Termo/Nome de Objeto
+C0MODA (Modelo de venda)
+TOALHA DE BANHO (Modelo de patente)
+FRAGATA (Modelo de projeto)
+FORTE (Modelo de exposição)
+ESPINGARDA (Modelo de instrução)
+Outros tipos de modelo, a seguir descritos, reproduzem fe
+nômenos naturais, e não objetos criados pelo homem:
+Modelo topográfico: reprodução, em escala reduzida, de algum
+segmento do meio ambiente, geralmente um mapa tridimensional
+detalhado; o termo/nome de objeto usado para identificá-lo foi
+MODELO TOPOGRÁFICO; e
+Modelo anatômico: reprodução de uma parte da anatomia humana,
+geralmente usado como material didático; o termo/nome de obje-
+to usado para identificá-lo foi MODELO ANATÔMICO.
+c)	Miniaturas
+Considerou-se miniaturas, por exclusão, os objetos reproduzi-
+dos em escala reduzida que não tinham a função do objeto real
+e que não se enquadravam nos conceitos de brinquedo e de mode
+lo.
+O termo/nome de objeto usado para identificar uma miniatu
+ra deve ser o mesmo usado para o objeto de tamanho real, acres
+cido do termo miniatura, como qualificador.
+Exemplo:
+Termo/Nome de Objeto
+FORCADO (Miniatura)
+VASO (Miniatura)
+CANHÃO (Miniatura)
+XXVIII
+As pinturas e as condecorações, independentemente de seu
+formato, cumprem a mesma função. Por conseguinte, mesmo em pe-
+quenas dimensões, não foram consideradas miniaturas.
+Pode-se depreender que os termos/nomes de objetos deverão
+ser complementados pelos catalogadores,1 com qualificadores
+que melhor os caracterizem, como fragmento, modelo e miniatura.
+3.4.3	Réplicas e Reproduções
+As réplicas e reproduções, como tais, também devem ser distin-
+guidas na classificaçao, acrescentando-se ao termo/nome de ob
+jeto o respectivo qualificador. Aqui estão incluídas as molda
+gens que se referem, geralmente, a reproduções de esculturas ,
+relevos, moedas, medalhas e selos sigilogrãficos, obtidas atra
+vês da impressão e/ou reprodução, em gesso, do objeto original.
+Exemplo:
+Termo/Nome de Objeto
+PINTURA RELIGIOSA (Réplica)
+MOEDA (Moldagem)
+3.5	Convenções
+Os thesauri, independentemente das áreas a que se apliquem, ado
+tam convenções, algumas delas universais.
+a)	Relações entre termos
+As relações dos termos entre si, isto é, de equivalência, gene
+rica, associativa e partitiva, são objeto das seguintes conven
+ções:
+Relação de equivalência:
+UP(USADO POR) Indicação dos termos não-autorizados.
+USE Indicação do termo autorizado.
+Relação genérica/hierárquica:
+TG(TERMO GENERICO) Conceito imediatamente superior na escala
+gênero-espécie do termo em questão.
+TE(TERMO ESPECIFICO) Conceitos imediatamente inferiores na es
+cala gênero-espécie do termo em questão.
+Relação associativa/partitiva:
+TR(TERMO RELACIONADO) Pertencente a ramo hierárquico diferen-
+te, mas que guarda uma proximidade de significado; ou ainda,
+termo que relaciona um todo a qualquer uma de suas partes.
+b)	Nota de aplicação e parênteses
+Alguns termos vêm acompanhados de dois outros tipos de indica-
+1	Nas atividades do catalogador estão incluídas as de classifi
+cação.
+XXIX
+o
+dores:
+NA(NOTA DE APLICAÇÃO) Delimita o uso do termo no sistema,
+qual pode ser restringido ou ampliado.
+( ) Os parênteses são usados como recurso de delimitação con-
+ceituai. Quando mais de um conceito é expresso pela mesma pala
+vrá adicionou-se, entre parênteses, para distingui-los, um ter
+mo ou expressão que o qualificasse tornando-o preciso. Ou, ain
+da, quando as relações estabelecidas não eram suficientes para
+determinar, claramente, o campo semântico de um dado termo.
+c)	Singular x Plural
+Para os termos referentes às classes, procurou-se usar a pala-
+vra designativa do coletivo e apenas na falta dessa, se recor-
+reu ao plural (ex.: COMUNICAÇÃO e INSÍGNIAS).
+Quanto aos que designam as subclasses, aparecem sempre no
+singular, o mesmo ocorrendo com os terraos/nomes de objetos,com
+exceção daqueles que sõ são utilizados no plural (ex.:	CASTA-
+NHOLAS, DAMAS etc.).
+d)	Caixa alta x Caixa baixa
+Os termos autorizados1 aparecem em caixa alta enquanto que os
+não-autorizados se apresentam em caixa baixa.
+e)	Número de chamada das Classes
+Embora o número de chamada seja uma convenção, por seu estrei
+to vínculo com a estrutura do Thesaurus, será tratado no item
+seguinte referente ã organização.
+3.6	Organização
+0 Thesaurus para acervos museolõgicos, compreendendo aproxima-
+damentè 2.560 termos autorizados e nao-autorizados, está orga-
+nizado de forma a permitir duplo acesso ao seu conteúdo. Para
+tahto-, o arranjo dos termos se dã de duas formas: em ordem sis
+temática, no primeiro volume, e em ordem alfabética,no segundo
+volume, possibilitando, respectivamente, consultas em grau maior
+de generalidade ou especificidade. Do primeiro volume consta,
+ainda, o "Plano Geral de Classificação" que objetiva dar uma
+visão global do esquema classificatorio, que compreende 16 cias
+ses e 60 subclasses, acompanhadas sempre de números de chamada.
+Estes são números de classificação a serem adotados ou não pe
+los museus, que cumprem, também, a finalidade de facilitar aos
+usuários do Thesaurus a localização imediata dos termos da se-
+ção alfabética, na seção sistemática, como adiante será exem-
+plificado.
+3.6.1	Ordem Sistemática
+1 Aqueles cujo uso ê autorizado pelo Thesaurus.
+XXX
+A ordenação sistemática, contendo apenas os termos autoriza-
+dos, evidencia os níveis hierarquicamente relacionados da ter
+minologia, isto é, as relações entre termos.que são gênero/es-
+pécie, através da disposição dos mesmos em diferentes linhas e
+graus.
+Exemplo:
+01 CAÇA/GUERRA	(Gênero) (Classe)
+01.1	ARMA	(Espêcie/Gênero)	(Subclasse)
+ARMA BRANCA
+ARMA BRANCA DE CHOQUE
+ESPADA
+BASTARDA
+CLAYMORE
+ESCLAVONIA
+Este arranjo possibilita pesquisar conjuntos de termos/no
+mes de objetos que compõem uma mesma classe, sendo os termos
+ordenados alfabeticamente, palavra por palavra, quando num mes
+mo nível hierárquico. A ordenação das classes, no entanto, não
+segue o mesmo arranjo alfabético, por três fatores:
+a)	a classificação sofreu, ao longo do trabalho, inúmeras modi
+ficações, bem como as denominações das classes, acarretando, a
+nível interno do Museu Histórico Nacional, a cada nova altera-
+ção na ordem alfabética, mudanças nos números de chamada das
+classes e respectivas subclasses, o que interferia no processa
+mento técnico do acervo;
+b)	em ordem alfabética, a primeira classe a ser listada seria
+AMOSTRAS/FRAGMENTOS, estabelecida justamente no final -deste
+trabalho, apenas como recurso para nela serem inseridos termos
+relativos a amostras e fragmentos ou acessórios de objetos não
+identificados;
+c)	a ausência da ordem alfabética, nas classes, não prejudica
+a consulta, uma vez que todos ostermos do Thesaurus aparecem
+alfabeticamente ordenados na seçao correspondente.
+Na falta de uma ordenação alfabética por que, então, não
+dar às classes um arranjo hierárquico? A falta de embasamento
+teórico não permitiu que se enveredasse por esse caminho, filo
+sófico, e o proposto por CHENHALL1 não está suficientemente
+explicitado e fundamentado.
+3.6.2	Ordem Alfabética
+A ordenação alfabética consiste de um índice dos termos autori
+zados e não-autorizados, alfabetados palavra por palavra, onde
+as relações dos termos entre si, sejam elas de equivalência,
+genérica, associativa ou partitiva, se fazem presentes, de acor
+do com as convenções anteriormente mencionadas.
+l CHENHALL, op. cit., p.21.
+Este arranjo alfabético ê que permite ao usuário locali-
+zar um determinado termo/nome de objeto que deseje, especial-
+mente, classificar ou recuperar.
+Os termos autorizados aparecem seguidos sempre do número
+da classe ou subclasse a que pertencem, entre parênteses. Isto
+facilita ao usuário que tenha buscado uma informação específi-
+ca partir para pesquisas em maior grau de generalidade na ordem
+sistemática, sempre que assim o quiser.
+Exemplos:
+Termo Autorizado
+j Endereço na Ordem Sistemática
+COPO (05.6)-^
+Not'a de Aplicação---fjA
+Usar somente quando não tiver pé.
+Termo Genérico-TG UTENSÍLIO DE COZINHA/MESA
+Termos Específicos----TE
+Termos Relacionados----TR
+cAlice
+CÁLICE (Missa)
+COPO DE CERVEJA
+(09.3)-]
+Endereço
+CANECA	na	Ordem	Sistemática
+DESCANSO DE COPO
+PORTA-COPOS
+Termo AutQxizado
+j	Endereço	na Ordem Sistemática
+BENGALA (12.6)-J
+Termo Genérico---TG OBJETO DE AUXlLIO/CONFORTO PESSOAIS
+Termos Específicos---TE BENGALA (Insígnia) (08)-
+CARABINA-BENGALA (01.2)-
+Termos Relacionados ■ TR BENGALEIRO	,, .
+Endereços
+MULETA	na ordem	Sistemática
+Termo Autorizado
+Qualificador de Delimitação Conceituai
+j	Endereço	na	Ordem	Sistemática
+CAlice (Missa) (09.3)-I
+Termos Genéricos----TG	COPO
+OBJETO DE CULTO —
+Termos Relacionados----TR	CORPORAL	DA MISSA
+PALA
+(Embora sendo um copo,
+nap é um utensílio de
+co2inha/mesa)
+XXXII
+Termo Autorizado
+Endereço na Ordem Sistemática
+l
+FACISTOL (05.5)
+UP Estante de coro --------Termo Não-Autorizado
+Termo Geneíico--- TG ESTANTE
+Os termos não-autorizados aparecem em caixa baixa, acompa
+nhados da referência USE que os remete ao termo autorizado.
+Exemplo:
+Estante de coro------Termo Não-Autorizado
+USE FACISTOL
+4	INSTRUÇÕES PARA CONSULTA
+0 Thesaurus para acervos museológicos, ao apresentar um siste
+ma de classificação e de designação de documentos/objetos pro
+duzidos pelo homem e sob a guarda de_museus, atende basicamen-
+te a duas finalidades: a classificação de acervos museológicos
+e a recuperação de documentos/objetos dentro desses acervos.
+Neste sentido, o Thesaurus é um instrumento utilizado tanto
+por catalogadoresi quanto por usuários de uma maneira geral e
+o que determina as diferentes consultas é o grau de generalida
+de ou de especificidade da busca.
+As instruções para consulta/uso requerem a leitura dos ca
+pítulos anteriores, para melhor compreensão do Thesaurus, po-
+rém, levando-se em conta que o catalogador devera ser, constan
+temente, uma ponte entre o acervo e o usuário.
+4.1	Consulta do Thesaurus para Classificação (Especificidade)
+O manuseio do Thesaurus pressupõe uma etapa preliminar, consti^
+tulda de:
+. identificação do objeto e atribuição de um nome ao mes
+mo;
+. determinação da função principal do objeto.
+Em seguida, frente a determinado objeto,, o catalogador ve
+rificarã a existência do termo/nome de objeto na Ordem Alfabé-
+tica (volume 2), quando então se defrontará com dois tipos de
+situação: o termo/nome de objeto consta ou não do Thesaurus. Ê
+importante ressaltar que, catalogando fragmentos, partes ou a
+cessórios de objetos, bem como brinquedos, miniaturas e mode-
+los/maquetes, devem ser observados os procedimentos estabeleci
+dos no item "Classificações Problemáticas”, antes de ser cônsul
+tada a terminologia.
+1 Nas_atividades do catalogador estão incluídas as de classifi
+cação.
+XXXIII
+4.1.1	Existência do Termo/Nome de Objeto no Thesaurus
+Neste caso, o catalogador deverá seguir os seguintes passos:
+a)	sendo termo autorizado:
+. analisar as relações estabelecidas, de forma a identifi
+car em que campo semântico o termo/nome de objeto foi inserido",
+para determinar em que acepção foi utilizado;
+. verificar qual o nível de especificidade do termo/ nome
+de objeto, isto é, suas relações gênero/espécie e optar, sempre
+que possível, pelo termo/nome de objeto mais específico.
+Exemplo:
+BALA (01.4)
+TG PROJÉTIL
+TE BALA DE FESTIM
+BALA ENCADEADA
+BALA RASA
+PALANQUETA'
+TR BALIM
+Neste exemplo fica claro que o termo/nome de objeto é um
+termo autorizado, subordinado a PROJÉTIL e inserido na classe
+MUNIÇÃO E ACESSÓRIO (01.4).
+Constatada a presença de termos específicos como BALA RA-
+SA e BALA ENCADEADA, dos quais um se aplica ao objeto que está
+sendo catalogado, BALA, classificá-lo pelo termo mais específi
+co. Caso isto não ocorra, duas alternativas são possíveis: ado
+tar o termo BALA ou expandir a lista de termos/nomes de obje-
+tos de forma controlada, através de uma comissão encarregada
+de perceber a relevância do novo termo, inserindo-o ou não no
+sistema.
+b)	sendo termo não-autorizado
+Exemplo:
+Folhinha
+USE CALENDÁRIO
+. verificar qual o termo autorizado;
+. localizar o termo autorizado na ordem alfabética;
+CALENDÁRIO
+UP Folhinha
+TG DOCUMENTO
+TR AGENDA
+. proceder como no exemplo anterior.
+4.1.2	Nao Existência do Termo/Nome de Objeto no Thesaurus
+A não existência, no Thesaurus, do termo/nome de objeto que se
+xxxiv
+está classificando, decorre de dois fatos e implica em dois ti.
+pos de procedimento:
+a)	o termo/nome de objeto não foi realmente previsto e, portan
+to, não está inserido no Thesaurus; incluí-lo, por conseguinte,
+nas ordens alfabética e sistemática, obedecendo ã metodologia
+estabelecida e cuidando, sobretudo, de subordiná-lo ã subclas-
+se adequada; e
+b)	o termo/nome de objeto foi previsto, encontra-se no Thesau-
+rus, mas designado por um sinônimo ou termo equivalente; in-
+cluir, portanto, o sinônimo, na ordem alfabética, como termo
+não-autorizado.
+Imagine-se, hipoteticamente, que ao se classificar um ob
+jeto identificado como hissope (instrumento com que se asperge
+a água benta), pertencente ã subclasse OBJETO DE CULTO, o mes-
+mo não constasse, do Thesaurus. O catalogador deverá levantar
+os possíveis sinônimos que possam ter entrado na terminologia,
+recorrendo se necessário a dicionários ou à subclasse funcio-
+nal ã qual pertence o objeto. E, uma vez constatada a presença
+do termo/nome de objeto ASPERSÕRIO, que é sinônimo, introduzir
+o termo não-autorizado "hissope”, como abaixo exemplificado:
+Exemplo:
+ASPERSÕRIO
+UP Hissope
+Hissope
+USE ASPERSÕRIO
+Desta forma, todos os sinônimos de termos autorizados que
+não tenham sido previstos, caso procurados com freqüência, de-
+verão passar a integrar o Thesaurus como termos não-autoriza-
+dos, evitando-se que o caminho de busca acima apontado seja no
+vamente percorrido.
+4.2	Consulta do Thesaurus para Recuperação
+As consultas ao Thesaurus, para fins de recuperação de informa
+ção sobre acervos museolõgicos, podem se dar de duas maneiras,
+de acordo com o grau de especificidade ou generalidade da bus-
+ca.
+4.2.1	Recuperação de Termos/Nomes de Objetos Específicos (Es-
+pecificidade)
+Se o usuário deseja recuperar determinado objeto, ele deverá
+proceder da mesma forma que o usuãrio-catalogador, isto ê, con
+sultar diretamente a ordem alfabética do Thesaurus (volume 2),
+conforme descrito no item anterior.
+XXXV
+4.2.2	Recuperação de Conjuntos de Termos/Nomes de Objetos (Ge
+neralidade)
+Se, ao invés de objetos específicos, o usuário quiser recupe-
+rar conjuntos de objetos que tenham características funcionais
+comuns, sua busca deverá se concentrar mais na ordem sistemãti
+ca (volume 1),_nas classes e/ou subclasses de seu interesse.
+Quando estas não lhe forem familiares, o "Plano Geral de Clas-
+sificação", no início do primeiro volume, dará ao usuário uma
+visão geral da estrutura do Thesaurus. Entretanto a ordem alfa
+bética deverá ser sempre utilizada como instrumento complemen-
+tar.
+Passos a serem seguidos:
+. identificar, no "Plano Geral de Classificação" e/ou na
+ordem sistemática a(s) classe(s) ou subclasse(s) que melhor
+atenda(m) ao assunto da pesquisa;
+. verificar os termos/nomes de objetos a ela(s) subordina
+dos hierarquicamente;
+. ler, atentamente, a nota de aplicação que acompanha as
+classes e/ou subclasses para observar a possível ocorrência de
+termos/nomes de objetos pertinentes ao assunto da pesquisa,
+mas que se encontram em outras classes ou subclasses, às quais
+se deverá recorrer, caso interesse; e, finalmente,
+. consultar a ordem alfabética com o mesmo propósito.
+Por exemplo, em uma pesquisa sobre trabalho:
+a) ordem sistemática
+06 TRABALHO
+NA Objetos usados pelo homem nas suas atividades de
+trabalho. Não se diferenciou trabalho de hobby.
+Exclui mobiliário e indumentária profissionais.
+Ver também COMUNICAÇÃO, EQUIPAMENTO DE SERVIÇOS
+DOMÉSTICOS e MEDIÇÃO/REGISTRO/OBSERVAÇÃO/PROCES-
+SAMENTO.
+06.1	EQUIPAMENTO AGRlCOLA
+NA ...
+ALAMBIQUE
+ANCINHO
+ARADO
+CAPINADEIRA
+CAVADEIRA
+06.2	EQUIPAMENTO DE ARTES DO ESPETÁCULO
+NA ...
+BONECO DE TEATRO
+CÂMERA DE FILMAR
+XXXVI
+b) ordem alfabética
+TRABALHO (06)
+NA ...
+TE EQUIPAMENTO AGRlCOLA
+TR CARTEIRA DE TRABALHO
+DIPLOMA
+RELÕGIO DE PONTO
+EQUIPAMENTO AGRÍCOLA (06.1)
+NA ...
+TG TRABALHO
+TE ALAMBIQUE
+ANCINHO
+ARADO
+CAPINADEIRA
+CARRO DE BOI (11.6)
+CAVADEIRA
+TR EMBALAGENS/RECIPIENTES
+EQUIPAMENTO DE PECUÁRIA
+Como se pôde observar, a nota de aplicação informa que mo
+biliário e indumentária profissionais foram excluídos. Ora, se
+for do interesse recuperar uniformes, o usuário terá que ir ã
+subclasse PEÇA DE INDUMENTÁRIA. A nota de aplicação, manda ,
+ainda, ver outras subclasses, como EQUIPAMENTO DE SERVIÇOS DO-
+MÉSTICOS, que poderá ser, opciohalmente, analisada. E a cônsul
+ta ã ordem alfabética enriquece a busca, ao informar sobre ter
+mos/nomes de objetos relacionados ao assunto da pesquisa, mas
+hierarquicamente subordinados a outras classes ou subclasses ,
+tais como DIPLOMA e CARRO DE BOI.
+4.2.2.1	Recuperação de Termos/Nomes de Objetos Específicos a
+Partir da Recuperação de Conjuntos
+Aos usuários que, a partir de uma busca de caráter geral, quei-
+ram, em dado momento, se deter no estudo de um termo/nome de
+objeto, é importante lembrar que deverão recorrer ã ordem alfa
+bética para garantir a recuperação de todos os termos/nomes de
+objetos a ele subordinados e que, não necessariamente, perten-
+cem ã mesma subclasse. Assim, um usuário inicialmente interes-
+sado por armas brancas, consultará a subclasse correspondente
+XXXVII
+(ARMA), na ordem sistemática. Ao resolver, entretanto, estudar,
+por exemplo, as espadas, deverá ter em mente que, subordinados
+ã classe ARMA só estão os objetos criados para tal fim. Desta
+forma, ao se reportar ã ordenação alfabética, o usuário verifi
+cará que ao termo ESPADA estão_subordinadas, também, aquelas
+que cumprem outro tipo de função, como a de castigo (ex.: ESPA
+DA DE EXECUÇÃO).
+4.2.2.2	Conjuntos de Termos/Nomes de Objetos que o Thesaurus
+Não Recupera
+Para a recuperação de todos os objetos que cumprem função come
+morativa ou de propaganda, os museus terão que desenvolver me
+canismos próprios, uma vez que só estão subordinados às subclas
+ses OBJETO COMEMORATIVO e MATERIAL DE PROPAGANDA aqueles que
+não possuem nenhuma outra finalidade (ver item 3.3). Assim, re
+capitulando, todos os cinzeiros, independentemente de terem si
+do criados, também, para comemorar, por exemplo, um evento ou
+fazer propaganda de uma firma, estão inseridos na subclasse AR
+TIGO DE TABAGISMO. 0 mesmo se dará com as miniaturas e modelos
+que, como tais, não são recuperados, na medida em que o Thesau
+rus só os considera como qualificadores dos termos/nomes de ob
+jetos em escala real (ver item 3.4).
+Helena Dodd Ferrez
+XXXVIII
+Ordem sistemática
+PLANO GERAL DE CLASSIFICAÇÃO
+01 CAÇA/GUERRA
+NA Objetos usados na caça, tiro ao alvo, guerra ou
+proteção pessoal. Exclui equipamento projetado pa
+ra o transporte de tropas e suprimentos, indumenta
+ria e respectivos acessórios.
+01.1	ACESSÕRIO DA ARMARIA
+NA Objetos usados na conservação, manutenção e fun
+cionamento das armas.
+01.2	ARMA
+NA Inclui, também, as de treinamento.
+01.3	EQUIPAMENTO DE DEFESA
+NA Objetos usados na proteção do corpo do homem e
+do animal, em situações de combate.
+01.4	MUNIÇÃO E ACESSÓRIO
+NA Inclui, também, as de treinamento.
+01.5	PETRECHO DE CAÇA
+NA Exclui armas.
+02	ARTES VISUAIS/CINEMATOGRÃFICA
+NA Objetos criados, geralmente, com fins estéticos ou
+como demonstração de criatividade e que integram
+as artes gráficas, plásticas e cinematográfica. Ex
+clui a fotografia e respectivas cópias fotomecãni
+cas. Ver também COMUNICAÇÃO, EQUIPAMENTO DE ARTES
+DO ESPETÁCULO e EQUIPAMENTO DE ARTISTAS/ARTESÃOS.
+02.1	CONSTRUÇÃO ARTÍSTICA
+NA Objetos que não são considerados propriamente
+pinturas e esculturas, para fins de classifica
+ção, mas que se assemelham às mesmas e que apre
+sentam em suas estruturas elementos prê-fabrica
+dos, amostras minerais e vegetais, mecanismos,
+luz, movimento etc.
+02.2	DESENHO
+02.3	ESCULTURA
+02.4	ESTAMPA
+NA Imagens, sobre papel, resultantes das técnicas
+de gravura e/ou impressão.
+3
+02.5	FILME
+02.6	PINTORA
+03	OBJETOS PECUNIÁRIOS
+NA Objetos relativos a dinheiro ou representativos de
+dinheiro, bem como aqueles que servem de instrumen
+to para obtenção de serviços bem definidos (ex.:
+moeda, selo postal, vale etc.).
+04	CONSTRUÇÃO
+NA Construções criadas para atender a qualquer neces
+sidade humana em local relativamente permanente. In
+clui os respectivos fragmentos. Ver também INTERIO
+RES.
+04.1	ABRIGO
+NA Usar apenas quando o abrigo como um todo é cata
+logado. Inclui os frágeis e portáteis (ex.:	ca
+sa, mausoléu, capela, estábulo, casa de cachor
+ro, barraca etc.).
+04.2	EDIFICAÇÃO
+NA Aquelas criadas para servir a alguma necessida
+de humana que não a de abrigo e desassociadas
+de edifícios (ex.: chafariz, ponte etc.).
+04.3	EQUIPAMENTO HIDRÁULICO
+NA Objetos existentes, em geral, dentro de edifí
+cios, conectados de forma mais ou menos perma
+nente ao sistema de água e esgoto, inclui os
+respectivos acessórios. Ver também FRAGMENTO DE
+CONSTRUÇÃO.
+04.4	FRAGMENTO DE CONSTRUÇÃO
+NA Objetos criados para ser parte de uma constru
+ção ou acessórios para seu funcionamento (ex.:
+telha, tijolo, porta, dobradiça etc.). Ver tam
+bém EQUIPAMENTO HIDRÁULICO.
+05	INTERIORES
+NA Objetos usados no interior ou em torno de edifí-
+cios, com o propósito de proporcionar conforto, cui^
+dado e prazer aos seus ocupantes. Ver também CONS
+TRUÇÃO.
+4
+05.1	acessOrio de interiores
+NA Objetos usados dentro ou em torno de um edifício
+com propósitos utilitários relativamente meno
+res, ou então quando não se enquadram nas demais
+subclasses do item 05. Exclui ARTIGO DE TABAGIS
+MO.
+05.2	CONDICIONADOR DE TEMPERATURA
+NA Objetos criados para modificar a temperatura e
+a umidade de um ambiente fechado. Inclui os res
+pectivos acessórios (ex.: ventilador, guarda-
+fogo etc.).
+05.3	EQUIPAMENTO DE SERVIÇOS DOMÉSTICOS
+NA Objetos usados na limpeza de recintos e na lava
+gem de roupa, sejam esses serviços realizados
+em edifícios públicos ou privados. Ver também
+TRABALHO.
+05.4	OBJETO DE ILUMINAÇÃO
+NA Inclui os respectivos acessórios e instalações
+especializadas, tais como iluminação de rua, de
+jardim e aparelhos de iluminação teatral.
+05.5	PEÇA DE MOBILIÁRIO
+NA Inclui todo tipo de mobiliário.
+05.6	UTENSÍLIO DE COZINHA/MESA
+NA Objetos usados no preparo, guarda, serviço ou
+consumo de alimentos e bebidas. Inclui, também,
+aparelhos (ex.: fogão, geladeira etc.).
+06	TRABALHO
+NA Objetos usados pelo homem nas suas atividades de
+trabalho. Não se diferenciou trabalho de hobby. Ex
+clui mobiliário e indumentária profissionais. Ver
+também COMUNICAÇÃO, EQUIPAMENTO DE SERVIÇOS DOMÉS
+TICOS e MEDIÇÃO/REGISTRO/OBSERVAÇÃO/PROCESSAMENTO.
+06.1	EQUIPAMENTO AGRlCOLA
+NA Objetos usados no cultivo do solo com culturas
+permanentes ou temporárias, inclusive hortaliças
+e flores. Inclui, ainda, o equipamento utilizado
+na produção de alimentos e bebidas, jardinagem, ex
+traçao vegetal, silvicultura e reflorestamento.
+06.2	EQUIPAMENTO DE ARTES DO ESPETÁCULO
+NA Objetos usados durante a realização de espetãcu
+los teatrais, de dança, ópera, circo e de filma
+gens. Exclui indumentária, adornos, mobiliário
+e objetos de iluminação. Ver também ARTES VISU
+AIS/CINEMATOGRÂFICA e EQUIPAMENTO DE ARTISTAS/
+ARTESÃOS.
+5
+06.3	EQUIPAMENTO DE ARTISTAS/ARTESÃOS
+NA Ver também ARTES VISUAIS/CINEMATOGRÂFICA, EQUI
+PAMENTO DE ARTES DO ESPETÃCULO, EQUIPAMENTO DE
+FIAÇÃO/TECELAGEM e INSTRUMENTO MUSICAL.
+06.4	EQUIPAMENTO DE ATIVIDADES COMERCIAIS
+NA Objetos usados na venda de mercadorias e servi
+ços. Ver também MATERIAL DE PROPAGANDA.
+06.5	EQUIPAMENTO DE FIAÇÃO/TECELAGEM
+NA Objetos usados no fabrico de fios, linhas ou
+cordas, ou na manufatura de tecidos ou de obje
+tos de fibras naturais e sintéticas. Inclui os
+instrumentos utilizados na costura e cestaria.
+Ver também EQUIPAMENTO DE ARTISTAS/ARTESÃOS.
+06.6	EQUIPAMENTO DE MINERAÇÃO
+NA Objetos usados na extração mineral, seja ela sub
+terrânea ou de superfície. Inclui, também, equi
+pamento de prospecçao.
+06.7	EQUIPAMENTO DE PECUÁRIA
+NA Objetos usados na criação, recriação, engorda e
+domesticação de animais, bem como os utilizados
+na transformação e beneficiamento de produtos
+animais.
+06.8	EQUIPAMENTO DE USO GERAL
+NA Objetos usados em diversas atividades profissio
+nais. Inclui, também, os utilizados na constru
+ção civil.
+06.9	EQUIPAMENTO MÉDICO
+NA Objetos usados no exame, teste, diagnóstico e
+tratamento do ser humano e de animais. Inclui o
+equipamento de dentistas e farmacêuticos, bem
+como o utilizado pela medicina popular.
+06.10	INSTRUMENTO MUSICAL
+NA Objetos usados na produção de música e respecti
+vos acessórios. Ver também EQUIPAMENTO DE ARTIS
+TAS/ARTESÃOS e EQUIPAMENTO DE COMUNICAÇÃO SONO
+RA/VISUAL.
+06.11	MAQUINARIA
+NA Equipamento de trabalho mecânico ou eletrônico
+que não se enquadra nas demais subclasses do
+item 06.
+06.12	PETRECHO DE PESCA
+NA Objetos usados na captura de peixes, crustáceos
+e moluscos. Exclui embarcações e armas.
+6
+07	LAZER/DESPORTO
+NA Objetos criados para servir de brinquedo ou serem
+usados em jogos, sorteios, atividades esportivas
+etc. Exclui indumentária e mobiliário.
+08	INSÍGNIAS
+NA Objetos usados como sinais distintivos, individuais
+ou coletivos, de função, dignidade, posto, comando,
+poder, nobreza, nação etc. Inclui os respectivos
+acessórios e exclui mobiliário e indumentária. Ver
+também OBJETOS CERIMONIAIS.
+09	OBJETOS CERIMONIAIS
+NA Objetos usados em cerimônias e/ou rituais conduzi
+dos de forma sistemática e geralmente prescrita,se
+jam eles civis, religiosos ou militares. Exclui
+instrumentos musicais, mobiliário e indumentária.
+Ver também INSÍGNIAS.
+09.1	OBJETO CERIMONIAL DE INSTITUIÇÕES
+NA Objetos usados em cerimônias promovidas por ins
+tituições, públicas ou privadas, civis ou mili
+tares.
+09.2	OBJETO COMEMORATIVO
+NA Objetos cuja função principal ê homenagear pes
+soas e lugares, ou comemorar eventos, e que, ge
+ralmente, não cumprem função utilitária. Obje
+tos com função utilitária definida, mas que con
+têm decoraçao de caráter comemorativo, serão in
+cluídos nas respectivas classes (ex.: vaso come
+morativo pertence à subclasse ACESSÓRIO DE INTE
+RIORES).
+09.3	OBJETO DE CULTO
+NA Objetos usados em cerimônias de culto e rituais
+de diversas religiões. Ver também OBJETO DE de
+VOÇÃO PESSOAL.
+09.4	OBJETO FUNERÁRIO
+NA Objetos relativos aos mortos e às cerimônias fú
+nebres. Inclui os respectivos acessórios.
+1Q COMUNICAÇÃO
+NA Objetos usados para transmitir informações aos se
+res humanos. Ver também ARTES VISUAIS/CINEMATOGRÁ-
+FICA, MEDIÇÃO/REGISTRO/OBSERVAÇÃO/PROCESSAMENTO e
+TRABALHO.
+10.1	DOCUMENTO
+NA Alguns museus não possuem setores de bibliote-
+ca e arquivo. Assim, seus livros, periódicos ,
+documentos de arquivo etc. não recebem o trata
+mento técnico biblioteconômipo ou arquivístico
+condizentes. Ê para esses museus, sobretudo ,
+que se abriu esta subclasse, que reúne documen
+tos textuais e cartográficos, bem como os ico
+nogrãficós excluídos da classe ARTES VISUAIS 7
+CINEMATOGRÁFICA. Exclui MATERIAL DE PROPAGAN-
+DA. Ver também EQUIPAMENTO DE COMUNICAÇÃO SONO
+RA/VISUAL.
+10.2	EQUIPAMENTO DE COMUNICAÇÃO ESCRITA
+NA Objetos usados na escrita, autenticação, guarda
+e transporte de documentos textuais, e respecti.
+vos acessórios, inclusive os de leitura. Exclui
+mobiliário.
+10.3	EQUIPAMENTO DE COMUNICAÇÃO SONORA/VISUAL
+NA Objetos usados para ampliar, registrar, reprodu
+zir e armazenar sons significativos para a comu
+nicação humana. Inclui ainda os utilizados como
+sinal visual ou sinalizadores, projetores e vi
+sores de imagens, modelos anatômicos e topográ-
+ficos, globos terrestres e material didático que
+não se inclua nas demais subclasses do item 10.
+Ver também DOCUMENTO, EQUIPAMENTO DE TELECOMUNI
+CAÇÃO e INSTRUMENTO MUSICAL.
+10.4	EQUIPAMENTO DE TELECOMUNICAÇÃO
+NA Objetos que facilitem a comunicação à distância,
+geralmente, por meio de equipamento eletrônico.
+Ver também EQUIPAMENTO DE COMUNICAÇÃO SONORA/VI
+SUAL.
+10.5	MATERIAL DE PROPAGANDA
+NA Objetos cuja principal função é a propaganda.Os
+que cumprem outras funções bem definidas, mas
+cuja decoração ê de caráter propagandlstico, se
+rio incluídos nas respectivas classes (ex.: cin
+zeiro com o nome de um restaurante pertence ã
+subclasse ARTIGO DE TABAGISMO). Ver também EQUI
+PAMENTO DE ATIVIDADES COMERCIAIS.
+11	TRANSPORTE
+NA Artefatos que servem como veículo para transporte
+de passageiros ou carga. Inclui seus respectivos
+acessórios.
+11.1	acessOrio de transporte aéreo
+NA Exclui equipamento de comunicação e instrumen
+8
+tos de precisão/õpticos.
+11.2	acessOrio de TRANSPORTE MARlTIMO
+NA Exclui equipamento de comunicação e instrumen
+tos de precisão/õpticos.
+11.3	acessOrio de transporte terrestre
+NA Exclui equipamento de comunicação e, instrumen
+tos de precisão/õpticos.
+11.4	TRANSPORTE AÉREO
+11.5	TRANSPORTE MARlTIMO
+NA Inclui os fluviais. Acrescentar aos descrito-
+res, quando necessário, os termos vela, motor
+ou misto (vapor/motor e vela) entre parênteses
+(ex.: Fragata (Vela), Fragata (Motor), Fragata
+(Mista).
+11.6	TRANSPORTE TERRESTRE
+12	OBJETOS PESSOAIS
+NA Objetos criados para servir às necessidades pes
+soais dos indivíduos, tais como proteção e higiene
+do corpo, adorno, crença etc.
+12.1	ACESSÓRIO DE INDUMENTÁRIA
+NA Objetos usados para suster e/ou fixar peças de
+vestuário ou penteados, mesmo quando fragmentos
+adereços de mão e cabeleiras que complementem
+trajes. Ver também OBJETO DE ADORNO.
+12.2	ARTIGO DE TABAGISMO
+NA Objetos relacionados ao hábito de fumar, . aspi
+rar ou mascar tabaco, outras ervas e drogas.
+12.3	ARTIGO DE TOALETE
+NA Objetos relacionados .à higiene e estética pes
+soais e aos atos de vestir e calçar.
+12.4	ARTIGO DE VIAGEM/CAMPANHA
+NA Exclui mobiliário. Ver também OBJETO DE AUXÍLIO
+/CONFORTO PESSOAIS.
+12.5	OBJETO DE ADORNO
+NA Inclui os respectivos acessórios. Ver também
+acessOrio de indumentAria.
+12.6	OBJETO DE AUXÍLIO/CONFORTO PESSOAIS
+NA Objetos criados para suprir deficiências físi-
+cas dos seres humanos e/ou para lhes dar maior
+comodidade, e que nao se incluem nas demais sub
+9
+classes do item 12. Inclui os respectivos aces-
+sórios. Ver também ARTIGO DE VIAGEM/CAMPANHA.
+12.7	OBJETO DE DEVOÇÃO PESSOAL
+NA Objetos usados como símbolos de uma crença, pa
+ra atrair a sorte ou afastar malefícios, que as
+pessoas, geralmente, trazem consigo. Ver também
+OBJETO DE CULTO.
+12.8	PEÇA DE INDUMENTÁRIA
+NA Objetos usados como vestimentas ou calçados por
+seres humanos. Inclui, também, as coberturas de
+cabeça e máscaras que complementem trajes.
+13	CASTIGO/PENITÊNCIA
+NA Objetos usados para infligir penas corporais aos
+seres humanos ou para a autopenitência.
+13.1	INSTRUMENTO DE AUTOPENITÊNCIA
+13.2	INSTRUMENTO DE CASTIGO
+14	MEDIÇÃO/REGISTRO/OBSERVAÇÃO/PROCESSAMENTO
+NA Objetos usados na medição, registro e observação
+de fenômenos, substâncias, propriedades, volume e
+massa, ou ainda para processar dados e ampliar a
+capacidade visual dos seres humanos. Exclui os de
+correção de defeitos visuais, como os óculos, e os
+que registram sons. Inclui os respectivos acesso
+rios. Ver também COMUNICAÇÃO e TRABALHO.
+14.1	INSTRUMENTO DE PRECISÃO/ÕPTICO
+14.2	PROCESSADOR DE DADOS
+NA Objetos usados para processar dados por meios
+manuais, mecânicos ou eletrônicos.
+15	EMBALAGENS/RECIPIENTES
+NA Objetos usados para embalar produtos e mercadorias,
+e recipientes com função não determinada.
+16	AMOSTRAS/FRAGMENTOS
+NA Amostras de natureza animal, vegetal ou mineral,em
+10
+estado bruto ou processadas, desde que não consti
+tuam um objeto propriamente dito. Inclui, também ,
+amostras ou fragmentos de rendas, tecidos, couros,
+cabelos etc., quando não tiverem constituído parte
+de um objeto ou quando este não pôde ser identifi
+cado, e acessórios de artefatos que não puderam
+ser determinados. Os mostruãrios para fins comer
+Ciais pertencem ã subclasse EQUIPAMENTO DE ATIVIDA
+DES COMERCIAIS.
+11
+CAÇA/CUERRA
+NA Objetos usados na caça, tiro ao alvo, guerra ou pro
+teção pessoal. Exclui equipamento projetado para
+o transporte de tropas e suprimentos, indumentária
+e respectivos acessórios.
+01.1	ACESSÓRIO. DA ARMARIA
+NA Objetos usados na conservação, manutenção e fun
+cionamento das armas.
+AGULHETA
+ALMOTOLIA (Arma)
+BAINHA
+BOLDRIE
+CAVILHA DE VARETA
+CHAVE DE PISTÃO
+COBRE-MIRA
+COLDRE
+CORDEL DE LIMPEZA
+DIAMANTE (Arma)
+ESCOVA DE LIMPEZA (Arma)
+ESCOVILHÃO
+ESCOVINHA (Arma)
+ESTOJO (Arma)
+ESTOJO DE ARMA
+ESTOJO DE LIMPEZA (Arma)
+FIADOR DE ARMA
+LANADA
+LAVADOURO
+PALA DE BOLDRIÊ
+POLVORINHO
+PORTA-PANO
+REPARO
+REPARO DE CANHÃO
+REPARO DE METRALHADORA
+SACA-BALAS
+TARUGO
+VARETA
+01.2	ARMA
+NA Inclui, também, as de treinamento.
+13
+CAÇA/GUERRA/ARMA
+NA Inclui, também, as de treinamento.
+ARMA BRANCA
+ARMA BRANCA DE ARREMESSO
+ARPÃO
+ARMA BRANCA DE CHOQUE
+ADAGA
+ESTILETE
+MISERICÓRDIA
+PEIXEIRA^
+BAIONETA
+ESPADA-BAIONETA
+SABRE-BAIONETA
+SABRE-BAIONETA IATAGÃ
+ESPADA
+BASTARDA
+CLAYMORE
+ESCLAVÕNIA
+ESPADA DE INSTRUÇÃO
+ESTOQUE
+FLAMBÊRGIA
+FLORETE
+GLÂDIO
+RAPIEIRA
+FACA (Arma)
+FACA DE CAÇA
+FACÃO
+MACHADO DE GUERRA
+ACHA
+MACHADINHA (Arma)
+MACHADINHA DE ABORDAGEM
+MACHADO DE SAPADOR
+SABRE
+IATAGÃ
+SABRE DE ABORDAGEM
+SABRE DE INSTRUÇÃO
+TERÇADO
+ARMA BRANCA DE HASTE
+ALABARDA
+ARCHA
+PARTAZANA
+14
+CAÇA/GUE RRA/ARMA
+PARTAZANA
+FOICE DE GUERRA
+LANÇA
+AZAGAIA
+PIQUE
+CHUÇO DE ABORDAGEM
+ESPONTÃO
+TRIDENTE
+ARMA DE ARREMESSO
+ARCO
+ATIRADEIRA
+BESTA
+BODOQUE
+FUNDA
+ZARABATANA
+ARMA DE CHOQUE
+CLAVA
+BORDUNA
+IVIRAPEMA
+MAÇA
+TACAPE
+MARTELO DE GUERRA
+PORRETE
+CASSETETE
+ARMA DE FOGO
+ARMA DE FOGO PORTÁTIL
+ARCABUZ
+BACAMARTE
+CARABINA
+CARABINA-BENGALA
+CARABINA-REVÓLVER
+CLAVINA
+ESPINGARDA
+ESPINGARDÃO
+METRALHADORA PORTÁTIL
+FUZIL-METRALHADORA
+METRALHADORA LEVE
+SUBMETRALHADORA
+MOSQUETÃO
+MOSQUETE
+PISTOLA
+15
+PISTOLA
+REVÓLVER
+CARABINA-REVÓLVER
+MÁQUINA DE GUERRA
+BAZUCA
+CANHÃO
+COLUBRINA
+CARONADA
+METRALHADORA (Máquina)
+METRALHADORA ANTIAÉREA
+METRALHADORA PESADA
+MORTEIRO
+OBUSEIRO
+011 3 EQUIPAMENTO DE DEFESA
+NA Objetos usados na proteção do corpo do homem e
+do animal, em situações de combate.
+ARMADURA
+CAPACETE
+CAPACETE DE ARMADURA
+BACINETE
+BORGONHESA
+CELADA
+ELMO
+MORRIÃO
+CAPACETE DE COMBATE
+COTA DE MALHA'
+COURAÇA
+COURAÇA FRONTAL
+ESCARCELA
+ESCUDO
+BROQUEL
+ESPALDEIRA
+GORJAL
+GREVA
+MANOPLA
+TESTEIRA
+01.4	MUNIÇÃO E ACESSÓRIO
+16
+CAÇA/GUERRA/MUNIÇÃO E ACESSÓRIO
+01.4	MUNIÇÃO E ACESSÓRIO
+NA Inclui, também, as de treinamento.
+ACESSÓRIO DE MUNIÇÃO
+ALJAVA
+BALIM
+CARREGADOR DE CARTUCHO
+CARTUCHEIRA
+CARTUCHO
+CHUMBEIRO
+CUNHETE DE MUNIÇÃO
+ESPOLETA
+ESTOPIM
+ESPOLETEIRA
+EXPLOSIVO
+pOlvora
+FORMA DE BALIM
+PENTE DE MUNIÇÃO
+SlLEX
+TACO
+TALABARTE
+MUNIÇÃO
+ESTREPE
+MINA
+MINA AQUÁTICA
+MINA TERRESTRE
+PROjfiTIL
+BALA
+BALA DE FESTIM
+BALA ENCADEADA
+BALA RASA
+PALANQUETA
+BOMBA
+CACHO DE UVA
+DARDO
+FLECHA
+FOGUETE
+FOGUETE DE ILUMINAÇÃO
+GRANADA
+GRANADA DE ILUMINAÇÃO
+GRANADA DE MÃO
+17
+GRANADA DE MÃO
+GRANADA DE TRINCHEIRA
+GRANADA FUMlGENA
+LANTERNETA
+PIRÂMIDE
+SETA
+•SHRAPNEL
+TORPEDO
+TUBO DE GÂS VENENOSO
+01.5	PETRECHO DE CAÇA
+NA Exclui armas.
+ALÇAPÃO
+ARAPUCA
+PIO DE CAÇA
+RATOEIRA
+VARA DE VISGO
+18
+ARTES VISUAIS/CINEMATOGRÁFICA
+02	ARTES VISUAIS/CINEMATOGRÃFICA
+NA Objetos criados, geralmente, com fins estéticos ou
+como demonstração de criatividade e que integram
+as artes gráficas, plásticas e cinematográfica. Ex
+clui a fotografia e respectivas cópias fotomecâni
+cas. Ver também COMUNICAÇÃO, EQUIPAMENTO DE ARTES
+DO ESPETÁCULO e EQUIPAMENTO DE ARTISTAS/ARTESÃOS.
+02.1	CONSTRUÇÃO ARTÍSTICA
+NA Objetos que não são considerados propriamente
+pinturas e esculturas, para fins de classifica
+ção, mas que se assemelham às mesmas e que apre
+sentam em suas estruturas elementos pré-fabrica
+dos, amostras minerais e vegetais, mecanismos ,
+luz, movimento etc.
+CONSTRUÇÃO ESCULTORICA
+MÕBILE
+ESTÃBILE
+CONSTRUÇÃO PICTÓRICA
+COLAGEM
+MONTAGEM
+FOTOMONTAGEM
+02.2	DESENHO
+DESENHO ABSTRATO
+DESENHO ALEGÓRICO
+DESENHO ANATÔMICO
+DESENHO CARICATURAL
+DESENHO DE GÊNERO
+DESENHO DOCUMENTAL
+DESENHO HISTÓRICO
+DESENHO MITOLÓGICO
+DESENHO RELIGIOSO
+FIGURA HUMANA (Desenho)
+NU (Desenho)
+MARINHA (Desenho)
+NATUREZA-MORTA (Desenho)
+PAISAGEM (Desenho)
+RETRATO (desenho)
+19
+02.3	ESCULTURA
+BUSTO
+HERMA
+CABEÇA
+ESCULTURA ABSTRATA
+ESCULTURA RELIGIOSA
+ANJO
+APOSTOLO
+CRISTO
+CRUCIFIXO
+MENINO JESUS
+DIVINDADE
+GRUPO ESCULTÕRICO RELIGIOSO
+NOSSA SENHORA
+PEÇA DE GRUPO ESCULTÕRICO RELIGIOSO
+PROFETA
+RELEVO RELIGIOSO
+SANTA
+SANTA DE ROCA
+SANTO
+SANTO DE ROCA
+ESTATUA
+ESTATUA ALEGÕRICA
+ESTATUETA ALEGÕRICA
+ESTATUETA
+ESTATUETA ALEGÕRICA
+ESTATUETA ANIMALISTA
+ESTATUETA CARICATURAL
+ESTATUETA DE GÊNERO
+ESTATUETA MITOLÕGICA
+GRUPO ESCULTÕRICO
+GRUPO ESCULTÕRICO ALEGÕRICO
+GRUPO ESCULTÕRICO DE GÊNERO
+GRUPO ESCULTÕRICO MITOLÕGICO
+GRUPO ESCULTÕRICO RELIGIOSO
+MÃO
+mAscara
+mAscara mortuAria
+PEÇA DE GRUPO ESCULTÕRICO
+PEÇA DE GRUPO ESCULTÕRICO RELIGIOSO
+RELEVO
+20
+ARTES VISUAIS/CINEMATOGRÃFICA/ESCULTURA
+RELEVO
+FIGURA HUMANA (Relevo)
+MARINHA (Relevo)
+NATUREZA-MORTA (Relevo)
+PAISAGEM (Relevo)
+RELEVO ALEGÓRICO
+RELEVO DE GÊNERO
+RELEVO DOCUMENTAL
+RELEVO HISTÓRICO
+RELEVO MITOLÓGICO
+RELEVO RELIGIOSO
+RETRATO (Relevo)
+TORSO
+02.4	ESTAMPA
+NA Imagens, sobre papel, resultantes das técnicas
+de gravura e/ou impressão.
+ESTAMPA ABSTRATA
+ESTAMPA ALEGÓRICA
+ESTAMPA CARICATURAL
+ESTAMPA DE GÊNERO
+ESTAMPA DOCUMENTAL
+ESTAMPA HISTÓRICA
+ESTAMPA MITOLÓGICA
+ESTAMPA RELIGIOSA
+FIGURA HUMANA (Estampa)
+NU (Estampa)
+MARINHA (Estampa)
+NATUREZA-MORTA (Estampa)
+PAISAGEM (Estampa)
+RETRATO (Estampa)
+02.5	FILME
+FILME DE FICÇÃO
+FILME DE NÃO FICÇÃO
+02.6	PINTURA
+21
+ARTES VISUAIS/ClNEMATOGRAFICA/PINTURA
+02.6	PINTURA
+FIGURA HUMANA (Pintura)
+NU (Pintura)
+MARINHA (Pintura)
+NATUREZA-MORTA (Pintura)
+PAISAGEM (Pintura)
+PINTURA ABSTRATA
+PINTURA ALEGÓRICA
+PINTURA CARICATURAL
+PINTURA DE GÊNERO
+PINTURA DOCUMENTAL
+PINTURA HISTÓRICA
+PINTURA MITOLÓGICA
+PINTURA RELIGIOSA
+RETRATO (Pintura)
+22
+OBJETOS PECUNIÁRIOS
+03	OBJETOS PECUNIÁRIOS
+NA Objetos relativos a dinheiro ou representativos de
+dinheiro, bem como aqueles que servem de i.nstrumen
+to para obtenção de serviços bem definidos (ex. :
+moeda, selo postal, vale etc.).
+BARRA
+BARRA. DE CASA DE FUNDIÇÃO
+CÉDULA
+DOCUMENTO DE CÂMBIO
+CONTRATO DE CÂMBIO
+LETRA CAMBIAL
+TRAVELLER CHECK
+DOCUMENTO DE COMÉRCIO
+APÕLICE DE SEGURO
+BÔNUS COMERCIAL
+CAUTELA DE PENHOR
+CÉDULA HIPOTECARIA
+CÉDULA HIPOTECARIA RURAL
+CERTIFICADO DE DEPOSITO BANCÁRIO
+CONHECIMENTO
+CONHECIMENTO DE DEPOSITO
+CONHECIMENTO DE FRETE
+DUPLICATA
+DUPLICATA RURAL
+FATURA
+LETRA DE CÂMBIO
+LETRA IMOBILIÁRIA
+NOTA FISCAL
+NOTA PROMISSÓRIA
+NOTA PROMISSÓRIA RURAL
+RECIBO DE DEPOSITO BANCARIO
+TITULO DE CAPITALIZAÇÃO
+tItulo de crédito rural
+bOnus rural
+CÉDULA HIPOTECARIA RURAL
+CÉDULA PIGNORATlCIA RURAL
+DUPLICATA RURAL
+NOTA DE CRÉDITO RURAL
+NOTA PROMISSÓRIA RURAL
+WARRANT
+23
+CÉDULA PIGNORATlCIA RURAL
+OBJETOS PECUNIÁRIOS
+CÉDULA PIGNORATlCIA RURAL
+DOCUMENTO DE PAGAMENTO
+CARTÃO DE CRÉDITO
+CHEQUE
+TALÃO DE CHEQUE
+VALE
+VALE MONETIFORME
+MOEDA PARTICULAR
+DOCUMENTO DE SOCIEDADES POR AÇÕES
+AÇÃO
+DEBÊNTURE
+DOCUMENTO POSTAL
+BLOCO DE SELOS
+PRECURSOR
+QUADRA DE SELOS
+SELO POSTAL
+VALE POSTAL
+DOCUMENTO PÚBLICO
+DOCUMENTO DE ARRECADAÇÃO
+ESTAMPILHA
+SELO DE CONTROLE
+DOCUMENTO DE CAPTAÇÃO DE RECURSOS
+APÕLICE DA DÍVIDA PÚBLICA
+BONUS DE EMERGÊNCIA
+BONUS DE GUERRA
+LETRA DO TESOURO
+OBRIGAÇÃO DO REAPARELHAMENTO ECONÔMICO
+OBRIGAÇÃO DO TESOURO
+OBRIGAÇÃO REAJUSTÂVEL DO TESOURO
+MOEDA
+MOEDA DE NECESSIDADE
+24
+CONSTRUÇÃO
+04	CONSTRUÇÃO
+NA Construções criadas para atender a qualquer neces
+sidade humana em local relativamente permanente.
+Inclui os respectivos fragmentos. Ver também INTE
+RIORES.
+04.1	ABRIGO
+NA Usar apenas quando o abrigo como um todo é cata
+logado. Inclui os frágeis e portáteis (ex.:	ca
+sa, mausoléu, capela, estábulo, casa de cachor
+ro, barraca etc .).
+CAPELA
+04.2	EDIFICAÇÃO
+NA Aquelas criadas para servir a alguma necessida
+de humana que não a de abrigo e desassociadas
+de edifícios (ex.: chafariz, ponte etc.).
+CHAFARIZ
+PELOURINHO
+04.3	EQUIPAMENTO HIDRÁULICO
+NA Objetos existentes, em geral, dentro de edifí
+cios, conectados de forma mais ou menos perma-
+nente ao sistema de água e esgoto. Inclui os
+respectivos acessórios. Ver também FRAGMENTO DE
+CONSTRUÇÃO.
+AQUECEDOR DE AGUA
+BANHEIRA
+BICA
+TORNEIRA
+BIDÊ
+BOMBA-D'ÂGUA
+CANO
+MANILHA
+CHUVEIRO
+PIA
+LAVABO DE SACRISTIA
+PIA DE BANHEIRO
+PIA DE COZINHA
+REGISTRO D^GUA
+TANQUE (Roupa)
+25
+CONSTRUÇÃO/EQUIPAMENTO HIDRÁULICO
+TANQUE (Roupa)
+VASO SANITÁRIO
+04.4	FRAGMENTO DE CONSTRUÇÃO
+NA Objetos criados para ser parte de uma constru-
+ção ou acessórios para seu funcionamento (ex. :
+telha, tijolo, porta, dobradiça etc.). Ver tam
+bém EQUIPAMENTO HIDRÁULICO.
+ALDRAVA
+ALTAR
+ARCO (Construção)
+ARMADOR DE REDE
+ATLANTE
+AZULEJO
+BALAUSTRADA
+BALAOSTRE
+BANDEIRA DE JANELA/PORTA
+CAIXA DE LUZ
+CAPELA (Fragmento)
+CAPITEL
+CARIÁTIDE
+CARTELA
+CHAVE DE PORTA
+COLUNA
+COROAMENTO
+CORUCHÊU
+DEGRAU
+DOBRADIÇA
+DORMENTE
+ESFERA ARMILAR (Ornato)
+ESPELHO DE FECHADURA
+FECHADURA
+FLORÃO
+FRISO
+FRONTAL
+GRADE
+JANELA
+MAÇANETA
+MlSULA
+NICHO
+26
+CONSTRUÇÃO/FRAGMENTO DE CONSTRUÇÃO
+NICHO
+PIA RITUAL
+PIA BATISMAL
+PIA DE AGUA BENTA
+PINHA
+PLINTO
+PORTA
+PORTÃO
+PORTAL
+PRENDEDOR DE CORTINA
+pOlpito
+PUXADOR DE PORTA/JANELA
+RETÁBULO
+ROTULA
+SACADA
+SANEFA
+TÃBUA DE ASSOALHO
+TALHA (Ornato)
+TELHA
+TIJOLO
+TRANCA
+TRANQUETA
+FERROLHO
+TRINCO
+TRILHO DE TREM
+VIDRAÇA
+VITRAL
+27
+05	INTERIORES
+NA Objeteis usados no interior ou em torno de edifí
+cios, com o propósito de proporcionar conforto,
+cuidado e prazer aos seus ocupantes. Ver também
+CONSTRUÇÃO.
+05.1 ACESSÓRIO DE INTERIORES
+NA Objetos usados dentro ou em torno de um edifí-
+cio com propósitos utilitários relativamente me
+nores, ou então quando não se enquadram nas de
+mais subclasses do item 05. Exclui ARTIGO DE TA
+BAGISMO.
+ACESSÓRIO DE LEITO
+COBERTOR
+MANTA
+COLCHA
+COLCHÃO
+ESTRADO
+FRONHA
+LENÇOL
+TRAVESSEIRO
+ALMOFADA
+APLIQUE
+AROMATIZADOR
+ARRANJO FLORAL
+COROA DE FLORES
+BENGALEIRO
+BIBLIOCANTO
+BRAÇADEIRA
+CABIDE
+CABIDE DE PAREDE
+CACHEPÓ
+CAPA DE ALMOFADA
+CENTRO DE MESA
+CESTA DE LIXO
+COFRE PORTÃTIL
+MEALHEIRO
+CORTINA
+REPOSTEIRO
+DOSSEL
+ESCARRADEIRA
+ESPELHO DE PAREDE
+28
+interiores/acessOrio de interiores
+ESPELHO DE PAREDE
+ESTEIRA
+JARDINEIRA
+LIMPA-PÉS
+MOLDURA
+PAINEL DECORATIVO
+PANO
+PANO DE MOVEL
+PANO DE MESA
+CAMINHO DE MESA
+PEANHA
+PORTA-RELÕGIO
+PORTA-RETRATO
+PRATO DECORATIVO
+PUXADOR DE CORTINA
+REDE
+REDOMA
+SANEFA (Cortina)
+SUPORTE DE VASO
+TAPEÇARIA
+TAPETE
+VASO
+FLOREIRA
+JARRA
+JARRÃO
+POTICHE
+VASO DE PLANTA
+05.2 CONDICIONADOR DE TEMPERATURA
+NA Objetos criados para modificar a temperatura e
+a umidade de um ambiente fechado. Inclui os res
+pectivos acessórios (ex.: ventilador, guarda-fo
+go etc.).
+APARELHO DE CALEFAÇÃO
+BRASEIRO
+ESTUFA
+AR-CONDICIONADO
+ATIÇADOR
+CÃO (Lareira)
+CONJUNTO DE LAREIRA
+29
+CONJUNTO DE LAREIRA
+DESUMIDIFICADOR
+FOLE
+GUARDA-FOGO
+PA (Lareira)
+TENAZ (Lareira)
+VASSOURA (Lareira)
+VENTILADOR
+05.3	EQUIPAMENTO DE SERVIÇOS DOMfiSTICOS
+NA Objetos usados na limpeza de recintos e na lava
+gem de roupa, sejam esses serviços realizados
+em edifícios públicos ou privados. Ver também
+TRABALHO.
+ASPIRADOR DE PO
+BACIA
+BALDE
+ENCERADEIRA
+ESCOVA DE LIMPEZA
+ESCOVAO
+ESPANADOR
+ESPONJA DE LIMPEZA
+FERRO DE PASSAR
+LATA DE LIXO
+PA DE LIXO
+PANO DE LIMPEZA
+PANO DE CHAO
+PANO DE PO
+RODO
+tAbua DE PASSAR
+TINA (Roupa)
+VASSOURA
+05.4	OBJETO DE ILUMINAÇÃO
+NA Inclui os respectivos acessórios e_ instalações
+especializadas, tais como iluminação de rua, de
+jardim e aparelhos de iluminação teatral.
+ACESSÓRIO DE LUMINÁRIA
+ABAJUR
+aracapA
+30
+INTERIORES/OBJETO DE ILUMINAÇÃO
+aracapA
+ARANDELA
+BICO DE GAS
+PLACA DE LUMINÁRIA
+BANDEJA DE ESPEVITADEIRA
+BOBECHE
+ESPEVITADEIRA
+GLOBO (Luz)
+MANGA
+DONZELA
+luminAria
+CANDEEIRO
+CANDEIA
+CASTIÇAL
+CANDELABRO
+PALMATÓRIA (Luz)
+TOCHEIRO
+FIFÔ
+LAMPARINA
+LAMPIÃO
+LAMPIÃO DE JARDIM
+'	LAMPIÃO	DE RUA
+LANTERNA
+LANTERNA DE PILHA
+luminAria de mesa
+luminAria de pfi
+LUSTRE
+TOCHA
+VELA
+05.5	PEÇA DE MOBILIÁRIO
+NA Inclui todo tipo de mobiliário.
+ALTAR PORTÁTIL
+ARCA
+ARQUIBANCO
+BAO
+CANASTRA
+armArio
+armArio BAIXO
+31
+INTERIORES/PEÇA DE MOBILIÁRIO
+armário baixo
+APARADOR
+ARMÁRIO DE CANTO
+ARMÁRIO DE SACRISTIA
+BIBLIOTECA
+PAPELEIRA-BIBLIOTECA
+CRISTALEIRA
+GUARDA-COMIDA
+GUARDA-LOUÇA
+GUARDA-ROUPA
+MEDALHEIRO
+ORATÓRIO
+ORATÓRIO DE CANTO
+ORATÓRIO PORTÁTIL
+VITRINA-ARMÁRIO
+MAQÜINETA
+ARQUIVO
+BANCO
+ARQUIBANCO
+BANCO DE ÁTRIO
+BANCO DE CONVÉS
+BANCO DE IGREJA
+BANCO DE JARDIM
+BANCO DE PIANO
+BANCO DE VAGÃO
+ESCABELO (Pés)
+TAMBORETE
+TAMBORETE DE BRAÇOS
+BIOMBO
+CABIDE (Móvel)
+CABIDE DE PÉ
+CABIDE DE TERNO
+CADEIRA
+CADEIRA DE BALANÇO
+CADEIRA DE BARBEAR
+CADEIRA DE BRAÇOS
+CADEIRA DE CAMAROTE
+CADEIRA DE CAMPANHA
+CADEIRA DE CANTO
+CADEIRA DE COSTURA
+CADEIRA DE SECRETÁRIA
+32
+INTERIORES/PEÇA DE MOBILIÁRIO
+CADEIRA DE SECRETÁRIA
+CADEIRA-ESCADA
+CADEIRA FURADA
+CONVERSADEIRA
+ESCABELO
+ESPREGUIÇADEIRA
+FALDISTÕRIO
+CADEIRAL
+CAIXA DE ESMOLAS
+CAMISEIRO
+CARRINHO DE CHÂ
+COFRE
+C0MODA
+ARCAZ
+CÔMODA-PAPELEIRA
+meia-cOmoda
+CONFESSIONÁRIO
+ESCADA (Móvel)
+CADEIRA-ESCADA
+ESCADA DE BIBLIOTECA
+ESPELHO BASCULANTE
+ESPELHO-TOUCADOR
+PSICHÊ
+ESTANTE
+CANTONEIRA
+ESTANTE DE LIVROS
+ESTANTE DE MÚSICA
+FACISTOL
+GENUFLEXORIO
+JARDINEIRA (Móvel)
+LEITO
+BERÇO
+CATRE
+LEITO DE CAMPANHA
+LEITO DE CASAL
+LEITO DE SOLTEIRO
+LEITO DE VIÜVO
+PREGUICEIRO
+MARQUESA
+RÊCAMIER
+33
+sofA-cama
+INTERIORES/PEÇA DE MOBILIÁRIO
+SOFÁ-CAMA
+MESA
+BANCA
+BANCA DE OURIVES
+BANCA DE SELEIRO
+CREDÊNCIA
+LAVATflRIO
+MESA DE APOIO
+MESA-DE-CABECEIRA
+MESA DE CAMPANHA
+MESA DE CENTRO
+MESA DE CHÁ
+MESA DE COSTURA
+MESA DE COZINHA
+MESA DE ENCOSTAR
+CONSOLE
+MESA DE JOGO
+MESA DE REFEIÇÃO
+MESA DE REUNIÃO
+MESA DE TOALETE
+PENTEADEIRA
+MESA PORTÁTIL
+MESA-SECRETÁRIA
+PAPELEIRA
+C0MODA-PAPELEIRA
+CONTADOR
+ESCRITÓRIO
+PAPELEIRA-BIBLIOTECA
+SECRETÁRIA
+PEDESTAL
+POLTRONA
+PORTA-TOALHAS (Móvel)
+QUARTINHEIRA
+SACRÁRIO
+SOFÁ
+CANAPÊ
+MfiRIDIENNE
+SOFÃ-CAMA
+SUPORTE DE BACIA
+TREMÕ
+TRONO
+34
+INTERIORES/PEÇA DE MOBILIÁRIO
+TRONO
+VITRINA
+VITRINA-ARMARIO
+MAQUINETA
+VITRINA-MESA
+05.6	UTENSÍLIO DE COZINHA/MESA
+NA objetos usados no preparo, guarda, serviço _ou
+consumo de alimentos e bebidas. Inclui, também,
+aparelhos (ex.: fogão, geladeira etc.).
+ABAFADOR DE BULE
+ABANO
+ABRIDOR DE GARRAFAS
+AÇUCAREIRO
+ALGUIDAR
+APARELHO IGNlGENO
+ARGOLA DE GUARDANAPO
+ASSADEIRA
+FORMA DE BOLO
+AZEITONEIRA
+BALDE DE GELO
+BALDE DE GELAR GARRAFA
+BANDEJA
+SALVA
+BATEDOR (Cozinha/mesa)
+BATEDOR DE MANTEIGA
+BATEDOR DE OVOS
+BILHA
+BISCOITEIRA
+BOIÃO
+BOMBA DE MATE
+BOMBONEIRA
+BULE
+BULE DE ÃGUA
+BULE DE AGUA (Samovar)
+BULE DE CAFfi
+BULE DE CHA
+CHOCOLATEIRA
+CABAÇA D'ÃGUA
+35
+CAFETEIRA
+INTERIORES/UTENSÍLIO DE COZINHA/MESA
+CAFETEIRA
+CAIXA (Cozinha/mesa)
+CAIXA DE CHÃ
+CAIXA DE CONFEITOS
+CAIXA DE PÃO
+CAMPAINHA DE MESA
+CANECA
+CANECA DE CERVEJA
+CANECA DE VINHO
+CANECÃO
+cAntaro
+CESTA DE PÃO
+CHAPA DE FOGÃO
+CHURRASQUEIRA
+COADOR (Cozinha/mesa)
+COADOR DE CAFfi
+COCO
+COLHER DE PAU
+COMPOTEIRA
+COPO
+CÁLICE
+COPO DE CERVEJA
+COPO DE CONHAQUE
+COPO DE PÊ
+flOtb
+TAÇA DE CHAMPANHA
+COPO DE UlSQUE
+COPO DE APANHAR ÂGUA
+COPO DE OVO
+COQUETELEIRA
+CREMEIRA
+CUIA (Cozinha/mesa.)
+CUIA DE MATE
+CUSCUZEIRO
+DESCANSO
+DESCANSO DE COPO
+DESCANSO DE GARRAFA
+DESCANSO DE PRATO
+DESCANSO DE TALHER
+DESCANSO DE TRAVESSA
+ESCORREDOR (Cozinha/mesa)
+36
+INTERIORES/UTENSÍLIO DE COZINHA/MESA
+ESCORREDOR (Cozinha/mesa)
+ESCORREDOR DE ARROZ
+ESCORREDOR DE MACARRÃO
+ESCORREDOR DE PRATOS
+ESCUMADEIRA
+ESPETO DE CHURRASCO
+ESPREMEDOR DE FRUTAS
+ESTEIRA DE EXPRESSÃO
+ESTOJO DE TALHERES
+FACÃO (Cozinha/mesa)
+FARINHEIRA
+FILTRO D'ÃGUA
+FOGÃO
+FOGAREIRO
+ESPIRITEIRA
+FORNO DE ASSAR
+FRUTEIRA
+GALHETA
+GALHETEIRO
+GAMELA
+GARRAFA DE SERVIR BEBIDAS
+GONGO DE MESA
+GRELHA
+GUARDANAPO
+JARRO
+LAVANDA
+LEITEIRA
+LICOREIRO
+LIMPADOR DE MESA
+MAMADEIRA
+MANTEIGUEIRA
+MÃO DE PILÃO
+MARCADOR DE LUGAR
+MOEDOR (Cozinha/mesa)
+MOEDOR DE CAFÉ
+MOEDOR DE CARNE
+MOEDOR DE PIMENTA
+MOLHEIRA
+MORINGA
+PÂ (Cozinha/mesa)
+PÃ DE BEIJU
+37
+INTERIORES/UTENSlLIO DE COZINHA/MESA
+PA DE BEIJU
+PA DE BIFE
+pA de bolo
+PALITEIRO
+PANELA
+CALDEIRÃO
+CHALEIRA
+FRIGIDEIRA
+PANELEIRO
+PANO DE BANDEJA
+PENEIRA (Cozinha/mesa)
+PILÃO
+PIMENTEIRA
+PINÇA (Cozinha/mesa)
+PINÇÍ DE AÇOCAR
+PINÇA DE BOLO
+PINÇA DE GELO
+PIRES
+PONCHEIRA
+PORRÃO
+PORTA-COPOS
+PORTA-CREMEIRAS
+PORTA-CÜIA DE MATE
+PORTA-GUARDANAPOS
+PORTA-LATA DE AZEITE
+PORTA-MENU
+PORTA-MORINGA
+PORTA-OVOS
+POTE (Cozinha/mesa)
+PRATO
+PRATO COM BASE
+PRATO DE BOLO
+PRATO DE SOBREMESA
+PRATO DE DOCE
+PRATO FUNDO
+PRATO RASO
+PÜCARO
+QUARTA
+QUARTINHA
+QUEBRA-NOZES
+QUEIJEIRA
+38
+INTERIORES/UTENSlLIO DE COZINHA/MESA
+QUEIJEIRA
+RALADOR (Cozinha/ mesa)
+RASPADOR DE COCO
+RfiCHAUD
+RECIPIENTE DE MANTIMENTO
+ROLO DE PASTEL
+SACA-ROLHAS
+SALEIRO
+SAMOVAR
+SOQUETE (Cozinha/ínesa)
+SOQUETE DE ALHO
+SOQUETE DE CARANGUEJO
+SOQUETE DE CARNE
+SOQUETE DE FEIJÃO
+SORVETEIRA
+TÃBUA (Cozinha/mesa)
+TÁBUA DE CARNE
+TÃBUA DE PÃO
+TAÇA
+TAÇA DE CHÃ
+TAÇA DE CHAMPANHA
+TAÇA DE CONSOMÊ
+TAÇA DE SOBREMESA
+TACHO (Cozinha/mesa)
+TALHA
+TALHER
+COLHER
+COLHER DE AÇÚCAR
+COLHER DE CAFÊ
+COLHER DE CHÃ
+COLHER DE PAU
+COLHER DE SERVIR
+COLHER DE SOBREMESA
+COLHER DE SORVETE
+COLHER DE SOPA
+CONCHA (Talher)
+CONCHA DE MOLHO
+FACA
+FACA DE CARNEAR
+FACA DE PÃO
+FACA DE PEIXE
+39
+INTERIORES/UTENSTLIO DE COZINHA/MESA
+FACA DE PEIXE
+FACA DE SOBREMESA
+FACA DE DOCE
+FACA TRINCHANTE
+FACÃO (Cozinha/fnesa)
+GARFO
+GARFO DE PEIXE
+GARFO DE SOBREMESA^
+GARFO DE DOCE
+GARFO TRINCHANTE
+TALHER DE SALADA
+TERRINA
+TESOURA (Cozinha/mesa)
+TESOURA DE CORTAR FRUTAS
+TESOURA DE TRINCHAR
+TIGELA
+TIGELA DE PINGO
+TOALHA DE MESA
+TOALHA DE CHÃ
+TRAVESSA
+TRAVESSA COM TAMPA
+TRAVESSA DE PEIXE
+TRIPÉ (Cozinha/mesa)
+TREMPE
+TRITURADOR DE GELO
+XlCARA
+XlCARA DE CAFÉ
+XlCARA DE CHÃ
+XlCARA DE CONSOMÊ
+40
+TRABALHO
+06	TRABALHO
+NA Objetos usados pelo homem nas suas atividades de
+trabalho. Não se diferenciou trabalho de hobby. Ex
+clui mobiliário e indumentária profissionais. Ver
+também COMUNICAÇÃO, EQUIPAMENTO DE SERVIÇOS DOMÊS
+TICOS e MEDIÇÃO/REGISTRO/OBSERVAÇÃO/PROCESSAMENTO.
+06.1 EQUIPAMENTO AGRlCOLA
+NA Objetos usados no cultivo do solo com culturas
+permanentes ou temporárias, inclusive hortaliças
+e flores. Inclui, ainda, o equipamento utilizado
+na produção de alimentos e bebidas, jardinagem,
+extração vegetal, silvicultura e reflorestamento.
+ALAMBIQUE
+ANCINHO
+ARADO
+CAPINADEIRA
+CAVADEIRA
+CEIFEIRA
+COCHO (Farinha)
+DEBULHADORA
+DESCASCADOR
+DESNATADEIRA
+DESCAROÇADOR
+FOICE
+ALFANJE
+FORCADO
+GRADE (Agricultura)
+MACHADO
+MACHADINHA
+MOENDA
+MOENDA DE CANA
+PÃ (Farinha)
+PAU DE CAVAR
+POMBA (Açúcar)
+PRENSA DE MANDIOCA
+TIPITI
+TIPITI DE TORÇÃO
+PULVERIZADOR
+RALADOR DE MANDIOCA
+REGADOR
+RODO (Farinha)
+41
+RODO (Farinha)
+SEMEADEIRA
+TACHO (Agricultura)
+TACHO (Açúcar)
+TACHO (Farinha1
+TESOURA DE JARDINAGEM
+PODÃO
+TESOURA DE GRAMA
+TESOURA DE PODAR
+VASSOURA (Farinha)
+06.2 EQUIPAMENTO DE ARTES DO ESPETÁCULO
+NA Objetos usados durante a realização de espetãcu
+los teatrais, de dança, ópera, circo e de filma
+gens. Exclui indumentária, adornos, mobiliário
+e objetos de iluminação. Ver também ARTES VISU
+AIS/CINEMATOGRÁFICA e EQUIPAMENTO DE ARTISTAS7
+ARTESÃOS.
+BONECO DE TEATRO
+BONECO DE VENTRÍLOQUO
+FANTOCHE
+MARIONETE
+CÂMERA DE FILMAR
+CENÁRIO
+EQUIPAMENTO DE MÁGICO
+FIGURA DE SOMBRA
+06.3	EQUIPAMENTO DE ARTISTAS/ARTESÃOS
+NA Ver também ARTES VISUAIS/CINEMATOGRÁFICA, EQUI
+PAMENTO DE ARTES DO ESPETÁCULO, EQUIPAMENTO DE
+FIAÇÃO/TECELAGEM e INSTRUMENTO MUSICAL.
+BATUTA
+BIGORNA
+BONECA (Gravura)
+BURIL
+CADINHO
+CANETA (Cerâmica)
+CAVALETE (Pintura)
+CHAPA (Moeda)
+CINZEL
+42
+TRABALHO/EQUIPAMENTO DE ARTISTAS/ARTESÃOS
+CINZEL
+CUNHO
+CUNHO DE MEDALHA
+CUNHO DE MOEDA
+DISCO DE CUNHAGEM
+DISCO DE MEDALHA
+DISCO MONETÁRIO
+ENXÕ
+ESMERIL
+ESPÁTULA
+FACA (Recorte)
+FOLE DE FORJA
+FORJA
+FORMÃO
+GODÊ
+GOIVA
+LIMA
+GROSA
+MACETE
+MÁQUINA FOTOGRÁFICA
+MATRIZ (Gravura)
+MOLDE
+FORMA DE BARRA
+FÔRMA DE CALÇADO
+FÔRMA DE HÓSTIA
+FÔRMA DE VELA
+FÔRMA DE VIOLA
+MOLDE DE ESCULTURA
+MOLDE DE JÔIA
+MOLDE DE MEDALHA
+MOLDE DE MOEDA
+RILHEIRA
+PALETA
+PINCEL
+PLAINA
+PRENSA (Cunhagera/irapressão)
+PRENSA DE CUNHAR
+PRENSA DE-CUNHAR BARRAS
+PRENSA DE CUNHAR MOEDAS
+PRENSA DE IMPRESSÃO
+PRELO MANUAL
+43
+TRABALHO/EQUIPAMENTO DE ARTISTAS/ARTESÃOS
+PRELO MANUAL
+PUNÇSO
+SOVE LA
+TENAZ
+TORNO
+06.4	EQUIPAMENTO DE ATIVIDADES COMERCIAIS
+NA Objetos usados na venda de mercadorias e servi
+ços. Ver também MATERIAL DE PROPAGANDA.
+APANHADOR DE CEREAIS
+INSTRUMENTO DE ENSAIADOR
+JETON
+MANEQUIM
+MÁQUINA REGISTRADORA
+MOSTRUARIO
+PRENSA DE TINTUREIRO
+06.5	EQUIPAMENTO DE FIAÇÃO/TECELAGEM
+NA Objetos usados no fabrico de fios, linhas ou
+cordas, ou na manufatura de tecidos ou de obje
+tos de fibras naturais e sintéticas. Inclui os
+instrumentos utilizados na costura e cestaria.
+Ver também EQUIPAMENTO DE ARTISTAS/ARTESÃOS.
+AGULHA
+AGULHA	DE	COSTURA
+AGULHA	DE	CROCHÊ
+AGULHA	DE	FILÊ
+AGULHA	DE	REDE DE PESCA
+AGULHA	DE	TRICO
+AGULHEIRO		
+ALFINETE
+ALFINETEIRA
+ALMOFADA DE BILROS
+ARCO (Fiação)
+BASTIDOR
+BASTIDOR DE FILÊ
+BILRO
+BOLA DE CERZIR
+CAIXA DE COSTURA
+CARDA
+TRABALHO/EQUIPAMENTO DE I^IAÇÃO/TECELAGEM
+CARDA
+CARRETEL
+DEDAL
+DOBADOURA
+ESPINHO DE MANDACARU
+ESTOJO DE COSTURA
+FLECHA (Fiação)
+FUSO
+LANÇADEIRA
+LIÇA
+MÁQUINA DE COSTURA
+PENTE DE TEAR
+REPASSO
+ROCA
+TEAR
+URDIDEIRA
+06.6	EQUIPAMENTO DE MINERAÇÃO
+NA Objetos usados na extração mineral, seja ela sub
+terrânea ou de superfície. Inclui, também, equi
+pamento de prospecção.
+ALMOCAFRE
+BATEIA
+CALUMBÊ
+PICUÃ
+TANQUE (Mineração)
+06.7	EQUIPAMENTO DE PECUÃRIA
+NA Objetos usados na criação, recriação, engorda
+e domesticação de animais, bem como os utiliza
+dos na transformação e beneficiamento de produ
+tos animais.
+AS SINALADEIRA
+AZIAR
+BALDE DE ORDENHA
+BANCO DE ORDENHA
+BARBILHO
+BERRANTE
+BOLEADEIRAS
+CACHIMBO (Gado)
+45
+TRABALHO/EQUIPAMENTO DE PECUARIA
+CACHIMBO (Gado)
+CASTRADOR
+CINCERRO
+COCHO
+COLEIRA DE ANIMAL
+DESCORNADOR
+DESPONTADOR
+ESTICADOR DE CERCA
+GAIOLA
+LAÇO DE VAQUEIRO
+MANEIA
+MARCADOR DE GADO
+MOCHADOR
+PEIA
+PENTE DE CAVALO
+TALHEIRO
+TARRO
+TESOURA DE TOSQUEAR
+TIRADOR
+06.8	EQUIPAMENTO DE USO GERAL
+NA Objetos usados em diversas atividades profissio
+nais . Inclui, também, os utilizados na constru
+ção civil.
+AFIADOR DE LÂMINAS
+AFIADOR DE FACAS
+ALAVANCA
+PÉ-DE-CABRA
+ALICATE
+TORQUÊS
+ALMOFARIZ
+ALMOTOLIA
+APERTADOR
+CHAVE DE BOCA
+CHAVE INGLESA
+CHAVE DE FENDA
+COLHER DE PEDREIRO
+ENXADA
+ENXADÃO
+ESCADA
+46
+TRABALHO/EQUIPAMENTO DE USO GERAL
+ESCADA
+FUNIL
+MAÇARICO
+MARTELO
+MOITÃO
+PÂ
+PENEIRA
+PICARETA
+PRUMO
+ROLDANA
+CARRETILHA
+SERRA
+SERROTE
+06.9	EQUIPAMENTO MÉDICO
+tlA Objetos usados no exame, teste, diagnóstico e
+tratamento do ser humano e de animais. Inclui o
+equipamento de dentistas e farmacêuticos, bem
+como o utilizado pela medicina popular.
+AGULHA DE SUTURA
+BOTICÃO
+CURETA
+DOSIFICADOR
+ESCARIFICADOR
+ESTOJO DE SERINGA
+GALVANOCAUTÉRIO
+GOTEIRA
+MALETA DE MÉDICO
+PEDRA DE BE ZOAR
+PORTA-MEDICAMENTOS
+POTE DE FARMÁCIA
+RECIPIENTE DE REMÉDIO
+SERINGA
+06.10	INSTRUMENTO MUSICAL
+NA Objetos usados na produção de música,e respecti
+vos acessórios. Ver também EQUIPAMENTO DE ARTIS
+TAS/ARTESÃOS e EQUIPAMENTO DE COMUNICAÇÃO SONO
+RA/VISUAL.
+ACESSÓRIO DE INSTRUMENTO MUSICAL
+47
+TRABALHO/INSTRUMENTO MUSICAL
+ACESSÓRIO DE INSTRUMENTO MUSICAL
+BAQUETA
+INSTRUMENTO DE CORDA
+ALAÜDE
+BANDOLIM
+BANDURRA
+BANJO
+CAVAQUINHO
+Cl TARA
+CONTRABAIXO
+HARPA
+VIOLA
+VIOLA DE GAMBA
+VIOLA SERTANEJA
+VIOLA DE COCHO
+VIOLÃO
+GUITARRA ELÉTRICA
+VIOLINO
+RABECA
+VIOLONCELO
+INSTRUMENTO DE PERCUSSÃO
+ADUFE
+AGOGÔ
+ANGÕIA
+BERIMBAU
+CASTANHOLAS
+CAXIXI
+CUÍCA
+GANZÃ
+GONGO
+MARACÂ (Índio)
+MARACA
+MATRACA
+PANDEIRO
+PREACA
+RECO-RECO
+TAMBOR
+ATABAQUE
+LÊ
+RUM
+RUMPI
+48
+TRABALHO/INSTRUMENTO MUSICAL
+RUMPI
+BOMBO
+CAXAMBU
+ILU
+SURDO
+TAMBORIM
+TAMBU
+TAROL
+TÍMPANO
+TRIÂNGULO
+XILOFONE
+MARIMBA
+INSTRUMENTO DE SOPRO
+BOMBARDINO
+BOMBARDÃO
+BUZINA (Música)
+CLARINETA
+CLARONE
+FAGOTE
+CONTRAFAGOTE
+FLAUTA
+FLAUTIM
+PlFARO
+GAITA DE BOCA
+OBOÉ
+CORNE INGLÊS
+OCARINA
+OFICLIDE
+SAXOFONE
+TROMBONE
+TROMPA
+TROMPETE
+CLARIM
+CORNETA
+TUBA
+INSTRUMENTO DE TECLADO
+ACORDEÃO
+SANFONA
+CELESTA
+CRAVO
+PIANO
+49
+PIANO
+PIANO DE CAUDA
+PIANO VERTICAL
+0RGÃO
+HARMONIO
+ÕRGÃO DE TUBOS
+0RGÃO eletrônico
+INSTRUMENTO MUSICAL ÚECANICO
+ARISTON
+CAIXA DE MÜSICA
+PIANOLA
+REALEJO
+06.11	MAQUINARIA
+NA Equipamento de trabalho mecânico ou eletrônico
+que não se enquadra nas demais subclasses do
+item 06.
+06.12	PETRECHO DE PESCA
+NA Objetos usadòs nã captura de peixes, crustáceos
+e moluscos. Exclui embarcações e armas.
+ANZOL
+BALAIO (Pesca)
+CANECÃO (Pesca)
+COADOR (Pesca)
+COVO
+MATApI
+ESPINHEL
+JIQUI
+MOLINETE DE PESCA
+PARI
+PENEIRA (Pesca)
+PESO DE REDE
+PUÇA
+PUÇA DE CABO
+PUÇA DE ESPERA
+REDE DE PESCA
+REDE DE ARRASTÃO
+REDE DE ESPERA
+50
+TRABALHO/PETRECHO DE PESCA
+REDE DE ESPERA
+TARRAFA
+samburA
+VARA DE PESCA
+VAREJO
+51
+07	LAZER/DESPORTO
+NA Objetos criados para servir de brinquedo ou serem
+usados em jogos, sorteios, atividades esportivas
+etc. Exclui indumentária e mobiliário.
+ACESSÓRIO DE JOGO
+BARALHO
+BOLA
+BOLA DE BILHAR
+BOLA DE GUDE
+CAIXA DE JOGO
+CARTA DE BARALHO
+COPO DE DADOS
+DADO
+FLORETE DE ESGRIMA
+PEÇA DE DAMAS
+PEÇA DE DOMINÓ
+PEÇA DE XADREZ
+PETECA
+, TABULEIRO DE JOGO
+TABULEIRO DE DAMAS
+TABULEIRO DE .XADREZ
+TACO DE BILHAR
+URNA DE SORTEIO
+BRINQUEDO
+BILBOQUÊ
+BONECO
+CALEIDOSCÓPIO
+CATA-VENTO
+CHOCALHO (Brinquedo)
+CORRUPIO
+IOIÓ
+PAPAGAIO
+PIÃO
+CARAPETA
+TELÉGRAFO SEM FIO
+TRAPEZISTA
+ZUMBIDOR
+CARNÊ DE BAILE
+COMPROVANTE DE APOSTA
+BILHETE DE APOSTA
+BILHETE DE JOGO
+52
+LAZER/DESPORTO
+BILHETE DE JOGO
+BILHETE DE LOTERIA
+BILHETE DE RIFA
+JOGO
+DAMAS
+DOMINO
+JOGO DE FUTEBOL
+QUEBRA-CABEÇA
+RAPA-TIRA
+XADREZ
+53
+08	INSÍGNIAS
+NA Objetos usados como sinais distintivos,individuais
+ou coletivos, de função, dignidade, posto,comando,
+poder, nobreza, nação etc. Inclui os respectivos
+acessórios e exclui mobiliário e indumentária.Ver
+também OBJETOS CERIMONIAIS.
+ACESSÓRIO DE INSÍGNIA
+MASTRO DE BANDEIRA
+BANDEIRA
+BANDEIROLA
+ESTANDARTE
+FLÂMULA
+GALHARDETE
+PAVILHÃO
+BRASÃO
+CONDECORAÇÃO
+BANDA
+BARRETA
+BOTÃO (Insígnia)
+COLAR DE GRÃ—CRUZ
+FITA (Insígnia)
+GRÃ-CRUZ
+INSlGNIÃ (Condecoração)
+MEDALHA CONDECORATIVA
+MEDALHA COMEMORATIVA(Condecoração)
+MEDALHA MILITAR
+MEDALHA DE BRAVURA
+MEDALHA DE CAMPANHA
+MEDALHA DE SERVIÇO
+MEDALHA PREMIAL MILITAR
+MEDALHA PREMIAL (Condecoração)
+MINIATURA (Insígnia)
+PASSADOR
+PLACA
+ROSETA
+DISTINTIVO
+ANEL (Insígnia)
+ALIANÇA
+ANEL DE GRAU
+ANEL EPISCOPAL
+ATRIBUTO DE DIVINDADE
+ABEBÊ
+54
+INSÍGNIAS
+ABEBÊ
+ERUQUERÊ
+FERRAMENTA DE OGÜM
+OBÊ
+OFÂ
+OXÊ
+PAXORfl
+xaxarA
+ATRIBUTO DE ESCULTURA RELIGIOSA
+BASTÃO (Insígnia)
+BÂCULO
+BASTÃO DE BALIZA
+BASTÃO DE ESCOTEIRO
+BASTÃO DE MORDOMO
+CETRO DE CONGADA
+CETRO DO DIVINO
+CETRO MAJESTÂTICO
+PAXORÔ
+VARA DE IRMANDADE
+VARA DE JUIZ
+VARA DE VEREADOR
+BENGALA (Insígnia)
+CHAPA DE UNIFORME
+TOPE
+CHAVE (Insígnia)
+CHAVE DE CAMARISTA
+COLAR (Insígnia)
+COLAR DE FARDÃO
+GUIA (Colar)
+LAGUIDIBÂ
+COROA
+COROA DE CONGADA
+COROA DO DIVINO
+COROA MAJESTÂTICA
+ESPADA (Insígnia)
+ESPADIM (Insígnia)
+ESPADIM DE FARDÃO
+ESPADIM MAÇflNICO
+ESPADIM MILITAR
+FACÃO (Insígnia)
+OBÊ
+55
+INSÍGNIAS
+obE
+FAIXA (Insígnia)
+FAIXA MAÇÔNICA
+FAIXA PRESIDENCIAL
+FIADOR
+GALÃO (Insígnia)
+GORJAL (Insígnia)
+LANÇA (Insígnia)
+MACHADO (Insígnia)
+MACHADO DE PORTA-MACHADO
+OXÊ
+MALHETE (Insígnia)
+MALHETE DE JUIZ
+MALHETE MAÇONICO
+PULSEIRA (Insígnia)
+IBO
+idê
+PLATINA
+DRAGONA
+CHARLATEIRA
+TRIDENTE (Insígnia)
+56
+OBJETOS CERIMONIAIS
+09	OBJETOS CERIMONIAIS
+NA Objetos usados era cerimônias e/ou rituais conduzi
+dos de forma sistemática e geralmente prescrita ,
+sejam eles civis, religiosos ou militares. Exclui
+instrumentos musicais, mobiliário e indumentária.
+Ver também INSÍGNIAS.
+09.1	OBJETO CERIMONIAL DE INSTITUIÇÕES
+NA Objetos usados em cerimônias promovidas por ins
+tituições, públicas ou privadas, civis ou mili
+tares.
+URNA CERIMONIAL DE INSTITUIÇÕES
+URNA DE SORTEIO MILITAR
+URNA ELEITORAL
+09.2	OBJETO COMEMORATIVO
+NA Objetos cuja função principal é homenagear pes
+soas e lugares, ou comemorar eventos, e que, ye
+ralmente, não cumprem função utilitária.Objetos
+com função utilitária definida, mas que contêm
+decoraçao de caráter comemorativo, serão incluí
+dos nas respectivas classes (ex.: vaso comemora
+tivo pertence ã subclasse ACESSÓRIO DE INTERIO
+RES) .
+BLOCO COMEMORATIVO
+CHAVE SIMBÓLICA '
+COROA DE LOUROS
+ENVELOPE DE PRIMEIRO DIA DE CIRCULAÇÃO
+EX-VOTO
+FERRAMENTA SIMBÓLICA
+FITA INAUGURAL
+MARCO
+MÃXIMO POSTAL
+MEDALHA
+MEDALHA COMEMORATIVA
+MEDALHA PREMIAL
+MEDALHA DE ROSCA
+MOEDA DE COLEÇÃO
+PlEFORT
+PEDRA FUNDAMENTAL
+PLACA COMEMORATIVA
+TOCHA SIMBÓLICA
+57
+OBJETOS CERIMONIAIS/OBJETO COMEMORATIVO
+TOCHA SIMBÓLICA
+TROFÉU
+TAÇA DE PRÊMIO
+09.3	OBJETO DE CULTO
+NA Objetos usados em cerimônias de culto e rituais
+de diversas religiões. Ver também OBJETO DE DE
+VOÇÃO PESSOAL.
+ADJÂ
+ÂMBULA
+ANDOR
+ANTIPÊNDIO
+APITO RITUAL-
+ASPERSORIO
+CALDEIRINHA
+CÁLICE (Missa)
+CAMPA
+CIBÕRIO
+COLHER DE INCENSO
+CONOPEU
+CORPORAL DA MISSA
+CRUZ
+CRUZ PROCESSIONAL
+CUIA BATISMAL
+CUITÉ RITUAL
+DEFUMADOR
+TURlBULO
+ESMOLEIRO
+GALHETA (Missa)
+GALHETEIRO (Missa)
+HOSTIÂRIO
+LAMPADÂRIO
+LANTERNA PROCESSIONAL
+MANUSTÊRGIO
+MASCARA RITUAL
+NAVETA
+OSTENSÔRIO
+OTA
+PALA
+pAlio
+53
+OBJETOS CERIMONIAIS/OBJETO DE CULTO
+PALIO
+UMBELA
+pAtena
+PEDRA DE ARA'
+PORTA-MISSAL
+PORTA-PAZ
+PORTA-TOALHA (Culto)
+porta-viAtico
+RELICÁRIO
+SACRA
+SALVA (Missa)
+SANGUINHO
+TOALHA DE ALTAR
+VARA DE PALIO
+VASO RITUAL
+VELA LITÜRGICA
+CÍRIO PASCAL
+VÉU DE CÁLICE
+XERE
+09.4	OBJETO FUNERÁRIO
+NA Objetos relativos aos mortos e às cerimônias fú
+nebres. Inclui os respectivos acessórios.
+CAIXÃO
+CATAFALCO
+CHAVE DE CAIXÃO
+COROA FUNERÁRIA
+CRUZ DE SEPULTURA
+FAIXA FUNERÁRIA
+LAPIDE SEPULCRAL
+MARCO DE SEPULTURA
+URNA FUNERÁRIA
+URNA CINERARIA
+59
+iU COMUNICAÇÃO
+NA Objetos usados para transmitir informações aos se
+res humanos. Ver também ARTES VISUAIS/CINEMATOGRÁ-
+FICA, MEDIÇÃO/REGISTRO/OBSERVAÇÃO/PROCESSAMENTO e
+TRABALHO.
+10.1	DOCUMENTO
+NA Alguns museus não possuem setores de bibliote-
+ca e arquivo. Assim, seus livros, periódicos ,
+documentos de arquivo etc. não recebem o trata
+mento técnico biblioteconômico ou arquivístico
+condizentes. Ê para esses museus, sobretudo ,
+que se abriu esta subclasse, que reúne documen
+tos textuais e cartográficos, bem como os ico
+nográficos excluídos da classe ARTES VISUAIS 7
+CINEMATOGRÁFICA. Exclui MATERIAL DE PROPAGAN-
+DA. Ver também EQUIPAMENTO DE COMUNICAÇÃO SONO
+RA/VISUAL.
+ADESIVO
+AGENDA
+ALBUM
+Arvore genealógica
+ATLAS
+CADERNETA DE ENDEREÇOS
+CADERNO
+CALENDÁRIO
+CARTA
+CARTA DE BRASÃO
+CARTA PATENTE
+CARTÃO DE VISITA
+CARTÃO-POSTAL
+CARTEIRA DE IDENTIDADE
+CARTEIRA DE TRABALHO
+CERTIDÃO
+CERTIDÃO DE BATISMO
+CERTIDÃO DE CASAMENTO
+CERTIDÃO DE NASCIMENTO
+CERTIDÃO DE ÕBITO
+CONVITE
+DECALQUE
+diArio
+DIPLOMA
+DOCUMENTO FOTOGRÁFICO
+DIAPOSITIVO
+60
+COMUNICAÇÃO/DOCUMENTO
+DIAPOSITIVO
+FOTOGRAFIA
+FOTOGRAFIA (Processo Fotomecânico)
+FOTOGRAFIA (Processo Positivo Direto)
+AMBRÕTIPO
+daguerreOtipo
+FERRÕTIPO
+NEGATIVO
+FIGURINHA
+CROMO
+FOLHETO
+JORNAL
+LIVRO
+MISSAL
+LIVRO DE ATAS
+MAPA
+MENU
+OFÍCIO
+PARTITURA MUSICAL
+PASSAPORTE
+PROGRAMA
+RECIBO
+RECORTE DE JORNAL
+REVISTA
+ROTULO
+TELEGRAMA
+TÍTULO DE ELEITOR
+10.2	EQUIPAMENTO DE COMUNICAÇÃO ESCRITA
+NA Objetos usados na escrita, autenticação, guarda
+e transporte de documentos textuais, e respecti-
+vos acessórios, inclusive os de leitura. Exclui
+mobiliário.
+ALMOFADA (Carimbo)
+APONTADOR DE LÃPIS
+AREEIRO
+BERÇO (Mata-borrão)
+BLOCO DE PAPEL
+BORRACHA
+CAIXA DE CORREIO
+6 1
+COMUNICAÇÃO/EQUIPAMENTO DE COMUNICAÇÃO ESCRITA
+CAIXA DE CORREIO
+CANETA
+CANETA-TINTEIRO
+CANUDO
+CAPA DE LIVRO
+CARIMBO
+CARIMBO (Selo)
+COPIADOR
+ENVELOPE
+ESPÁTULA (Livro)
+ESTOJO DE LÁPIS
+FURADOR DE PAPEL
+GRAMPEADOR
+INDICADOR
+LACRE
+LÁPIS
+LAPISEIRA
+LIMPA-PENAS
+MALA POSTAL
+MÁQUINA DE ESCREVER
+MARCADOR DE LIVRO■
+MATA-BORRÃO
+MATRIZ SIGILOGRÃFICA
+ANEL SIGILAR
+CARIMBO (Selo)
+PINGENTE SIGILAR
+SELO MATRIZ
+SELO SECO
+SINETE
+PAPEL DE CARTA
+PENA (Escrita)
+PENA DE CANETA
+PESO DE PAPEL
+PORTA-BLOCO
+PORTA-CARIMBOS
+PORTA-CARTÕES
+PORTA-CLIPES
+PORTA-DOCUMENTOS
+PORTA-LÁPIS/CANETA
+PORTA-PENAS
+PORTA-SELOS
+62
+COMUNICAÇÃO/EQUIPAMENTO DE COMUNICAÇÃO ESCRITA
+PORTA-SELOS
+QUADRO-NEGRO
+RASPADEIRA
+SELO
+SELO APOSTO
+SELO CHAPEADO
+SELO PENDENTE
+TINTEIRO
+TINTEIRO-ESCRIVANINHA
+10.3	EQUIPAMENTO DE COMUNICAÇÃO SONORA/VISUAL
+NA Objetos usados para ampliar, registrar, reprodu
+zir e armazenar■sons significativos para a comu
+nicação humana. Inclui ainda os utilizados como
+sinal visual ou sinalizadores, projetores e vi
+sores de imagens, modelos anatômicos e topográ-
+ficos, globos terrestres e material didático que
+não se inclua nas demais subclasses do item 10.
+Ver também DOCUMENTO, EQUIPAMENTO DE TELECOMUNI
+CAÇÃO e INSTRUMENTO MUSICAL.
+ALARME
+SIRENE
+ALTO-FALANTE
+AMPLIFICADOR
+APITO
+CILINDRO (Som)
+DEMARCA DOR
+DISCO
+fonOgrafo
+FONÔGRAFO DE CILINDRO
+GRAMOFONE
+ELETROLA
+GLOBO TERRESTRE
+GRAVADOR
+LETREIRO
+TABULETA
+MICROFONE
+MODELO ANATÔMICO
+MODELO TOPOGRÁFICO
+PLACA DE RUA
+PORTA-VOZ
+PROJETOR
+63
+PROJETOR
+PROJETOR DE DIAPOSITIVOS
+PROJETOR DE FILMES
+SINALIZADOR
+BANDEIRA DE SINALIZAÇÃO
+FOGUETE DE SINALIZAÇÃO
+LANTERNA DE SINALIZAÇÃO
+SINALIZADOR DE TRÂNSITO
+PLACA DE TRÂNSITO
+SINAL DE TRÂNSITO
+SINO
+SINETA
+CAMPAINHA
+TOCA-DISCOS
+TOCA-FITA
+VISOR ESTEREOSCÓPICO
+10.4	EQUIPAMENTO DE TELECOMUNICAÇÃO
+NA Objetos que facilitem a comunicação ã distância,
+geralmente, por meio de equipamento eletrônico.
+Ver também EQUIPAMENTO DE COMUNICAÇÃO SONORA/
+VISUAL.
+ANTENA
+APARELHO DE TELÉGRAFO
+CABO SUBMARINO
+RÁDIO
+RECEPTOR DE RÁDIO
+TELEFONE
+TELEVISÃO
+TRANSMISSOR DE RÁDIO
+10.5	MATERIAL DE PROPAGANDA
+NA Objetos cuja principal função é a propaganda.
+Os que cumprem outras funções bem definidas ,
+mas cuja decoração ê de caráter propagandístico,
+serão incluídos nas respectivas classes (ex.:
+cinzeiro com o nome de um restaurante pertence
+à subclasse ARTIGO DE TABAGISMO). Ver também E
+QUIPAMENTO DE ATIVIDADES COMERCIAIS.
+ADESIVO DE PROPAGANDA
+BOTÃO DE PROPAGANDA
+64
+COMUNICAÇAO/MATERIAL DE PROPAGANDA
+BOTÃO DE PROPAGANDA
+CARTÃO COMERCIAL
+CARTAZ
+CÉDULA DE PROPAGANDA
+FIGURINHA DE PROPAGANDA
+FLÂMULA DE PROPAGANDA
+FOLHA VOLANTE
+PROSPECTO
+RECLAMO MONETIFORME
+65
+11 TRANSPORTE
+NA Artefatos que servem como veiculo para
+de passageiros ou carga. Inclui seus
+acessórios.
+11.1	ACESSÓRIO DE TRANSPORTE AÉREO
+NA Exclui equipamento de comunicação e
+tos de precisão/õpticos.
+11.2	ACESSÓRIO DE TRANSPORTE MARlTIMO
+NA Exclui equipamento de comunicação í
+tos de precisão/õpticos.
+Ancora
+bitAcula
+CAPUCHANA
+FIGURA DE PROA
+CARRANCA
+HÉLICE DE EMBARCAÇÃO
+LANTERNA DE EMBARCAÇÃO
+LEME DE EMBARCAÇÃO
+MASTRO DE EMBARCAÇÃO
+REMO
+RODA DO LEME
+VIDRAÇA DE EMBARCAÇÃO
+11.3	ACESSÓRIO DE TRANSPORTE TERRESTRE
+NA Exclui equipamento de comunicação «
+tos de precisão/õpticos.
+ALBARDA
+ARREIO
+BOLSA DE SELA
+CANGA-
+CANGALHA
+CHICOTE
+REBENQUE
+ESPORA
+CHILENA
+ESPORIM
+SALTEIRA
+transporte
+respectivos
+instrumen
+instrumen
+instrumen
+transporte/acessOrio de transporte terrestre
+SALTEIRA
+FERRADURA
+LAMEIRO
+LAMEIRO DE BICICLETA
+LAMEIRO DE CAMINHÃO
+LANTERNA DE.COCHE
+PEÇA DE ARREIO
+BARRIGUEIRA
+BUÇAL
+BUÇALETE
+CABEÇADA
+CABRESTO
+CAPELADA
+CILHA
+CINCHA
+CINCHADOR
+COLDRE (Sela)
+CORTADEIRA
+ESTEIRA DE MONTARIA
+ESTRIBO
+CAÇAMBA (Estribo)
+SAPATA
+FREIO DE CAVALGADURA
+BRIDÃO
+GOLÃO
+LORO
+MANTA DE SELA
+BADANA
+BAIXEIRO
+CARONA
+COXINILHO
+ENXERGÃO
+PELEGO
+PEITORAL
+PORTA-FERRADURAS
+RABICHO
+RÉDEA
+RETRANCA
+SELA
+LOMBINHO
+SELIM
+67
+TRANSPORTE/ACESSÕRIO DE TRANSPORTE TERRESTRE
+SELIM
+SERIGOTE.
+SILHÃO
+SOBRECINCHA
+SIA DE CANGALHAS
+11.4	TRANSPORTE AÉREO
+BALÃO DIRIGÍVEL
+11.5	TRANSPORTE MARlTIMO
+NA Inclui os fluviais. Acrescentar aos descritores
+abaixo, quando necessário, os termos vela, mo-
+tor ou misto (vapor/motor e vela) entre parente
+ses (ex.: Fragata (Vela), Fragata (Motor), Fra
+gata (Mista).
+BALEEIRA
+BARCA
+BARCO
+BRIGUE
+BRIGUE-ESCUNA
+CANHONEIRA
+CANOA
+UBÂ
+CONTRATORPEDEIRO
+CORVETA
+CRUZADOR
+CÜTER
+ENCOURAÇADO
+MONITOR-ENCOURAÇADO
+ESCUNA
+FRAGATA
+GALEÃO
+GALEOTA
+IATE
+JANGADA
+LANCHA
+NAU
+PATACHO
+REBOCADOR
+68
+TRANSPORTE/TRANSPORTE MARÍTIMO
+REBOCADOR
+SAVEIRO
+SUBMARINO
+11.6	TRANSPORTE TERRESTRE
+AUTOMÓVEL
+BERLINDA
+CADEIRINHA
+CALEÇA
+CARRO DE BOI
+CARROÇA
+CARROÇA DE PADEIRO
+CARROÇSO
+COCHE
+DILIGÊNCIA
+LANDAU
+LITEIRA
+LOCOMOTIVA
+TlLBURI
+TRAQUITANA
+VAGÃO
+VITÕRIA
+69
+12 OBJETOS PESSOAIS
+NA Objetos criados para servir às necessidades pes
+soais dos indivíduos, tais como proteção e higiene
+do corpo, adorno, crença etc.
+12.1 ACESSÕRIO DE INDUMENTÁRIA
+NA Objetos usados para suster e/ou fixar peças de
+vestuário ou penteados, mesmo quando fragmen
+tos, adereços de mão e cabeleiras que complemen
+tem trajes. Ver também OBJETO DE ADORNO.
+ABOTOADURA
+ADEREÇO DE MÃO
+ALAMAR
+ALFINETE (Indumentária)
+ALFINETE DE CHAPÉU
+ALFINETE DE GRAVATA
+BARBICACHO
+BOTÃO
+BOTÃO DE COLARINHO
+CABELEIRA
+CHINÕ
+PERUCA
+TRANÇA
+CINTO
+CÍNGULO
+CINTEIRO
+CINTURÃO
+GUAIACA
+FAIXA
+FAIXA MILITAR
+TALIM
+FlBULA
+FIVELA DE CALÇADO/CINTO
+NETSUKÉ
+PRENDEDOR (Indumentária)
+PRENDEDOR DE CABELO
+FITA DE CABELO
+GRAMPO DE CABELO
+TRAVESSA DE CABELO
+TREPA-MOLEQUE
+PRENDEDOR DE LENÇO
+70
+.OBJETOS PESSOAIS/ACESSÕRIO DE INDUMENTÁRIA
+12.2
+PRENDEDOR DE LENÇO
+PRENDEDOR DE SUSPENSÓRIOS
+SUSPENSÓRIO
+ARTIGO DE TABAGISMO
+NA Objetos relacionados ao hábito de fumar, aspi
+rar ou mascar tabaco, outras ervas e drogas.
+BRASEIRO DE FUMANTES
+CACHIMBO
+CAIXA DE FÓSFOROS
+FOSFOREIRA
+CHARUTO
+CIGARRO
+CINZEIRO
+CORTADOR DE CHARUTO
+ESTOJO DE PITEIRA
+ISQUEIRO
+LIMPA-CACHIMBO
+NARGUILfi
+PEGA-BRASAS
+PITEIRA
+PORTA-CACHIMBOS
+PORTA-CAIXA DE FÓSFOROS
+PORTA-CHARUTOS
+CAIXA DE CHARUTOS
+CHARUTEIRA
+PORTA-CIGARROS
+CAIXA DE CIGARROS
+CIGARREIRA
+COPO DE CIGARROS
+MAÇO DE CIGARROS
+PORTA-MAÇO DE CIGARROS
+PORTA-TABACO
+BOLSA DE TABACO
+CAIXA DE RAPÉ
+CORNIMBOQUE
+POTE DE TABACO
+TABAQUEIRA
+TRITURADOR DE FUMO
+71
+OBJETOS PESSOAIS/ARTIGO DE TOALETE
+12.3	ARTIGO DE TOALETE
+NA Objetos relacionados à higiene e estética
+soais e aos atos de vestir e calgar.
+ABOTOADEIRA
+ABRIDOR DE LUVAS
+AFASTADOR DE CUTlCULA
+AFIADOR DE NAVALHAS
+ALICATE (Toalete)
+ALICATE DE CUTÍCULA
+ALICATE DE UNHA
+APARELHO DE BARBEAR
+BACIA DE TOALETE
+BACIA DE BANHO
+BACIA DE BARBEAR
+BALDE DE TOALETE
+BIDÊ PORTÁTIL
+BORRIFADOR DE PERFUME
+CAIXA (Toalete)
+CAIXA DE COSMÉTICO
+CAIXA DE MIUDEZAS
+CALÇADEIRA
+CÁLICE DE LAVAR OLHO
+COPO DE HIGIENE BUCAL
+CUBA-RIM
+DESCALÇADEIRA
+DILATADOR DE L0BULO DE ORELHA
+ESCOVA DE TOALETE
+ESCOVA DE CABELO
+ESCOVA DE DENTES
+ESCOVA DE ROUPA
+ESCOVA DE SAPATO
+ESCOVA DE UNHA
+ESPELHO
+ESTOJO (Toalete)
+ESTOJO DE COLARINHOS
+ESTOJO DE MAQUIAGEM
+ESTOJO DE TOALETE
+ESTOJO DE UNHA
+FRASCO (Toucador)
+FRISADOR
+GOMIL
+72
+pes
+OBJETOS PESSOAIS/ARTIGO DE TOALETE
+GOMIL
+LIXA DE UNHA
+NAVALHA
+PALITO
+PENTE
+PENTEADOR
+PERFURADOR (índio)
+PERFURADOR AURICULAR
+PERFURADOR LABIAL
+PINÇA DE SOBRANCELHA
+PINCEL DE BARBA
+POLIDOR DE UNHA
+PORTA-COLARINHO
+PORTA-ESCOVA DE CABELO
+PORTA-ESCOVA DE DENTES
+PORTA-PENTE
+PORTA-PERUCA
+POTE DE COSMÉTICO
+SABONETEIRA
+SACHÊ
+SUPORTE DE BIDÊ
+TESOURA
+TESOURA DE CABELO
+TESOURA DE UNHA
+TOALHA
+TOALHA DE BANHO
+TOALHA DE MÃO
+TOALHA DE ROSTO
+URINOL
+COMADRE
+COMPADRE
+12.4	ARTIGO DE VIAGEM/CAMPANHA
+NA Exclui mobiliário. Ver também OBJETO DÈ AUXÍLIO
+/CONFORTO PESSOAIS.
+ALFORJE
+CANTIL
+CHAPELEIRA
+COPO DE VIAGEM
+73
+GUAMPA
+GUAMPA
+ESCRITÕRIO DE VIAGEM
+ESTOJO DE VIAGEM
+FRASQUEIRA
+MALA
+MALETA
+MOCHILA
+PORTA-TEMPERO DE VIAGEM
+TALHER DE VIAGEM
+COLHER DE VIAGEM
+FACA DE VIAGEM
+GARFO DE VIAGEM
+12.5	OBJETO DE ADORNO
+NA Inclui os raspectivos acessórios. Ver também
+ACESSÓRIO DE INDUMENTÁRIA.
+ADORNO INDÍGENA
+ADORNO AURICULAR
+ADORNO LABIAL
+ADORNO NASAL
+ARMAÇÃO DE COCAR
+BRAÇADEIRA (índio)
+CINTO (índio)
+CINTA (índio)
+COCAR
+COIFA (índio)
+DIADEMA (índio)
+GRINALDA (índio)
+LEQUE DE OCCIPÍCIO
+TOUCADO (índio)
+CORDÃO DE CINTURA (índio)
+FAIXA (índio)
+FAIXA DE CORREDOR
+FAIXA DE PANTURRILHA
+ANEL
+ANEL-RELOGIO
+BRACELETE
+ESCRAVA
+BRINCO
+BROCHE
+74
+OBJETOS PESSOAIS/OBJETO DE ADORNO
+BROCHE
+CHAVE DE RELÓGIO (Adorno)
+COLAR .
+GARGANTILHA
+CORRENTE (Adorno)
+CORDÃO
+GÔNDOLA
+DIADEMA
+ESTOJO DE JÓIA
+GRINALDA
+PENCA DE BALANGANDÃS
+PINGENTE
+BALANGANDÃ
+MEDALHÃO PINGENTE
+RELÓGIO PINGENTE
+porta-jóias
+PULSEIRA
+ESCRAVA
+RELOGIO (Adorno)
+ANEL-REL0GIO
+RELOGIO DE BOLSO
+RELÓGIO DE PULSO
+RELÓGIO PINGENTE
+TORNOZELEIRA
+12.6	OBJETO DE AUXÍLIO/CONFORTO PESSOAIS
+NA Objetos criados para suprir deficiências físi
+cas dos seres humanos e/ou para lhes dar maior
+comodidade, e que não se incluem nas demais sub
+classes do item 12; Inclui os respectivos aces
+sórios. Ver também ARTIGO DE VIAGEM/CAMPANHA.
+BENGALA
+BOLSA
+CARTEIRA (Bolsa)
+EMBORNAL
+PATRONA
+TROUSSE
+CADEIRA DE RODAS
+CANIVETE
+CARTEIRA DE DINHEIRO
+CHÃTELAINE
+75
+OBJETOS PESSOAIS/OBJETO DE AUXlLIO/CONFORTO PESSOAIS
+CHÃTELAINE
+CHAVEIRO
+CHUPETA
+ESTOJO (Auxllio/conforto pessoais)
+ESTOJO DE LEQUE
+ESTOJO DE ÕCULOS
+FAIXA DE TRANSPORTE
+GALOCHA
+GARRAFA DE BOLSO
+GUARDA-CHUVA
+INSTRUMENTO 0PTICO PESSOAL
+LORNHÃO
+MONÓCULO
+ÓCULOS
+PINCE-NEZ
+LENÇO
+LEQUE
+VENTAROLA
+MÃOZINHA
+MULETA
+PASTA
+PASTA MILITAR
+PORTA-BUQUÊ
+PORTA-COMPRIMIDOS
+PORTA-NlQUEIS
+PRÓTESE
+PRÓTESE DENTÁRIA
+DENTADURA
+PRÓTESE ORTOPÉDICA
+SACOLA DE COMPRAS
+SOMBRINHA
+12.7	OBJETO DE DEVOÇÃO PESSOAL
+NA Objetos usados como símbolos de uma crença, pa
+ra atrair a sorte ou afastar malefícios, que as
+pessoas, geralmente, trazem consigo. Ver também
+OBJETO DE CULTO.
+AMULETO
+AMULETO PINGENTE
+BENTINHO
+OBJETOS PESSOAIS/OBJETO DE DEVOÇÃO PESSOAL
+BENTINHO
+BREVE
+COLAR (Amuleto)
+PATUÁ
+CRUCIFIXO PINGENTE
+CRUZ PINGENTE
+ESTOJO (Devoção pessoal)
+ESTOJO DE ROSÁRIO
+ESTOJO DE TERÇO
+FITA DEVOCIONAL
+MEDALHA DEVOCIONAL
+MADALHA DEVOCIONAL PINGENTE
+RELICÁRIO PINGENTE
+ROSÁRIO
+TALISMÃ
+TALISMÃ PINGENTE
+TERÇO
+12.8	PEÇA DE INDUMENTÁRIA
+NA Objetos usados como vestimentas ou calçados por
+seres humanos. Inclui, também, as coberturas de
+cabeça e máscaras que complementem trajes.
+AVENTAL
+AVENTAL (Insígnia)
+AVENTAL DE PORTA-MACHADO
+AVENTAL MAÇflNICO
+AVENTAL ROSA-CRUZ
+BATINA
+BECA
+BLUSA
+BATA
+CORPETE
+CACHECOL
+CALÇA
+BOMBACHA
+CALÇÃO
+CULOTE
+CALÇADO
+BOTA
+BOTINA
+77
+OBJETOS PESSOAIS/PEÇA DE INDUMENTÁRIA
+BOTINA
+BORZEGUIM
+CHINELO
+sandália
+SAPATILHA
+SAPATO
+TAMANCO
+CAMISA
+CAMISOLA
+CAPA
+CAPA DE ASPERGES
+MANTO
+OPA
+PELERINE
+PONCHO
+PONCHO-PALA
+CASACO
+BOLERO
+CASACA
+DO-LMÃ
+FRAQUE
+JAQUETA
+PALETfl
+SOBRE CASACA
+VÊSTIA
+COBERTURA,DE CABEÇA
+BARRETE
+BARRETINA
+BOINA
+BONÉ
+QUEPE
+CAPACETE (Indumentária)
+CAPACETE DE ORIXÁ
+CAPACETE MILITAR
+CAPUZ
+CAPUZ DE FRADE
+FILÁ
+CARTOLA
+CHAPÉU
+CHAPÉU-ARMADO
+CHAPÉU-CARDINALlCIO
+78
+OBJETOS PESSOAIS/PEÇA DE INDUMENTÁRIA
+chapGu^cardinalÍcio
+CHAPÊU-COCO
+CLAQUE
+GORRO
+LENÇO DE CABEÇA
+MITRA
+SOLIDÊU
+TOUCA
+COIFA
+TURBANTE
+VÊU
+MANTILHA
+VÊU NUPCIAL
+COBRE-NUCA
+COLARINHO
+COLETE
+COSTUME
+ECHARPE
+ESTOJO PENIANO
+GOLA
+GORJEIRA
+GRAVATA
+HÁBITO
+LENÇO (Indumentária)
+LENÇO DE CABEÇA
+LENÇO DE PESCOÇO
+LUVA
+MITENE
+MÁSCARA (Indumentária)
+MÁSCARA DE ESGRIMA
+MÁSCARA DE FANTASIA
+MÁSCARA DE TEATRO
+MEIA
+PARAMENTO
+ALVA
+SOBREPELIZ
+AMITO
+CAPA DE ASPERGES
+CASULA
+DALMÁTICA
+79
+TUNICELA
+TUNICELA
+ESTOLA (Casula)
+MANIPULO
+VÊU UMERAL
+PEITILHO
+PERNEIRA
+PIJAMA
+POLAINA
+QUIMONO
+ROBE
+ROUPA DE BAIXO
+anAgua
+CALÇOLA
+CEROULA
+COMBINAÇÃO
+CORPINHO
+ESPARTILHO
+ROUPA DE BEBÊ
+BABADOR
+CAMISA DE PAGÃO
+CUEIRO
+FRALDA
+ROUPÃO DE BANHO
+SAIA
+SAIOTE
+SARI
+SOTAINA
+SUÊTER
+TANGA
+TERNO
+TOfiA
+TRAJE
+TRAJE DE FESTA/FOLGUEDO
+FANTASIA
+TRAJE DE RITUAL RELIGIOSO
+TRAJE REGIONAL
+TÔNICA
+ALVA
+DALMÂTICA
+ULURI
+80
+OBJETOS PESSOAIS/PEÇA DE INDUMENTÁRIA
+ULURI
+UNIFORME
+FARDA
+FARDÃO
+LIBRÊ
+VESTIDO
+VESTIDO DE BAILE
+VESTIDO NUPCIAL
+XALE
+ESTOLA
+PANO-DA-COSTA
+13	CASTIGO/PENITÊNCIA
+NA Objetos usados para inflingir penas corporais
+seres humanos ou para a autopenitência.
+13.1	INSTRUMENTO DE AUTOPENITÊNCIA
+CILlCIO
+DISCIPLINA
+13.2	INSTRUMENTO DE CASTIGO
+AÇOITE
+BACALHAU
+ALGEMA
+ANJINHO
+CALCETA
+CHIBATA
+CINTO (Castigo)
+ESPADA (Castigo)
+ESPADA. DE EXECUÇÃO
+ESPADA DE PRANCHA
+FERRETE
+FORCA
+GARGALHEIRA
+GOLILHA
+LIBAMBO
+MÁSCARA (Castigo)
+MORDAÇA
+PALMATÓRIA
+TRONCO (Castigo)
+VIRA-MUNDO
+aos
+82
+MEDIÇÃO/REGISTRO/OBSERVAÇAO/PROCESSAMENTO
+14	MEDIÇÃO/REGISTRO/OBSERVAÇAO/PROCESSAMENTO
+NA Objetos usados na medição, registro e observação
+de fenômenos, substâncias, propriedades, volume e
+massa, ou ainda para processar dados e ampliar a
+capacidade visual dos seres humanos. Exclui os de
+correção de defeitos visuais, como os óculos, e os
+que registram sons. Inclui os respectivos acesso
+rios. Ver também COMUNICAÇÃO e TRABALHO.
+14.1 INSTRUMENTO DE PRECISÃO/ÔPTICO
+ACESSÓRIO DE INSTRUMENTO DE precisão/ôptico
+CHAVE DE RELOGIO
+ESTOJO (Instrumento de precisão/óptico)
+ESTOJO DE BALANÇA
+ESTOJO DE PESOS
+PESO
+PESO MONETÁRIO .
+AMPULHETA
+ANEMÔMETRO
+BALANÇA
+BARÔMETRO
+BINÓCULO
+BINÓCULO DE TEATRO
+bOssola
+AGULHA DE MAREAR
+COMPASSO
+CONJUNTO DE MEDIDAS DE CAPACIDADE
+CRONÔMETRO
+ESQUADRO
+FITA MÉTRICA
+LUPA
+MEDIDA DE CAPACIDADE
+MEDIDOR DE PÓLVORA
+MEDIDOR DE CALIBRE
+MEDIDOR DE LUZ
+METRO DOBRÃVEL
+METRÔNOMO
+MICROSCÓPIO
+NÍVEL
+NÍVEL DE BOLHA
+PAQUÍMETRO
+83
+MEDIÇAO/REGISTRO/OBSERVAÇAO/PROCESSAMENTO/INSTRUMENTO DE .PRECISÃO/OPTICO
+PAQUlMETRO
+RÉGUA
+relOgio
+relOgio-armArio
+relOgio de mesa
+relOgio de parede
+relõgio de ponto
+relOgio de sol
+SEXTANTE
+TELÊMETRO
+TELÊMETRO DE ARTILHARIA
+TELÊMETRO DE CAVALARIA
+TELÊMETRO DE INFANTARIA
+TELÊMETRO NAVAL
+TELESCÓPIO
+LUNETA
+LUNETA DE MIRA
+ÓCULO
+TEODOLITO
+TERMÔMETRO
+TRANSFERIDOR
+TRENA
+14.2	PROCESSADOR DE DADOS
+NA Objetos usados para processar dados por
+manuais, mecânicos ou eletrônicos.
+ÂBACO
+CALCULADORA
+RÉGUA DE CÁLCULO
+meios
+84
+EMBALAGENS/RECIPIENTES
+15	EMBALAGENS/RECIPÍENTES
+NA Objetos usados para embalar produtos e mercadorias,
+e recipientes com função não determinada.
+BARRICA
+BARRIL
+BRUACA
+CAIXA
+CAIXOTE
+ESTOJO
+CESTA
+BALAIO
+jacA
+JEQUIÂ
+PANEIRO
+ENGRADADO
+FRASCO
+GARRAFA
+BOTIJA
+GARRAFÃO
+LATA
+PIPA
+POTE
+SACO
+SURRAO
+TACHO
+TINA
+TONEL
+AMOSTRAS/FRAGMENTOS
+16	AMOSTRAS/FRAGMENTOS
+NA Amostras de natureza animal, vegetal oú mineral,em
+estado bruto ou processadas, desde que não consti
+tuam um objeto propriamente dito. Inclui, também ,
+amostras ou fragmentos de rendas, tecidos, couros,
+cabelos etc., quando não tiverem constituído parte
+de um objeto ou quando este não pôde ser identifi
+cado, e acessórios de artefatos que não puderam
+ser.determinados. Os mostruãrios para fins comer
+ciais pertencem ã subclasse EQUIPAMENTO DE ATIVIDA
+DES COMERCIAIS.
+AMOSTRA
+AMOSTRA ANIMAL
+AMOSTRA MINERAL
+AMOSTRA VEGETAL
+ARGOLA
+CADEADO
+CHAVE
+FITA
+FIVELA
+FRAGMENTO
+PREGO
+CRAVO (Prego)
+PARAFUSO
+PUXADOR
+tAbua
+86
+A Série Técnica integra o conjunto de publicações
+do Núcleo de Editoração da Fundação Pró-Memória.
+Seu objetivo é fornecer instrumentos de trabalho
+às diferentes áreas de atuação da SPHAN/Pró-Memória,
+voltadas para a restauração, a preservação,
+a divulgação e o adequado uso dos bens culturais,
+artísticos e naturais brasileiros.
+Patrocínio
+XEROX
+ISBN 85-7064-009-9
+ISBN 85-7064-010-2
+Um compromisso
+com a cultura
