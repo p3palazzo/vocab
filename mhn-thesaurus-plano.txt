@@ -1,0 +1,145 @@
+01 CAÇA/GUERRA
+  NA Objetos usados na caça, tiro ao alvo, guerra ou proteção pessoal. Exclui equipamento projetado para o transporte de tropas e suprimentos, indumentaria e respectivos acessórios.
+  01.1 ACESSÓRIO DA ARMARIA
+    NA Objetos usados na conservação, manutenção e funcionamento das armas.
+  01.2 ARMA
+    NA Inclui, também, as de treinamento.
+  01.3 EQUIPAMENTO DE DEFESA
+    NA Objetos usados na proteção do corpo do homem e
+    do animal, em situações de combate.
+  01.4 MUNIÇÃO E ACESSÓRIO
+    NA Inclui, também, as de treinamento.
+  01.5 PETRECHO DE CAÇA
+    NA Exclui armas.
+02 ARTES VISUAIS/CINEMATOGRÁFICA
+  NA Objetos criados, geralmente, com fins estéticos ou como demonstração de criatividade e que integram as artes gráficas, plásticas e cinematográfica. Exclui a fotografia e respectivas cópias fotomecânicas. Ver também COMUNICAÇÃO, EQUIPAMENTO DE ARTES DO ESPETÁCULO e EQUIPAMENTO DE ARTISTAS/ARTESÃOS.
+  02.1 CONSTRUÇÃO ARTÍSTICA
+    NA Objetos que não são considerados propriamente pinturas e esculturas, para fins de classificação, mas que se assemelham às mesmas e que apre sentam em suas estruturas elementos prê-fabricados, amostras minerais e vegetais, mecanismos, luz, movimento etc.
+  02.2 DESENHO
+  02.3 ESCULTURA
+  02.4 ESTAMPA
+    NA Imagens, sobre papel, resultantes das técnicas de gravura e/ou impressão.
+  02.5 FILME
+  02.6 PINTORA
+03 OBJETOS PECUNIÁRIOS
+  NA Objetos relativos a dinheiro ou representativos de dinheiro, bem como aqueles que servem de instrumento para obtenção de serviços bem definidos (ex.: moeda, selo postal, vale etc.).
+04 CONSTRUÇÃO
+  NA Construções criadas para atender a qualquer necessidade humana em local relativamente permanente. Inclui os respectivos fragmentos. Ver também INTERIORES.
+  04.1 ABRIGO
+    NA Usar apenas quando o abrigo como um todo é cata logado. Inclui os frágeis e portáteis (ex.: casa, mausoléu, capela, estábulo, casa de cachorro, barraca etc.).
+  04.2 EDIFICAÇÃO
+    NA Aquelas criadas para servir a alguma necessidade humana que não a de abrigo e desassociadas de edifícios (ex.: chafariz, ponte etc.).
+  04.3 EQUIPAMENTO HIDRÁULICO
+    NA Objetos existentes, em geral, dentro de edifícios, conectados de forma mais ou menos perma nente ao sistema de água e esgoto, inclui os respectivos acessórios. Ver também FRAGMENTO DE CONSTRUÇÃO.
+  04.4 FRAGMENTO DE CONSTRUÇÃO
+    NA Objetos criados para ser parte de uma construção ou acessórios para seu funcionamento (ex.: telha, tijolo, porta, dobradiça etc.). Ver também EQUIPAMENTO HIDRÁULICO.
+05 INTERIORES
+  NA Objetos usados no interior ou em torno de edifícios, com o propósito de proporcionar conforto, cuidado e prazer aos seus ocupantes. Ver também CONSTRUÇÃO.
+  05.1 acessório de interiores
+    NA Objetos usados dentro ou em torno de um edifício com propósitos utilitários relativamente menores, ou então quando não se enquadram nas demais subclasses do item 05. Exclui ARTIGO DE TABAGISMO.
+  05.2 CONDICIONADOR DE TEMPERATURA
+    NA Objetos criados para modificar a temperatura e a umidade de um ambiente fechado. Inclui os respectivos acessórios (ex.: ventilador, guarda-fogo etc.).
+  05.3 EQUIPAMENTO DE SERVIÇOS DOMÉSTICOS
+    NA Objetos usados na limpeza de recintos e na lavagem de roupa, sejam esses serviços realizados em edifícios públicos ou privados. Ver também TRABALHO.
+  05.4 OBJETO DE ILUMINAÇÃO
+    NA Inclui os respectivos acessórios e instalações especializadas, tais como iluminação de rua, de jardim e aparelhos de iluminação teatral.
+  05.5 PEÇA DE MOBILIÁRIO
+    NA Inclui todo tipo de mobiliário.
+  05.6 UTENSÍLIO DE COZINHA/MESA
+    NA Objetos usados no preparo, guarda, serviço ou consumo de alimentos e bebidas. Inclui, também, aparelhos (ex.: fogão, geladeira etc.).
+06 TRABALHO
+  NA Objetos usados pelo homem nas suas atividades de trabalho. Não se diferenciou trabalho de hobby. Exclui mobiliário e indumentária profissionais. Ver também COMUNICAÇÃO, EQUIPAMENTO DE SERVIÇOS DOMÉSTICOS e MEDIÇÃO/REGISTRO/OBSERVAÇÃO/PROCESSAMENTO.
+  06.1 EQUIPAMENTO AGRÍCOLA
+    NA Objetos usados no cultivo do solo com culturas permanentes ou temporárias, inclusive hortaliças e flores. Inclui, ainda, o equipamento utilizado na produção de alimentos e bebidas, jardinagem, ex tração vegetal, silvicultura e reflorestamento.
+  06.2 EQUIPAMENTO DE ARTES DO ESPETÁCULO
+    NA Objetos usados durante a realização de espetáculos teatrais, de dança, ópera, circo e de filmagens. Exclui indumentária, adornos, mobiliário e objetos de iluminação. Ver também ARTES VISUAIS/CINEMATOGRÁFICA e EQUIPAMENTO DE ARTISTAS/ ARTESÃOS.
+  06.3 EQUIPAMENTO DE ARTISTAS/ARTESÃOS
+    NA Ver também ARTES VISUAIS/CINEMATOGRÁFICA, EQUIPAMENTO DE ARTES DO ESPETÁCULO, EQUIPAMENTO DE FIAÇÃO/TECELAGEM e INSTRUMENTO MUSICAL.
+  06.4 EQUIPAMENTO DE ATIVIDADES COMERCIAIS
+    NA Objetos usados na venda de mercadorias e serviços. Ver também MATERIAL DE PROPAGANDA.
+  06.5 EQUIPAMENTO DE FIAÇÃO/TECELAGEM
+    NA Objetos usados no fabrico de fios, linhas ou cordas, ou na manufatura de tecidos ou de objetos de fibras naturais e sintéticas. Inclui os instrumentos utilizados na costura e cestaria. Ver também EQUIPAMENTO DE ARTISTAS/ARTESÃOS.
+  06.6 EQUIPAMENTO DE MINERAÇÃO
+    NA Objetos usados na extração mineral, seja ela subterrânea ou de superfície. Inclui, também, equipamento de prospecção.
+  06.7 EQUIPAMENTO DE PECUÁRIA
+    NA Objetos usados na criação, recriação, engorda e domesticação de animais, bem como os utilizados na transformação e beneficiamento de produtos animais.
+  06.8 EQUIPAMENTO DE USO GERAL
+    NA Objetos usados em diversas atividades profissionais. Inclui, também, os utilizados na construção civil.
+  06.9 EQUIPAMENTO MÉDICO
+    NA Objetos usados no exame, teste, diagnóstico e tratamento do ser humano e de animais. Inclui o equipamento de dentistas e farmacêuticos, bem como o utilizado pela medicina popular.
+  06.10 INSTRUMENTO MUSICAL
+    NA Objetos usados na produção de música e respectivos acessórios. Ver também EQUIPAMENTO DE ARTISTAS/ARTESÃOS e EQUIPAMENTO DE COMUNICAÇÃO SONORA/VISUAL.
+  06.11 MAQUINARIA
+    NA Equipamento de trabalho mecânico ou eletrônico que não se enquadra nas demais subclasses do item 06.
+  06.12 PETRECHO DE PESCA
+    NA Objetos usados na captura de peixes, crustáceos e moluscos. Exclui embarcações e armas.
+07 LAZER/DESPORTO
+  NA Objetos criados para servir de brinquedo ou serem usados em jogos, sorteios, atividades esportivas etc. Exclui indumentária e mobiliário.
+08 INSÍGNIAS
+  NA Objetos usados como sinais distintivos, individuais ou coletivos, de função, dignidade, posto, comando, poder, nobreza, nação etc. Inclui os respectivos acessórios e exclui mobiliário e indumentária. Ver também OBJETOS CERIMONIAIS.
+09 OBJETOS CERIMONIAIS
+  NA Objetos usados em cerimônias e/ou rituais conduzi dos de forma sistemática e geralmente prescrita, sejam eles civis, religiosos ou militares. Exclui instrumentos musicais, mobiliário e indumentária. Ver também INSÍGNIAS.
+  09.1 OBJETO CERIMONIAL DE INSTITUIÇÕES
+    NA Objetos usados em cerimônias promovidas por instituições, públicas ou privadas, civis ou militares.
+  09.2 OBJETO COMEMORATIVO
+    NA Objetos cuja função principal é homenagear pessoas e lugares, ou comemorar eventos, e que, geralmente, não cumprem função utilitária. Objetos com função utilitária definida, mas que contêm decoração de caráter comemorativo, serão incluídos nas respectivas classes (ex.: vaso comemorativo pertence à subclasse ACESSÓRIO DE INTERIORES).
+  09.3 OBJETO DE CULTO
+    NA Objetos usados em cerimônias de culto e rituais de diversas religiões. Ver também OBJETO DE DEVOÇÃO PESSOAL.
+  09.4 OBJETO FUNERÁRIO
+    NA Objetos relativos aos mortos e às cerimônias fúnebres. Inclui os respectivos acessórios.
+10 COMUNICAÇÃO
+  NA Objetos usados para transmitir informações aos seres humanos. Ver também ARTES VISUAIS/CINEMATOGRÁFICA, MEDIÇÃO/REGISTRO/OBSERVAÇÃO/PROCESSAMENTO e TRABALHO.
+  10.1 DOCUMENTO
+    NA Alguns museus não possuem setores de biblioteca e arquivo. Assim, seus livros, periódicos , documentos de arquivo etc. não recebem o trata mento técnico biblioteconômico ou arquivístico condizentes. Ê para esses museus, sobretudo , que se abriu esta subclasse, que reúne documentos textuais e cartográficos, bem como os ico oográficos excluídos da classe ARTES VISUAIS 7 CINEMATOGRÁFICA. Exclui MATERIAL DE PROPAGANDA. Ver também EQUIPAMENTO DE COMUNICAÇÃO SONORA/VISUAL.
+  10.2 EQUIPAMENTO DE COMUNICAÇÃO ESCRITA
+    NA Objetos usados na escrita, autenticação, guarda e transporte de documentos textuais, e respectivos acessórios, inclusive os de leitura. Exclui mobiliário.
+  10.3 EQUIPAMENTO DE COMUNICAÇÃO SONORA/VISUAL
+    NA Objetos usados para ampliar, registrar, reproduzir e armazenar sons significativos para a comunicação humana. Inclui ainda os utilizados como sinal visual ou sinalizadores, projetores e vi sores de imagens, modelos anatômicos e topográficos, globos terrestres e material didático que não se inclua nas demais subclasses do item 10. Ver também DOCUMENTO, EQUIPAMENTO DE TELECOMUNICAÇÃO e INSTRUMENTO MUSICAL.
+  10.4 EQUIPAMENTO DE TELECOMUNICAÇÃO
+    NA Objetos que facilitem a comunicação à distância, geralmente, por meio de equipamento eletrônico. Ver também EQUIPAMENTO DE COMUNICAÇÃO SONORA/VISUAL.
+  10.5 MATERIAL DE PROPAGANDA
+    NA Objetos cuja principal função é a propaganda. Os que cumprem outras funções bem definidas, mas cuja decoração é de caráter propagandístico, se rio incluídos nas respectivas classes (ex.: cinzeiro com o nome de um restaurante pertence ã subclasse ARTIGO DE TABAGISMO). Ver também EQUIPAMENTO DE ATIVIDADES COMERCIAIS.
+11 TRANSPORTE
+  NA Artefatos que servem como veículo para transporte de passageiros ou carga. Inclui seus respectivos acessórios.
+  11.1 acessório de transporte aéreo
+    NA Exclui equipamento de comunicação e instrumentos de precisão/ópticos.
+  11.2 acessório de TRANSPORTE MARÍTIMO
+    NA Exclui equipamento de comunicação e instrumentos de precisão/ópticos.
+  11.3 acessório de transporte terrestre
+    NA Exclui equipamento de comunicação e instrumentos de precisão/ópticos.
+  11.4 TRANSPORTE AÉREO
+  11.5 TRANSPORTE MARÍTIMO
+    NA Inclui os fluviais. Acrescentar aos descritores, quando necessário, os termos vela, motor ou misto (vapor/motor e vela) entre parênteses (ex.: Fragata (Vela), Fragata (Motor), Fragata (Mista).
+  11.6 TRANSPORTE TERRESTRE
+12 OBJETOS PESSOAIS
+  NA Objetos criados para servir às necessidades pessoais dos indivíduos, tais como proteção e higiene do corpo, adorno, crença etc.
+  12.1 ACESSÓRIO DE INDUMENTÁRIA
+    NA Objetos usados para suster e/ou fixar peças de vestuário ou penteados, mesmo quando fragmentos adereços de mão e cabeleiras que complementem trajes. Ver também OBJETO DE ADORNO.
+  12.2 ARTIGO DE TABAGISMO
+    NA Objetos relacionados ao hábito de fumar, . aspirar ou mascar tabaco, outras ervas e drogas.
+  12.3 ARTIGO DE TOALETE
+    NA Objetos relacionados .à higiene e estética pessoais e aos atos de vestir e calçar.
+  12.4 ARTIGO DE VIAGEM/CAMPANHA
+    NA Exclui mobiliário. Ver também OBJETO DE AUXÍLIO /CONFORTO PESSOAIS.
+  12.5 OBJETO DE ADORNO
+    NA Inclui os respectivos acessórios. Ver também acessório de indumentária.
+  12.6 OBJETO DE AUXÍLIO/CONFORTO PESSOAIS
+    NA Objetos criados para suprir deficiências físicas dos seres humanos e/ou para lhes dar maior comodidade, e que não se incluem nas demais sub classes do item 12. Inclui os respectivos acessórios. Ver também ARTIGO DE VIAGEM/CAMPANHA.
+  12.7 OBJETO DE DEVOÇÃO PESSOAL
+    NA Objetos usados como símbolos de uma crença, para atrair a sorte ou afastar malefícios, que as pessoas, geralmente, trazem consigo. Ver também OBJETO DE CULTO.
+  12.8 PEÇA DE INDUMENTÁRIA
+    NA Objetos usados como vestimentas ou calçados por seres humanos. Inclui, também, as coberturas de cabeça e máscaras que complementem trajes.
+13 CASTIGO/PENITÊNCIA
+  NA Objetos usados para infligir penas corporais aos seres humanos ou para a auto penitência.
+  13.1 INSTRUMENTO DE AUTOPENITÊNCIA
+  13.2 INSTRUMENTO DE CASTIGO
+14 MEDIÇÃO/REGISTRO/OBSERVAÇÃO/PROCESSAMENTO
+  NA Objetos usados na medição, registro e observação de fenômenos, substâncias, propriedades, volume e massa, ou ainda para processar dados e ampliar a capacidade visual dos seres humanos. Exclui os de correção de defeitos visuais, como os óculos, e os que registram sons. Inclui os respectivos acesso rios. Ver também COMUNICAÇÃO e TRABALHO.
+  14.1 INSTRUMENTO DE PRECISÃO/ÓPTICO
+  14.2 PROCESSADOR DE DADOS
+    NA Objetos usados para processar dados por meios manuais, mecânicos ou eletrônicos.
+15 EMBALAGENS/RECIPIENTES
+  NA Objetos usados para embalar produtos e mercadorias, e recipientes com função não determinada.
+16 AMOSTRAS/FRAGMENTOS
+  NA Amostras de natureza animal, vegetal ou mineral,em estado bruto ou processadas, desde que não constituam um objeto propriamente dito. Inclui, também , amostras ou fragmentos de rendas, tecidos, couros, cabelos etc., quando não tiverem constituído parte de um objeto ou quando este não pôde ser identificado, e acessórios de artefatos que não puderam ser determinados. Os mostruários para fins comer Ciais pertencem ã subclasse EQUIPAMENTO DE ATIVIDADES COMERCIAIS.
+

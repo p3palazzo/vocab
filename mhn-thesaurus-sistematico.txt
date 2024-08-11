@@ -1,0 +1,2420 @@
+﻿01 CAÇA/CUERRA
+  NA Objetos usados na caça, tiro ao alvo, guerra ou pro teção pessoal. Exclui equipamento projetado para o transporte de tropas e suprimentos, indumentária e respectivos acessórios.
+  01.1 ACESSÓRIO. DA ARMARIA
+    NA Objetos usados na conservação, manutenção e fun cionamento das armas.
+    AGULHETA
+    ALMOTOLIA (Arma)
+    BAINHA
+    BOLDRIE
+    CAVILHA DE VARETA
+    CHAVE DE PISTÃO
+    COBRE-MIRA
+    COLDRE
+    CORDEL DE LIMPEZA
+    DIAMANTE (Arma)
+    ESCOVA DE LIMPEZA (Arma)
+    ESCOVILHÃO
+    ESCOVINHA (Arma)
+    ESTOJO (Arma)
+    ESTOJO DE ARMA
+    ESTOJO DE LIMPEZA (Arma)
+    FIADOR DE ARMA
+    LANADA
+    LAVADOURO
+    PALA DE BOLDRIÊ
+    POLVORINHO
+    PORTA-PANO
+    REPARO
+    REPARO DE CANHÃO
+    REPARO DE METRALHADORA
+    SACA-BALAS
+    TARUGO
+    VARETA
+  01.2 ARMA
+    NA Inclui, também, as de treinamento.
+    ARMA BRANCA
+    ARMA BRANCA DE ARREMESSO
+    ARPÃO
+    ARMA BRANCA DE CHOQUE
+    ADAGA
+    ESTILETE
+    MISERICÓRDIA
+    PEIXEIRA^
+    BAIONETA
+    ESPADA-BAIONETA
+    SABRE-BAIONETA
+    SABRE-BAIONETA IATAGÃ
+    ESPADA
+    BASTARDA
+    CLAYMORE
+    ESCLAVÕNIA
+    ESPADA DE INSTRUÇÃO
+    ESTOQUE
+    FLAMBÊRGIA
+    FLORETE
+    GLÂDIO
+    RAPIEIRA
+    FACA (Arma)
+    FACA DE CAÇA
+    FACÃO
+    MACHADO DE GUERRA
+    ACHA
+    MACHADINHA (Arma)
+    MACHADINHA DE ABORDAGEM
+    MACHADO DE SAPADOR
+    SABRE
+    IATAGÃ
+    SABRE DE ABORDAGEM
+    SABRE DE INSTRUÇÃO
+    TERÇADO
+    ARMA BRANCA DE HASTE
+    ALABARDA
+    ARCHA
+    PARTAZANA
+    CAÇA/GUE RRA/ARMA
+    PARTAZANA
+    FOICE DE GUERRA
+    LANÇA
+    AZAGAIA
+    PIQUE
+    CHUÇO DE ABORDAGEM
+    ESPONTÃO
+    TRIDENTE
+    ARMA DE ARREMESSO
+    ARCO
+    ATIRADEIRA
+    BESTA
+    BODOQUE
+    FUNDA
+    ZARABATANA
+    ARMA DE CHOQUE
+    CLAVA
+    BORDUNA
+    IVIRAPEMA
+    MAÇA
+    TACAPE
+    MARTELO DE GUERRA
+    PORRETE
+    CASSETETE
+    ARMA DE FOGO
+    ARMA DE FOGO PORTÁTIL
+    ARCABUZ
+    BACAMARTE
+    CARABINA
+    CARABINA-BENGALA
+    CARABINA-REVÓLVER
+    CLAVINA
+    ESPINGARDA
+    ESPINGARDÃO
+    METRALHADORA PORTÁTIL
+    FUZIL-METRALHADORA
+    METRALHADORA LEVE
+    SUBMETRALHADORA
+    MOSQUETÃO
+    MOSQUETE
+    PISTOLA
+    PISTOLA
+    REVÓLVER
+    CARABINA-REVÓLVER
+    MÁQUINA DE GUERRA
+    BAZUCA
+    CANHÃO
+    COLUBRINA
+    CARONADA
+    METRALHADORA (Máquina)
+    METRALHADORA ANTIAÉREA
+    METRALHADORA PESADA
+    MORTEIRO
+    OBUSEIRO
+  01.3 EQUIPAMENTO DE DEFESA
+    NA Objetos usados na proteção do corpo do homem e do animal, em situações de combate.
+    ARMADURA
+    CAPACETE
+    CAPACETE DE ARMADURA
+    BACINETE
+    BORGONHESA
+    CELADA
+    ELMO
+    MORRIÃO
+    CAPACETE DE COMBATE
+    COTA DE MALHA
+    COURAÇA
+    COURAÇA FRONTAL
+    ESCARCELA
+    ESCUDO
+    BROQUEL
+    ESPALDEIRA
+    GORJAL
+    GREVA
+    MANOPLA
+    TESTEIRA
+  01.4 MUNIÇÃO E ACESSÓRIO
+    NA Inclui, também, as de treinamento.
+    ACESSÓRIO DE MUNIÇÃO
+    ALJAVA
+    BALIM
+    CARREGADOR DE CARTUCHO
+    CARTUCHEIRA
+    CARTUCHO
+    CHUMBEIRO
+    CUNHETE DE MUNIÇÃO
+    ESPOLETA
+    ESTOPIM
+    ESPOLETEIRA
+    EXPLOSIVO
+      pólvora
+    FORMA DE BALIM
+    PENTE DE MUNIÇÃO
+    SlLEX
+    TACO
+    TALABARTE
+    MUNIÇÃO
+    ESTREPE
+    MINA
+    MINA AQUÁTICA
+    MINA TERRESTRE
+    PROJÉTIL
+    BALA
+    BALA DE FESTIM
+    BALA ENCADEADA
+    BALA RASA
+    PALANQUETA
+    BOMBA
+    CACHO DE UVA
+    DARDO
+    FLECHA
+    FOGUETE
+    FOGUETE DE ILUMINAÇÃO
+    GRANADA
+    GRANADA DE ILUMINAÇÃO
+    GRANADA DE MÃO
+    GRANADA DE MÃO
+    GRANADA DE TRINCHEIRA
+    GRANADA FUMlGENA
+    LANTERNETA
+    PIRÂMIDE
+    SETA
+    SHRAPNEL
+    TORPEDO
+    TUBO DE GÂS VENENOSO
+  01.5 PETRECHO DE CAÇA
+    NA Exclui armas.
+    ALÇAPÃO
+    ARAPUCA
+    PIO DE CAÇA
+    RATOEIRA
+    VARA DE VISGO
+02 ARTES VISUAIS/CINEMATOGRÃFICA
+  NA Objetos criados, geralmente, com fins estéticos ou como demonstração de criatividade e que integram as artes gráficas, plásticas e cinematográfica. Ex clui a fotografia e respectivas cópias fotomecâni cas. Ver também COMUNICAÇÃO, EQUIPAMENTO DE ARTES DO ESPETÁCULO e EQUIPAMENTO DE ARTISTAS/ARTESÃOS.
+  02.1 CONSTRUÇÃO ARTÍSTICA
+    NA Objetos que não são considerados propriamente pinturas e esculturas, para fins de classifica ção, mas que se assemelham às mesmas e que apre sentam em suas estruturas elementos pré-fabrica dos, amostras minerais e vegetais, mecanismos, luz, movimento etc.
+    CONSTRUÇÃO ESCULTORICA
+    MÕBILE
+    ESTÃBILE
+    CONSTRUÇÃO PICTÓRICA
+    COLAGEM
+    MONTAGEM
+    FOTOMONTAGEM
+  02.2 DESENHO
+    DESENHO ABSTRATO
+    DESENHO ALEGÓRICO
+    DESENHO ANATÔMICO
+    DESENHO CARICATURAL
+    DESENHO DE GÊNERO
+    DESENHO DOCUMENTAL
+    DESENHO HISTÓRICO
+    DESENHO MITOLÓGICO
+    DESENHO RELIGIOSO
+    FIGURA HUMANA (Desenho)
+    NU (Desenho)
+    MARINHA (Desenho)
+    NATUREZA-MORTA (Desenho)
+    PAISAGEM (Desenho)
+    RETRATO (desenho)
+  02.3 ESCULTURA
+    BUSTO
+    HERMA
+    CABEÇA
+    ESCULTURA ABSTRATA
+    ESCULTURA RELIGIOSA
+    ANJO
+    APOSTOLO
+    CRISTO
+    CRUCIFIXO
+    MENINO JESUS
+    DIVINDADE
+    GRUPO ESCULTÕRICO RELIGIOSO
+    NOSSA SENHORA
+    PEÇA DE GRUPO ESCULTÕRICO RELIGIOSO
+    PROFETA
+    RELEVO RELIGIOSO
+    SANTA
+    SANTA DE ROCA
+    SANTO
+    SANTO DE ROCA
+    ESTATUA
+    ESTATUA ALEGÕRICA
+    ESTATUETA ALEGÕRICA
+    ESTATUETA
+    ESTATUETA ALEGÕRICA
+    ESTATUETA ANIMALISTA
+    ESTATUETA CARICATURAL
+    ESTATUETA DE GÊNERO
+    ESTATUETA MITOLÕGICA
+    GRUPO ESCULTÕRICO
+    GRUPO ESCULTÕRICO ALEGÕRICO
+    GRUPO ESCULTÕRICO DE GÊNERO
+    GRUPO ESCULTÕRICO MITOLÕGICO
+    GRUPO ESCULTÕRICO RELIGIOSO
+    MÃO
+    mAscara
+    mAscara mortuAria
+    PEÇA DE GRUPO ESCULTÕRICO
+    PEÇA DE GRUPO ESCULTÕRICO RELIGIOSO
+    RELEVO
+    RELEVO
+    FIGURA HUMANA (Relevo)
+    MARINHA (Relevo)
+    NATUREZA-MORTA (Relevo)
+    PAISAGEM (Relevo)
+    RELEVO ALEGÓRICO
+    RELEVO DE GÊNERO
+    RELEVO DOCUMENTAL
+    RELEVO HISTÓRICO
+    RELEVO MITOLÓGICO
+    RELEVO RELIGIOSO
+    RETRATO (Relevo)
+    TORSO
+  02.4 ESTAMPA
+    NA Imagens, sobre papel, resultantes das técnicas
+    de gravura e/ou impressão.
+    ESTAMPA ABSTRATA
+    ESTAMPA ALEGÓRICA
+    ESTAMPA CARICATURAL
+    ESTAMPA DE GÊNERO
+    ESTAMPA DOCUMENTAL
+    ESTAMPA HISTÓRICA
+    ESTAMPA MITOLÓGICA
+    ESTAMPA RELIGIOSA
+    FIGURA HUMANA (Estampa)
+    NU (Estampa)
+    MARINHA (Estampa)
+    NATUREZA-MORTA (Estampa)
+    PAISAGEM (Estampa)
+    RETRATO (Estampa)
+  02.5 FILME
+    FILME DE FICÇÃO
+    FILME DE NÃO FICÇÃO
+  02.6 PINTURA
+    FIGURA HUMANA (Pintura)
+    NU (Pintura)
+    MARINHA (Pintura)
+    NATUREZA-MORTA (Pintura)
+    PAISAGEM (Pintura)
+    PINTURA ABSTRATA
+    PINTURA ALEGÓRICA
+    PINTURA CARICATURAL
+    PINTURA DE GÊNERO
+    PINTURA DOCUMENTAL
+    PINTURA HISTÓRICA
+    PINTURA MITOLÓGICA
+    PINTURA RELIGIOSA
+    RETRATO (Pintura)
+03 OBJETOS PECUNIÁRIOS
+  NA Objetos relativos a dinheiro ou representativos de dinheiro, bem como aqueles que servem de i.nstrumen to para obtenção de serviços bem definidos (ex. : moeda, selo postal, vale etc.).
+  BARRA
+  BARRA. DE CASA DE FUNDIÇÃO
+  CÉDULA
+  DOCUMENTO DE CÂMBIO
+  CONTRATO DE CÂMBIO
+  LETRA CAMBIAL
+  TRAVELLER CHECK
+  DOCUMENTO DE COMÉRCIO
+  APÕLICE DE SEGURO
+  BÔNUS COMERCIAL
+  CAUTELA DE PENHOR
+  CÉDULA HIPOTECARIA
+  CÉDULA HIPOTECARIA RURAL
+  CERTIFICADO DE DEPOSITO BANCÁRIO
+  CONHECIMENTO
+  CONHECIMENTO DE DEPOSITO
+  CONHECIMENTO DE FRETE
+  DUPLICATA
+  DUPLICATA RURAL
+  FATURA
+  LETRA DE CÂMBIO
+  LETRA IMOBILIÁRIA
+  NOTA FISCAL
+  NOTA PROMISSÓRIA
+  NOTA PROMISSÓRIA RURAL
+  RECIBO DE DEPOSITO BANCARIO
+  TITULO DE CAPITALIZAÇÃO
+  tItulo de crédito rural
+  bOnus rural
+  CÉDULA HIPOTECARIA RURAL
+  CÉDULA PIGNORATlCIA RURAL
+  DUPLICATA RURAL
+  NOTA DE CRÉDITO RURAL
+  NOTA PROMISSÓRIA RURAL
+  WARRANT
+  CÉDULA PIGNORATlCIA RURAL
+  OBJETOS PECUNIÁRIOS
+  CÉDULA PIGNORATlCIA RURAL
+  DOCUMENTO DE PAGAMENTO
+  CARTÃO DE CRÉDITO
+  CHEQUE
+  TALÃO DE CHEQUE
+  VALE
+  VALE MONETIFORME
+  MOEDA PARTICULAR
+  DOCUMENTO DE SOCIEDADES POR AÇÕES
+  AÇÃO
+  DEBÊNTURE
+  DOCUMENTO POSTAL
+  BLOCO DE SELOS
+  PRECURSOR
+  QUADRA DE SELOS
+  SELO POSTAL
+  VALE POSTAL
+  DOCUMENTO PÚBLICO
+  DOCUMENTO DE ARRECADAÇÃO
+  ESTAMPILHA
+  SELO DE CONTROLE
+  DOCUMENTO DE CAPTAÇÃO DE RECURSOS
+  APÕLICE DA DÍVIDA PÚBLICA
+  BONUS DE EMERGÊNCIA
+  BONUS DE GUERRA
+  LETRA DO TESOURO
+  OBRIGAÇÃO DO REAPARELHAMENTO ECONÔMICO
+  OBRIGAÇÃO DO TESOURO
+  OBRIGAÇÃO REAJUSTÂVEL DO TESOURO
+  MOEDA
+  MOEDA DE NECESSIDADE
+04 CONSTRUÇÃO
+  NA Construções criadas para atender a qualquer neces sidade humana em local relativamente permanente. Inclui os respectivos fragmentos. Ver também INTE RIORES.
+  04.1 ABRIGO
+    NA Usar apenas quando o abrigo como um todo é cata logado. Inclui os frágeis e portáteis (ex.: ca sa, mausoléu, capela, estábulo, casa de cachor ro, barraca etc .). CAPELA
+  04.2 EDIFICAÇÃO
+    NA Aquelas criadas para servir a alguma necessida de humana que não a de abrigo e desassociadas de edifícios (ex.: chafariz, ponte etc.).
+    CHAFARIZ
+    PELOURINHO
+  04.3 EQUIPAMENTO HIDRÁULICO
+    NA Objetos existentes, em geral, dentro de edifí cios, conectados de forma mais ou menos perma- nente ao sistema de água e esgoto. Inclui os respectivos acessórios. Ver também FRAGMENTO DE
+    AQUECEDOR DE AGUA
+    BANHEIRA
+    BICA
+    TORNEIRA
+    BIDÊ
+    BOMBA-D'ÂGUA
+    CANO
+    MANILHA
+    CHUVEIRO
+    PIA
+    LAVABO DE SACRISTIA
+    PIA DE BANHEIRO
+    PIA DE COZINHA
+    REGISTRO D^GUA
+    TANQUE (Roupa)
+    CONSTRUÇÃO/EQUIPAMENTO HIDRÁULICO
+    TANQUE (Roupa)
+    VASO SANITÁRIO
+  04.4 FRAGMENTO DE CONSTRUÇÃO
+    NA Objetos criados para ser parte de uma constru- ção ou acessórios para seu funcionamento (ex. : telha, tijolo, porta, dobradiça etc.). Ver tam bém EQUIPAMENTO HIDRÁULICO.
+    ALDRAVA
+    ALTAR
+    ARCO (Construção)
+    ARMADOR DE REDE
+    ATLANTE
+    AZULEJO
+    BALAUSTRADA
+    BALAOSTRE
+    BANDEIRA DE JANELA/PORTA
+    CAIXA DE LUZ
+    CAPELA (Fragmento)
+    CAPITEL
+    CARIÁTIDE
+    CARTELA
+    CHAVE DE PORTA
+    COLUNA
+    COROAMENTO
+    CORUCHÊU
+    DEGRAU
+    DOBRADIÇA
+    DORMENTE
+    ESFERA ARMILAR (Ornato)
+    ESPELHO DE FECHADURA
+    FECHADURA
+    FLORÃO
+    FRISO
+    FRONTAL
+    GRADE
+    JANELA
+    MAÇANETA
+    MlSULA
+    NICHO
+    CONSTRUÇÃO/FRAGMENTO DE CONSTRUÇÃO
+    NICHO
+    PIA RITUAL
+    PIA BATISMAL
+    PIA DE AGUA BENTA
+    PINHA
+    PLINTO
+    PORTA
+    PORTÃO
+    PORTAL
+    PRENDEDOR DE CORTINA
+    pOlpito
+    PUXADOR DE PORTA/JANELA
+    RETÁBULO
+    ROTULA
+    SACADA
+    SANEFA
+    TÃBUA DE ASSOALHO
+    TALHA (Ornato)
+    TELHA
+    TIJOLO
+    TRANCA
+    TRANQUETA
+    FERROLHO
+    TRINCO
+    TRILHO DE TREM
+    VIDRAÇA
+    VITRAL
+05 INTERIORES
+  NA Objeteis usados no interior ou em torno de edifí cios, com o propósito de proporcionar conforto, cuidado e prazer aos seus ocupantes. Ver também CONSTRUÇÃO.
+  05.1 ACESSÓRIO DE INTERIORES
+    NA Objetos usados dentro ou em torno de um edifí- cio com propósitos utilitários relativamente me nores, ou então quando não se enquadram nas de mais subclasses do item 05. Exclui ARTIGO DE TA BAGISMO.
+    ACESSÓRIO DE LEITO
+    COBERTOR
+    MANTA
+    COLCHA
+    COLCHÃO
+    ESTRADO
+    FRONHA
+    LENÇOL
+    TRAVESSEIRO
+    ALMOFADA
+    APLIQUE
+    AROMATIZADOR
+    ARRANJO FLORAL
+    COROA DE FLORES
+    BENGALEIRO
+    BIBLIOCANTO
+    BRAÇADEIRA
+    CABIDE
+    CABIDE DE PAREDE
+    CACHEPÓ
+    CAPA DE ALMOFADA
+    CENTRO DE MESA
+    CESTA DE LIXO
+    COFRE PORTÃTIL
+    MEALHEIRO
+    CORTINA
+    REPOSTEIRO
+    DOSSEL
+    ESCARRADEIRA
+    ESPELHO DE PAREDE
+    interiores/acessOrio de interiores
+    ESPELHO DE PAREDE
+    ESTEIRA
+    JARDINEIRA
+    LIMPA-PÉS
+    MOLDURA
+    PAINEL DECORATIVO
+    PANO
+    PANO DE MOVEL
+    PANO DE MESA
+    CAMINHO DE MESA
+    PEANHA
+    PORTA-RELÕGIO
+    PORTA-RETRATO
+    PRATO DECORATIVO
+    PUXADOR DE CORTINA
+    REDE
+    REDOMA
+    SANEFA (Cortina)
+    SUPORTE DE VASO
+    TAPEÇARIA
+    TAPETE
+    VASO
+    FLOREIRA
+    JARRA
+    JARRÃO
+    POTICHE
+    VASO DE PLANTA
+  05.2 CONDICIONADOR DE TEMPERATURA
+    NA Objetos criados para modificar a temperatura e a umidade de um ambiente fechado. Inclui os res pectivos acessórios (ex.: ventilador, guarda-fo go etc.).
+    APARELHO DE CALEFAÇÃO
+    BRASEIRO
+    ESTUFA
+    AR-CONDICIONADO
+    ATIÇADOR
+    CÃO (Lareira)
+    CONJUNTO DE LAREIRA
+    CONJUNTO DE LAREIRA
+    DESUMIDIFICADOR
+    FOLE
+    GUARDA-FOGO
+    PA (Lareira)
+    TENAZ (Lareira)
+    VASSOURA (Lareira)
+    VENTILADOR
+  05.3 EQUIPAMENTO DE SERVIÇOS DOMfiSTICOS
+    NA Objetos usados na limpeza de recintos e na lava gem de roupa, sejam esses serviços realizados em edifícios públicos ou privados. Ver também
+    TRABALHO.
+    ASPIRADOR DE PO
+    BACIA
+    BALDE
+    ENCERADEIRA
+    ESCOVA DE LIMPEZA
+    ESCOVAO
+    ESPANADOR
+    ESPONJA DE LIMPEZA
+    FERRO DE PASSAR
+    LATA DE LIXO
+    PA DE LIXO
+    PANO DE LIMPEZA
+    PANO DE CHAO
+    PANO DE PO
+    RODO
+    tAbua DE PASSAR
+    TINA (Roupa)
+    VASSOURA
+  05.4 OBJETO DE ILUMINAÇÃO
+    NA Inclui os respectivos acessórios e_ instalações especializadas, tais como iluminação de rua, de jardim e aparelhos de iluminação teatral.
+    ACESSÓRIO DE LUMINÁRIA
+    ABAJUR
+    aracapA
+    ARANDELA
+    BICO DE GAS
+    PLACA DE LUMINÁRIA
+    BANDEJA DE ESPEVITADEIRA
+    BOBECHE
+    ESPEVITADEIRA
+    GLOBO (Luz)
+    MANGA
+    DONZELA
+    luminAria
+    CANDEEIRO
+    CANDEIA
+    CASTIÇAL
+    CANDELABRO
+    PALMATÓRIA (Luz)
+    TOCHEIRO
+    FIFÔ
+    LAMPARINA
+    LAMPIÃO
+    LAMPIÃO DE JARDIM
+    LAMPIÃO DE RUA
+    LANTERNA
+    LANTERNA DE PILHA
+    luminAria de mesa
+    luminAria de pfi
+    LUSTRE
+    TOCHA
+    VELA
+  05.5 PEÇA DE MOBILIÁRIO
+    NA Inclui todo tipo de mobiliário.
+    ALTAR PORTÁTIL
+    ARCA
+    ARQUIBANCO
+    BAO
+    CANASTRA
+    armArio
+    armArio BAIXO
+    armário baixo
+    APARADOR
+    ARMÁRIO DE CANTO
+    ARMÁRIO DE SACRISTIA
+    BIBLIOTECA
+    PAPELEIRA-BIBLIOTECA
+    CRISTALEIRA
+    GUARDA-COMIDA
+    GUARDA-LOUÇA
+    GUARDA-ROUPA
+    MEDALHEIRO
+    ORATÓRIO
+    ORATÓRIO DE CANTO
+    ORATÓRIO PORTÁTIL
+    VITRINA-ARMÁRIO
+    MAQÜINETA
+    ARQUIVO
+    BANCO
+    ARQUIBANCO
+    BANCO DE ÁTRIO
+    BANCO DE CONVÉS
+    BANCO DE IGREJA
+    BANCO DE JARDIM
+    BANCO DE PIANO
+    BANCO DE VAGÃO
+    ESCABELO (Pés)
+    TAMBORETE
+    TAMBORETE DE BRAÇOS
+    BIOMBO
+    CABIDE (Móvel)
+    CABIDE DE PÉ
+    CABIDE DE TERNO
+    CADEIRA
+    CADEIRA DE BALANÇO
+    CADEIRA DE BARBEAR
+    CADEIRA DE BRAÇOS
+    CADEIRA DE CAMAROTE
+    CADEIRA DE CAMPANHA
+    CADEIRA DE CANTO
+    CADEIRA DE COSTURA
+    CADEIRA DE SECRETÁRIA
+    CADEIRA-ESCADA
+    CADEIRA FURADA
+    CONVERSADEIRA
+    ESCABELO
+    ESPREGUIÇADEIRA
+    FALDISTÕRIO
+    CADEIRAL
+    CAIXA DE ESMOLAS
+    CAMISEIRO
+    CARRINHO DE CHÂ
+    COFRE
+    C0MODA
+    ARCAZ
+    CÔMODA-PAPELEIRA
+    meia-cOmoda
+    CONFESSIONÁRIO
+    ESCADA (Móvel)
+    CADEIRA-ESCADA
+    ESCADA DE BIBLIOTECA
+    ESPELHO BASCULANTE
+    ESPELHO-TOUCADOR
+    PSICHÊ
+    ESTANTE
+    CANTONEIRA
+    ESTANTE DE LIVROS
+    ESTANTE DE MÚSICA
+    FACISTOL
+    GENUFLEXORIO
+    JARDINEIRA (Móvel)
+    LEITO
+    BERÇO
+    CATRE
+    LEITO DE CAMPANHA
+    LEITO DE CASAL
+    LEITO DE SOLTEIRO
+    LEITO DE VIÜVO
+    PREGUICEIRO
+    MARQUESA
+    RÊCAMIER
+    SOFÁ-CAMA
+    MESA
+    BANCA
+    BANCA DE OURIVES
+    BANCA DE SELEIRO
+    CREDÊNCIA
+    LAVATflRIO
+    MESA DE APOIO
+    MESA-DE-CABECEIRA
+    MESA DE CAMPANHA
+    MESA DE CENTRO
+    MESA DE CHÁ
+    MESA DE COSTURA
+    MESA DE COZINHA
+    MESA DE ENCOSTAR
+    CONSOLE
+    MESA DE JOGO
+    MESA DE REFEIÇÃO
+    MESA DE REUNIÃO
+    MESA DE TOALETE
+    PENTEADEIRA
+    MESA PORTÁTIL
+    MESA-SECRETÁRIA
+    PAPELEIRA
+    C0MODA-PAPELEIRA
+    CONTADOR
+    ESCRITÓRIO
+    PAPELEIRA-BIBLIOTECA
+    SECRETÁRIA
+    PEDESTAL
+    POLTRONA
+    PORTA-TOALHAS (Móvel)
+    QUARTINHEIRA
+    SACRÁRIO
+    SOFÁ
+    CANAPÊ
+    MfiRIDIENNE
+    SOFÃ-CAMA
+    SUPORTE DE BACIA
+    TREMÕ
+    TRONO
+    VITRINA
+    VITRINA-ARMARIO
+    MAQUINETA
+    VITRINA-MESA
+  05.6 UTENSÍLIO DE COZINHA/MESA
+    NA objetos usados no preparo, guarda, serviço _ou consumo de alimentos e bebidas. Inclui, também, aparelhos (ex.: fogão, geladeira etc.).
+    ABAFADOR DE BULE
+    ABANO
+    ABRIDOR DE GARRAFAS
+    AÇUCAREIRO
+    ALGUIDAR
+    APARELHO IGNlGENO
+    ARGOLA DE GUARDANAPO
+    ASSADEIRA
+    FORMA DE BOLO
+    AZEITONEIRA
+    BALDE DE GELO
+    BALDE DE GELAR GARRAFA
+    BANDEJA
+    SALVA
+    BATEDOR (Cozinha/mesa)
+    BATEDOR DE MANTEIGA
+    BATEDOR DE OVOS
+    BILHA
+    BISCOITEIRA
+    BOIÃO
+    BOMBA DE MATE
+    BOMBONEIRA
+    BULE
+    BULE DE ÃGUA
+    BULE DE AGUA (Samovar)
+    BULE DE CAFfi
+    BULE DE CHA
+    CHOCOLATEIRA
+    CABAÇA D'ÃGUA
+    CAFETEIRA
+    CAIXA (Cozinha/mesa)
+    CAIXA DE CHÃ
+    CAIXA DE CONFEITOS
+    CAIXA DE PÃO
+    CAMPAINHA DE MESA
+    CANECA
+    CANECA DE CERVEJA
+    CANECA DE VINHO
+    CANECÃO
+    cAntaro
+    CESTA DE PÃO
+    CHAPA DE FOGÃO
+    CHURRASQUEIRA
+    COADOR (Cozinha/mesa)
+    COADOR DE CAFfi
+    COCO
+    COLHER DE PAU
+    COMPOTEIRA
+    COPO
+    CÁLICE
+    COPO DE CERVEJA
+    COPO DE CONHAQUE
+    COPO DE PÊ
+    flOtb
+    TAÇA DE CHAMPANHA
+    COPO DE UlSQUE
+    COPO DE APANHAR ÂGUA
+    COPO DE OVO
+    COQUETELEIRA
+    CREMEIRA
+    CUIA (Cozinha/mesa.)
+    CUIA DE MATE
+    CUSCUZEIRO
+    DESCANSO
+    DESCANSO DE COPO
+    DESCANSO DE GARRAFA
+    DESCANSO DE PRATO
+    DESCANSO DE TALHER
+    DESCANSO DE TRAVESSA
+    ESCORREDOR (Cozinha/mesa)
+    ESCORREDOR (Cozinha/mesa)
+    ESCORREDOR DE ARROZ
+    ESCORREDOR DE MACARRÃO
+    ESCORREDOR DE PRATOS
+    ESCUMADEIRA
+    ESPETO DE CHURRASCO
+    ESPREMEDOR DE FRUTAS
+    ESTEIRA DE EXPRESSÃO
+    ESTOJO DE TALHERES
+    FACÃO (Cozinha/mesa)
+    FARINHEIRA
+    FILTRO D'ÃGUA
+    FOGÃO
+    FOGAREIRO
+    ESPIRITEIRA
+    FORNO DE ASSAR
+    FRUTEIRA
+    GALHETA
+    GALHETEIRO
+    GAMELA
+    GARRAFA DE SERVIR BEBIDAS
+    GONGO DE MESA
+    GRELHA
+    GUARDANAPO
+    JARRO
+    LAVANDA
+    LEITEIRA
+    LICOREIRO
+    LIMPADOR DE MESA
+    MAMADEIRA
+    MANTEIGUEIRA
+    MÃO DE PILÃO
+    MARCADOR DE LUGAR
+    MOEDOR (Cozinha/mesa)
+    MOEDOR DE CAFÉ
+    MOEDOR DE CARNE
+    MOEDOR DE PIMENTA
+    MOLHEIRA
+    MORINGA
+    PÂ (Cozinha/mesa)
+    PÃ DE BEIJU
+    PA DE BEIJU
+    PA DE BIFE
+    pA de bolo
+    PALITEIRO
+    PANELA
+    CALDEIRÃO
+    CHALEIRA
+    FRIGIDEIRA
+    PANELEIRO
+    PANO DE BANDEJA
+    PENEIRA (Cozinha/mesa)
+    PILÃO
+    PIMENTEIRA
+    PINÇA (Cozinha/mesa)
+    PINÇÍ DE AÇOCAR
+    PINÇA DE BOLO
+    PINÇA DE GELO
+    PIRES
+    PONCHEIRA
+    PORRÃO
+    PORTA-COPOS
+    PORTA-CREMEIRAS
+    PORTA-CÜIA DE MATE
+    PORTA-GUARDANAPOS
+    PORTA-LATA DE AZEITE
+    PORTA-MENU
+    PORTA-MORINGA
+    PORTA-OVOS
+    POTE (Cozinha/mesa)
+    PRATO
+    PRATO COM BASE
+    PRATO DE BOLO
+    PRATO DE SOBREMESA
+    PRATO DE DOCE
+    PRATO FUNDO
+    PRATO RASO
+    PÜCARO
+    QUARTA
+    QUARTINHA
+    QUEBRA-NOZES
+    QUEIJEIRA
+    QUEIJEIRA
+    RALADOR (Cozinha/ mesa)
+    RASPADOR DE COCO
+    RfiCHAUD
+    RECIPIENTE DE MANTIMENTO
+    ROLO DE PASTEL
+    SACA-ROLHAS
+    SALEIRO
+    SAMOVAR
+    SOQUETE (Cozinha/ínesa)
+    SOQUETE DE ALHO
+    SOQUETE DE CARANGUEJO
+    SOQUETE DE CARNE
+    SOQUETE DE FEIJÃO
+    SORVETEIRA
+    TÃBUA (Cozinha/mesa)
+    TÁBUA DE CARNE
+    TÃBUA DE PÃO
+    TAÇA
+    TAÇA DE CHÃ
+    TAÇA DE CHAMPANHA
+    TAÇA DE CONSOMÊ
+    TAÇA DE SOBREMESA
+    TACHO (Cozinha/mesa)
+    TALHA
+    TALHER
+    COLHER
+    COLHER DE AÇÚCAR
+    COLHER DE CAFÊ
+    COLHER DE CHÃ
+    COLHER DE PAU
+    COLHER DE SERVIR
+    COLHER DE SOBREMESA
+    COLHER DE SORVETE
+    COLHER DE SOPA
+    CONCHA (Talher)
+    CONCHA DE MOLHO
+    FACA
+    FACA DE CARNEAR
+    FACA DE PÃO
+    FACA DE PEIXE
+    FACA DE PEIXE
+    FACA DE SOBREMESA
+    FACA DE DOCE
+    FACA TRINCHANTE
+    FACÃO (Cozinha/fnesa)
+    GARFO
+    GARFO DE PEIXE
+    GARFO DE SOBREMESA^
+    GARFO DE DOCE
+    GARFO TRINCHANTE
+    TALHER DE SALADA
+    TERRINA
+    TESOURA (Cozinha/mesa)
+    TESOURA DE CORTAR FRUTAS
+    TESOURA DE TRINCHAR
+    TIGELA
+    TIGELA DE PINGO
+    TOALHA DE MESA
+    TOALHA DE CHÃ
+    TRAVESSA
+    TRAVESSA COM TAMPA
+    TRAVESSA DE PEIXE
+    TRIPÉ (Cozinha/mesa)
+    TREMPE
+    TRITURADOR DE GELO
+    XlCARA
+    XlCARA DE CAFÉ
+    XlCARA DE CHÃ
+    XlCARA DE CONSOMÊ
+06 TRABALHO
+  NA Objetos usados pelo homem nas suas atividades de trabalho. Não se diferenciou trabalho de hobby. Ex clui mobiliário e indumentária profissionais. Ver também COMUNICAÇÃO, EQUIPAMENTO DE SERVIÇOS DOMÊS TICOS e MEDIÇÃO/REGISTRO/OBSERVAÇÃO/PROCESSAMENTO.
+  06.1 EQUIPAMENTO AGRlCOLA
+    NA Objetos usados no cultivo do solo com culturas permanentes ou temporárias, inclusive hortaliças e flores. Inclui, ainda, o equipamento utilizado na produção de alimentos e bebidas, jardinagem, extração vegetal, silvicultura e reflorestamento.
+    ALAMBIQUE
+    ANCINHO
+    ARADO
+    CAPINADEIRA
+    CAVADEIRA
+    CEIFEIRA
+    COCHO (Farinha)
+    DEBULHADORA
+    DESCASCADOR
+    DESNATADEIRA
+    DESCAROÇADOR
+    FOICE
+    ALFANJE
+    FORCADO
+    GRADE (Agricultura)
+    MACHADO
+    MACHADINHA
+    MOENDA
+    MOENDA DE CANA
+    PÃ (Farinha)
+    PAU DE CAVAR
+    POMBA (Açúcar)
+    PRENSA DE MANDIOCA
+    TIPITI
+    TIPITI DE TORÇÃO
+    PULVERIZADOR
+    RALADOR DE MANDIOCA
+    REGADOR
+    RODO (Farinha)
+    RODO (Farinha)
+    SEMEADEIRA
+    TACHO (Agricultura)
+    TACHO (Açúcar)
+    TACHO (Farinha1
+    TESOURA DE JARDINAGEM
+    PODÃO
+    TESOURA DE GRAMA
+    TESOURA DE PODAR
+    VASSOURA (Farinha)
+  06.2 EQUIPAMENTO DE ARTES DO ESPETÁCULO
+    NA Objetos usados durante a realização de espetãcu los teatrais, de dança, ópera, circo e de filma gens. Exclui indumentária, adornos, mobiliário e objetos de iluminação. Ver também ARTES VISU AIS/CINEMATOGRÁFICA e EQUIPAMENTO DE ARTISTAS7
+    ARTESÃOS.
+    BONECO DE TEATRO
+    BONECO DE VENTRÍLOQUO
+    FANTOCHE
+    MARIONETE
+    CÂMERA DE FILMAR
+    CENÁRIO
+    EQUIPAMENTO DE MÁGICO
+    FIGURA DE SOMBRA
+  06.3 EQUIPAMENTO DE ARTISTAS/ARTESÃOS
+    NA Ver também ARTES VISUAIS/CINEMATOGRÁFICA, EQUI PAMENTO DE ARTES DO ESPETÁCULO, EQUIPAMENTO DE FIAÇÃO/TECELAGEM e INSTRUMENTO MUSICAL.
+    BATUTA
+    BIGORNA
+    BONECA (Gravura)
+    BURIL
+    CADINHO
+    CANETA (Cerâmica)
+    CAVALETE (Pintura)
+    CHAPA (Moeda)
+    CINZEL
+    CUNHO
+    CUNHO DE MEDALHA
+    CUNHO DE MOEDA
+    DISCO DE CUNHAGEM
+    DISCO DE MEDALHA
+    DISCO MONETÁRIO
+    ENXÕ
+    ESMERIL
+    ESPÁTULA
+    FACA (Recorte)
+    FOLE DE FORJA
+    FORJA
+    FORMÃO
+    GODÊ
+    GOIVA
+    LIMA
+    GROSA
+    MACETE
+    MÁQUINA FOTOGRÁFICA
+    MATRIZ (Gravura)
+    MOLDE
+    FORMA DE BARRA
+    FÔRMA DE CALÇADO
+    FÔRMA DE HÓSTIA
+    FÔRMA DE VELA
+    FÔRMA DE VIOLA
+    MOLDE DE ESCULTURA
+    MOLDE DE JÔIA
+    MOLDE DE MEDALHA
+    MOLDE DE MOEDA
+    RILHEIRA
+    PALETA
+    PINCEL
+    PLAINA
+    PRENSA (Cunhagera/irapressão)
+    PRENSA DE CUNHAR
+    PRENSA DE-CUNHAR BARRAS
+    PRENSA DE CUNHAR MOEDAS
+    PRENSA DE IMPRESSÃO
+    PRELO MANUAL
+    PUNÇSO
+    SOVE LA
+    TENAZ
+    TORNO
+  06.4 EQUIPAMENTO DE ATIVIDADES COMERCIAIS
+    NA Objetos usados na venda de mercadorias e servi ços. Ver também MATERIAL DE PROPAGANDA.
+    APANHADOR DE CEREAIS
+    INSTRUMENTO DE ENSAIADOR
+    JETON
+    MANEQUIM
+    MÁQUINA REGISTRADORA
+    MOSTRUARIO
+    PRENSA DE TINTUREIRO
+  06.5 EQUIPAMENTO DE FIAÇÃO/TECELAGEM
+    NA Objetos usados no fabrico de fios, linhas ou cordas, ou na manufatura de tecidos ou de obje tos de fibras naturais e sintéticas. Inclui os instrumentos utilizados na costura e cestaria. Ver também EQUIPAMENTO DE ARTISTAS/ARTESÃOS.
+    AGULHA
+    AGULHA DE COSTURA
+    AGULHA DE CROCHÊ
+    AGULHA DE FILÊ
+    AGULHA DE REDE DE PESCA
+    AGULHA DE TRICO
+    AGULHEIRO  
+    ALFINETE
+    ALFINETEIRA
+    ALMOFADA DE BILROS
+    ARCO (Fiação)
+    BASTIDOR
+    BASTIDOR DE FILÊ
+    BILRO
+    BOLA DE CERZIR
+    CAIXA DE COSTURA
+    CARDA
+    CARRETEL
+    DEDAL
+    DOBADOURA
+    ESPINHO DE MANDACARU
+    ESTOJO DE COSTURA
+    FLECHA (Fiação)
+    FUSO
+    LANÇADEIRA
+    LIÇA
+    MÁQUINA DE COSTURA
+    PENTE DE TEAR
+    REPASSO
+    ROCA
+    TEAR
+    URDIDEIRA
+  06.6 EQUIPAMENTO DE MINERAÇÃO
+    NA Objetos usados na extração mineral, seja ela sub terrânea ou de superfície. Inclui, também, equi pamento de prospecção.
+    ALMOCAFRE
+    BATEIA
+    CALUMBÊ
+    PICUÃ
+    TANQUE (Mineração)
+  06.7 EQUIPAMENTO DE PECUÃRIA
+    NA Objetos usados na criação, recriação, engorda e domesticação de animais, bem como os utiliza dos na transformação e beneficiamento de produ tos animais.
+    AS SINALADEIRA
+    AZIAR
+    BALDE DE ORDENHA
+    BANCO DE ORDENHA
+    BARBILHO
+    BERRANTE
+    BOLEADEIRAS
+    CACHIMBO (Gado)
+    CASTRADOR
+    CINCERRO
+    COCHO
+    COLEIRA DE ANIMAL
+    DESCORNADOR
+    DESPONTADOR
+    ESTICADOR DE CERCA
+    GAIOLA
+    LAÇO DE VAQUEIRO
+    MANEIA
+    MARCADOR DE GADO
+    MOCHADOR
+    PEIA
+    PENTE DE CAVALO
+    TALHEIRO
+    TARRO
+    TESOURA DE TOSQUEAR
+    TIRADOR
+  06.8 EQUIPAMENTO DE USO GERAL
+    NA Objetos usados em diversas atividades profissio nais . Inclui, também, os utilizados na constru ção civil.
+    AFIADOR DE LÂMINAS
+    AFIADOR DE FACAS
+    ALAVANCA
+    PÉ-DE-CABRA
+    ALICATE
+    TORQUÊS
+    ALMOFARIZ
+    ALMOTOLIA
+    APERTADOR
+    CHAVE DE BOCA
+    CHAVE INGLESA
+    CHAVE DE FENDA
+    COLHER DE PEDREIRO
+    ENXADA
+    ENXADÃO
+    ESCADA
+    FUNIL
+    MAÇARICO
+    MARTELO
+    MOITÃO
+    PÂ
+    PENEIRA
+    PICARETA
+    PRUMO
+    ROLDANA
+    CARRETILHA
+    SERRA
+    SERROTE
+  06.9 EQUIPAMENTO MÉDICO
+    NA Objetos usados no exame, teste, diagnóstico e tratamento do ser humano e de animais. Inclui o equipamento de dentistas e farmacêuticos, bem como o utilizado pela medicina popular.
+    AGULHA DE SUTURA
+    BOTICÃO
+    CURETA
+    DOSIFICADOR
+    ESCARIFICADOR
+    ESTOJO DE SERINGA
+    GALVANOCAUTÉRIO
+    GOTEIRA
+    MALETA DE MÉDICO
+    PEDRA DE BE ZOAR
+    PORTA-MEDICAMENTOS
+    POTE DE FARMÁCIA
+    RECIPIENTE DE REMÉDIO
+    SERINGA
+  06.10 INSTRUMENTO MUSICAL
+    NA Objetos usados na produção de música,e respecti vos acessórios. Ver também EQUIPAMENTO DE ARTIS TAS/ARTESÃOS e EQUIPAMENTO DE COMUNICAÇÃO SONO RA/VISUAL.
+    ACESSÓRIO DE INSTRUMENTO MUSICAL
+      BAQUETA
+    INSTRUMENTO DE CORDA
+      ALAÜDE
+      BANDOLIM
+      BANDURRA
+      BANJO
+      CAVAQUINHO
+      CÍTARA
+      CONTRABAIXO
+      HARPA
+      VIOLA
+      VIOLA DE GAMBA
+      VIOLA SERTANEJA
+      VIOLA DE COCHO
+      VIOLÃO
+      GUITARRA ELÉTRICA
+      VIOLINO
+      RABECA
+      VIOLONCELO
+    INSTRUMENTO DE PERCUSSÃO
+      ADUFE
+      AGOGÔ
+      ANGÕIA
+      BERIMBAU
+      CASTANHOLAS
+      CAXIXI
+      CUÍCA
+      GANZÃ
+      GONGO
+      MARACÂ (Índio)
+      MARACA
+      MATRACA
+      PANDEIRO
+      PREACA
+      RECO-RECO
+      TAMBOR
+      ATABAQUE
+      LÊ
+      RUM
+      RUMPI
+      BOMBO
+      CAXAMBU
+      ILU
+      SURDO
+      TAMBORIM
+      TAMBU
+      TAROL
+      TÍMPANO
+      TRIÂNGULO
+      XILOFONE
+      MARIMBA
+    INSTRUMENTO DE SOPRO
+      BOMBARDINO
+      BOMBARDÃO
+      BUZINA (Música)
+      CLARINETA
+      CLARONE
+      FAGOTE
+      CONTRAFAGOTE
+      FLAUTA
+      FLAUTIM
+      PlFARO
+      GAITA DE BOCA
+      OBOÉ
+      CORNE INGLÊS
+      OCARINA
+      OFICLIDE
+      SAXOFONE
+      TROMBONE
+      TROMPA
+      TROMPETE
+      CLARIM
+      CORNETA
+      TUBA
+    INSTRUMENTO DE TECLADO
+      ACORDEÃO
+      SANFONA
+      CELESTA
+      CRAVO
+      PIANO
+      PIANO
+      PIANO DE CAUDA
+      PIANO VERTICAL
+      0RGÃO
+      HARMONIO
+      ÕRGÃO DE TUBOS
+      0RGÃO eletrônico
+    INSTRUMENTO MUSICAL MECANICO
+      ARISTON
+      CAIXA DE MÜSICA
+      PIANOLA
+      REALEJO
+06.11 MAQUINARIA
+  NA Equipamento de trabalho mecânico ou eletrônico
+  que não se enquadra nas demais subclasses do
+  item 06.
+  06.12 PETRECHO DE PESCA
+    NA Objetos usadòs nã captura de peixes, crustáceos e moluscos. Exclui embarcações e armas.
+    ANZOL
+    BALAIO (Pesca)
+    CANECÃO (Pesca)
+    COADOR (Pesca)
+    COVO
+    MATApI
+    ESPINHEL
+    JIQUI
+    MOLINETE DE PESCA
+    PARI
+    PENEIRA (Pesca)
+    PESO DE REDE
+    PUÇA
+    PUÇA DE CABO
+    PUÇA DE ESPERA
+    REDE DE PESCA
+    REDE DE ARRASTÃO
+    REDE DE ESPERA
+    TARRAFA
+    samburA
+    VARA DE PESCA
+    VAREJO
+07 LAZER/DESPORTO
+  NA Objetos criados para servir de brinquedo ou serem usados em jogos, sorteios, atividades esportivas etc. Exclui indumentária e mobiliário.
+  ACESSÓRIO DE JOGO
+    BARALHO
+    BOLA
+    BOLA DE BILHAR
+    BOLA DE GUDE
+    CAIXA DE JOGO
+    CARTA DE BARALHO
+    COPO DE DADOS
+    DADO
+    FLORETE DE ESGRIMA
+    PEÇA DE DAMAS
+    PEÇA DE DOMINÓ
+    PEÇA DE XADREZ
+    PETECA
+  TABULEIRO DE JOGO
+    TABULEIRO DE DAMAS
+    TABULEIRO DE .XADREZ
+  TACO DE BILHAR
+  URNA DE SORTEIO
+  BRINQUEDO
+  BILBOQUÊ
+  BONECO
+  CALEIDOSCÓPIO
+  CATA-VENTO
+  CHOCALHO (Brinquedo)
+  CORRUPIO
+  IOIÓ
+  PAPAGAIO
+  PIÃO
+  CARAPETA
+  TELÉGRAFO SEM FIO
+  TRAPEZISTA
+  ZUMBIDOR
+  CARNÊ DE BAILE
+  COMPROVANTE DE APOSTA
+  BILHETE DE APOSTA
+  BILHETE DE JOGO
+  LAZER/DESPORTO
+  BILHETE DE JOGO
+  BILHETE DE LOTERIA
+  BILHETE DE RIFA
+  JOGO
+  DAMAS
+  DOMINO
+  JOGO DE FUTEBOL
+  QUEBRA-CABEÇA
+  RAPA-TIRA
+  XADREZ
+08 INSÍGNIAS
+  NA Objetos usados como sinais distintivos,individuais ou coletivos, de função, dignidade, posto,comando, poder, nobreza, nação etc. Inclui os respectivos acessórios e exclui mobiliário e indumentária.Ver também OBJETOS CERIMONIAIS.
+  ACESSÓRIO DE INSÍGNIA
+  MASTRO DE BANDEIRA
+  BANDEIRA
+    BANDEIROLA
+    ESTANDARTE
+    FLÂMULA
+    GALHARDETE
+    PAVILHÃO
+  BRASÃO
+  CONDECORAÇÃO
+    BANDA
+    BARRETA
+    BOTÃO (Insígnia)
+    COLAR DE GRÃ—CRUZ
+    FITA (Insígnia)
+    GRÃ-CRUZ
+  INSÍGNIA (Condecoração)
+    MEDALHA CONDECORATIVA
+    MEDALHA COMEMORATIVA(Condecoração)
+    MEDALHA MILITAR
+    MEDALHA DE BRAVURA
+    MEDALHA DE CAMPANHA
+    MEDALHA DE SERVIÇO
+    MEDALHA PREMIAL MILITAR
+    MEDALHA PREMIAL (Condecoração)
+  MINIATURA (Insígnia)
+    PASSADOR
+    PLACA
+    ROSETA
+  DISTINTIVO
+  ANEL (Insígnia)
+    ALIANÇA
+    ANEL DE GRAU
+    ANEL EPISCOPAL
+  ATRIBUTO DE DIVINDADE
+    ABEBÊ
+    ERUQUERÊ
+    FERRAMENTA DE OGÜM
+    OBÊ
+    OFÂ
+    OXÊ
+    PAXORfl
+    xaxarA
+  ATRIBUTO DE ESCULTURA RELIGIOSA
+    BASTÃO (Insígnia)
+    BÂCULO
+    BASTÃO DE BALIZA
+    BASTÃO DE ESCOTEIRO
+    BASTÃO DE MORDOMO
+    CETRO DE CONGADA
+    CETRO DO DIVINO
+    CETRO MAJESTÂTICO
+    PAXORÔ
+    VARA DE IRMANDADE
+    VARA DE JUIZ
+    VARA DE VEREADOR
+  BENGALA (Insígnia)
+  CHAPA DE UNIFORME
+  TOPE
+  CHAVE (Insígnia)
+    CHAVE DE CAMARISTA
+  COLAR (Insígnia)
+    COLAR DE FARDÃO
+    GUIA (Colar)
+    LAGUIDIBÂ
+  COROA
+    COROA DE CONGADA
+    COROA DO DIVINO
+    COROA MAJESTÂTICA
+  ESPADA (Insígnia)
+    ESPADIM (Insígnia)
+    ESPADIM DE FARDÃO
+    ESPADIM MAÇflNICO
+    ESPADIM MILITAR
+    FACÃO (Insígnia)
+    OBÊ
+  FAIXA (Insígnia)
+    FAIXA MAÇÔNICA
+    FAIXA PRESIDENCIAL
+    FIADOR
+  GALÃO (Insígnia)
+  GORJAL (Insígnia)
+  LANÇA (Insígnia)
+  MACHADO (Insígnia)
+  MACHADO DE PORTA-MACHADO
+  OXÊ
+  MALHETE (Insígnia)
+    MALHETE DE JUIZ
+    MALHETE MAÇONICO
+  PULSEIRA (Insígnia)
+  IBO
+  idê
+  PLATINA
+  DRAGONA
+  CHARLATEIRA
+  TRIDENTE (Insígnia)
+09 OBJETOS CERIMONIAIS
+  NA Objetos usados era cerimônias e/ou rituais conduzi dos de forma sistemática e geralmente prescrita , sejam eles civis, religiosos ou militares. Exclui instrumentos musicais, mobiliário e indumentária. Ver também INSÍGNIAS.
+  09.1 OBJETO CERIMONIAL DE INSTITUIÇÕES
+    NA Objetos usados em cerimônias promovidas por ins tituições, públicas ou privadas, civis ou mili tares.
+    URNA CERIMONIAL DE INSTITUIÇÕES
+    URNA DE SORTEIO MILITAR
+    URNA ELEITORAL
+  09.2 OBJETO COMEMORATIVO
+    NA Objetos cuja função principal é homenagear pes soas e lugares, ou comemorar eventos, e que, ye ralmente, não cumprem função utilitária.Objetos com função utilitária definida, mas que contêm decoraçao de caráter comemorativo, serão incluí dos nas respectivas classes (ex.: vaso comemora tivo pertence ã subclasse ACESSÓRIO DE INTERIO RES) .
+    BLOCO COMEMORATIVO
+    CHAVE SIMBÓLICA '
+    COROA DE LOUROS
+    ENVELOPE DE PRIMEIRO DIA DE CIRCULAÇÃO
+    EX-VOTO
+    FERRAMENTA SIMBÓLICA
+    FITA INAUGURAL
+    MARCO
+    MÃXIMO POSTAL
+    MEDALHA
+    MEDALHA COMEMORATIVA
+    MEDALHA PREMIAL
+    MEDALHA DE ROSCA
+    MOEDA DE COLEÇÃO
+    PlEFORT
+    PEDRA FUNDAMENTAL
+    PLACA COMEMORATIVA
+    TOCHA SIMBÓLICA
+    TROFÉU
+    TAÇA DE PRÊMIO
+  09.3 OBJETO DE CULTO
+    NA Objetos usados em cerimônias de culto e rituais de diversas religiões. Ver também OBJETO DE DE VOÇÃO PESSOAL.
+    ADJÂ
+    ÂMBULA
+    ANDOR
+    ANTIPÊNDIO
+    APITO RITUAL-
+    ASPERSORIO
+    CALDEIRINHA
+    CÁLICE (Missa)
+    CAMPA
+    CIBÕRIO
+    COLHER DE INCENSO
+    CONOPEU
+    CORPORAL DA MISSA
+    CRUZ
+    CRUZ PROCESSIONAL
+    CUIA BATISMAL
+    CUITÉ RITUAL
+    DEFUMADOR
+    TURlBULO
+    ESMOLEIRO
+    GALHETA (Missa)
+    GALHETEIRO (Missa)
+    HOSTIÂRIO
+    LAMPADÂRIO
+    LANTERNA PROCESSIONAL
+    MANUSTÊRGIO
+    MASCARA RITUAL
+    NAVETA
+    OSTENSÔRIO
+    OTA
+    PALA
+    PALIO
+    UMBELA
+    pAtena
+    PEDRA DE ARA'
+    PORTA-MISSAL
+    PORTA-PAZ
+    PORTA-TOALHA (Culto)
+    porta-viAtico
+    RELICÁRIO
+    SACRA
+    SALVA (Missa)
+    SANGUINHO
+    TOALHA DE ALTAR
+    VARA DE PALIO
+    VASO RITUAL
+    VELA LITÜRGICA
+    CÍRIO PASCAL
+    VÉU DE CÁLICE
+    XERE
+  09.4 OBJETO FUNERÁRIO
+    NA Objetos relativos aos mortos e às cerimônias fú nebres. Inclui os respectivos acessórios.
+    CAIXÃO
+    CATAFALCO
+    CHAVE DE CAIXÃO
+    COROA FUNERÁRIA
+    CRUZ DE SEPULTURA
+    FAIXA FUNERÁRIA
+    LAPIDE SEPULCRAL
+    MARCO DE SEPULTURA
+    URNA FUNERÁRIA
+    URNA CINERARIA
+10 COMUNICAÇÃO
+  NA Objetos usados para transmitir informações aos se res humanos. Ver também ARTES VISUAIS/CINEMATOGRÁ- FICA, MEDIÇÃO/REGISTRO/OBSERVAÇÃO/PROCESSAMENTO e TRABALHO.
+  10.1 DOCUMENTO
+    NA Alguns museus não possuem setores de bibliote- ca e arquivo. Assim, seus livros, periódicos , documentos de arquivo etc. não recebem o trata mento técnico biblioteconômico ou arquivístico condizentes. Ê para esses museus, sobretudo , que se abriu esta subclasse, que reúne documen tos textuais e cartográficos, bem como os ico nográficos excluídos da classe ARTES VISUAIS 7 CINEMATOGRÁFICA. Exclui MATERIAL DE PROPAGAN- DA. Ver também EQUIPAMENTO DE COMUNICAÇÃO SONO RA/VISUAL.
+    ADESIVO
+    AGENDA
+    ALBUM
+      Arvore genealógica
+    ATLAS
+    CADERNETA DE ENDEREÇOS
+    CADERNO
+    CALENDÁRIO
+    CARTA
+    CARTA DE BRASÃO
+    CARTA PATENTE
+    CARTÃO DE VISITA
+    CARTÃO-POSTAL
+    CARTEIRA DE IDENTIDADE
+    CARTEIRA DE TRABALHO
+    CERTIDÃO
+      CERTIDÃO DE BATISMO
+      CERTIDÃO DE CASAMENTO
+      CERTIDÃO DE NASCIMENTO
+      CERTIDÃO DE ÕBITO
+    CONVITE
+    DECALQUE
+    DIARIO
+    DIPLOMA
+    DOCUMENTO FOTOGRÁFICO
+      DIAPOSITIVO
+      FOTOGRAFIA
+        FOTOGRAFIA (Processo Fotomecânico)
+        FOTOGRAFIA (Processo Positivo Direto)
+      AMBRÕTIPO
+      daguerreOtipo
+      FERRÕTIPO
+      NEGATIVO
+    FIGURINHA
+      CROMO
+    FOLHETO
+    JORNAL
+    LIVRO
+    MISSAL
+    LIVRO DE ATAS
+    MAPA
+    MENU
+    OFÍCIO
+    PARTITURA MUSICAL
+    PASSAPORTE
+    PROGRAMA
+    RECIBO
+    RECORTE DE JORNAL
+    REVISTA
+    ROTULO
+    TELEGRAMA
+    TÍTULO DE ELEITOR
+  10.2 EQUIPAMENTO DE COMUNICAÇÃO ESCRITA
+    NA Objetos usados na escrita, autenticação, guarda e transporte de documentos textuais, e respecti- vos acessórios, inclusive os de leitura. Exclui mobiliário.
+    ALMOFADA (Carimbo)
+    APONTADOR DE LÃPIS
+    AREEIRO
+    BERÇO (Mata-borrão)
+    BLOCO DE PAPEL
+    BORRACHA
+    CAIXA DE CORREIO
+    CANETA
+    CANETA-TINTEIRO
+    CANUDO
+    CAPA DE LIVRO
+    CARIMBO
+    CARIMBO (Selo)
+    COPIADOR
+    ENVELOPE
+    ESPÁTULA (Livro)
+    ESTOJO DE LÁPIS
+    FURADOR DE PAPEL
+    GRAMPEADOR
+    INDICADOR
+    LACRE
+    LÁPIS
+    LAPISEIRA
+    LIMPA-PENAS
+    MALA POSTAL
+    MÁQUINA DE ESCREVER
+    MARCADOR DE LIVRO
+    MATA-BORRÃO
+    MATRIZ SIGILOGRÃFICA
+    ANEL SIGILAR
+    CARIMBO (Selo)
+    PINGENTE SIGILAR
+    SELO MATRIZ
+    SELO SECO
+    SINETE
+    PAPEL DE CARTA
+    PENA (Escrita)
+    PENA DE CANETA
+    PESO DE PAPEL
+    PORTA-BLOCO
+    PORTA-CARIMBOS
+    PORTA-CARTÕES
+    PORTA-CLIPES
+    PORTA-DOCUMENTOS
+    PORTA-LÁPIS/CANETA
+    PORTA-PENAS
+    PORTA-SELOS
+    PORTA-SELOS
+    QUADRO-NEGRO
+    RASPADEIRA
+    SELO
+    SELO APOSTO
+    SELO CHAPEADO
+    SELO PENDENTE
+    TINTEIRO
+    TINTEIRO-ESCRIVANINHA
+  10.3 EQUIPAMENTO DE COMUNICAÇÃO SONORA/VISUAL
+    NA Objetos usados para ampliar, registrar, reprodu zir e armazenar■sons significativos para a comu nicação humana. Inclui ainda os utilizados como sinal visual ou sinalizadores, projetores e vi sores de imagens, modelos anatômicos e topográ- ficos, globos terrestres e material didático que não se inclua nas demais subclasses do item 10. Ver também DOCUMENTO, EQUIPAMENTO DE TELECOMUNI CAÇÃO e INSTRUMENTO MUSICAL.
+    ALARME
+    SIRENE
+    ALTO-FALANTE
+    AMPLIFICADOR
+    APITO
+    CILINDRO (Som)
+    DEMARCA DOR
+    DISCO
+    fonOgrafo
+    FONÔGRAFO DE CILINDRO
+    GRAMOFONE
+    ELETROLA
+    GLOBO TERRESTRE
+    GRAVADOR
+    LETREIRO
+    TABULETA
+    MICROFONE
+    MODELO ANATÔMICO
+    MODELO TOPOGRÁFICO
+    PLACA DE RUA
+    PORTA-VOZ
+    PROJETOR
+    PROJETOR
+    PROJETOR DE DIAPOSITIVOS
+    PROJETOR DE FILMES
+    SINALIZADOR
+    BANDEIRA DE SINALIZAÇÃO
+    FOGUETE DE SINALIZAÇÃO
+    LANTERNA DE SINALIZAÇÃO
+    SINALIZADOR DE TRÂNSITO
+    PLACA DE TRÂNSITO
+    SINAL DE TRÂNSITO
+    SINO
+    SINETA
+    CAMPAINHA
+    TOCA-DISCOS
+    TOCA-FITA
+    VISOR ESTEREOSCÓPICO
+  10.4 EQUIPAMENTO DE TELECOMUNICAÇÃO
+    NA Objetos que facilitem a comunicação ã distância, geralmente, por meio de equipamento eletrônico. Ver também EQUIPAMENTO DE COMUNICAÇÃO SONORA/ VISUAL.
+    ANTENA
+    APARELHO DE TELÉGRAFO
+    CABO SUBMARINO
+    RÁDIO
+    RECEPTOR DE RÁDIO
+    TELEFONE
+    TELEVISÃO
+    TRANSMISSOR DE RÁDIO
+  10.5 MATERIAL DE PROPAGANDA
+    NA Objetos cuja principal função é a propaganda. Os que cumprem outras funções bem definidas , mas cuja decoração ê de caráter propagandístico, serão incluídos nas respectivas classes (ex.: cinzeiro com o nome de um restaurante pertence à subclasse ARTIGO DE TABAGISMO). Ver também E QUIPAMENTO DE ATIVIDADES COMERCIAIS.
+    ADESIVO DE PROPAGANDA
+    BOTÃO DE PROPAGANDA
+    CARTÃO COMERCIAL
+    CARTAZ
+    CÉDULA DE PROPAGANDA
+    FIGURINHA DE PROPAGANDA
+    FLÂMULA DE PROPAGANDA
+    FOLHA VOLANTE
+    PROSPECTO
+    RECLAMO MONETIFORME
+11 TRANSPORTE
+  NA Artefatos que servem como veiculo para de passageiros ou carga. Inclui seus acessórios.
+  11.1 ACESSÓRIO DE TRANSPORTE AÉREO
+    NA Exclui equipamento de comunicação e tos de precisão/õpticos.
+  11.2 ACESSÓRIO DE TRANSPORTE MARlTIMO
+    NA Exclui equipamento de comunicação í tos de precisão/õpticos.
+    Ancora
+    bitAcula
+    CAPUCHANA
+    FIGURA DE PROA
+    CARRANCA
+    HÉLICE DE EMBARCAÇÃO
+    LANTERNA DE EMBARCAÇÃO
+    LEME DE EMBARCAÇÃO
+    MASTRO DE EMBARCAÇÃO
+    REMO
+    RODA DO LEME
+    VIDRAÇA DE EMBARCAÇÃO
+  11.3 ACESSÓRIO DE TRANSPORTE TERRESTRE
+    NA Exclui equipamento de comunicação « tos de precisão/õpticos.
+    ALBARDA
+    ARREIO
+    BOLSA DE SELA
+    CANGA-
+    CANGALHA
+    CHICOTE
+    REBENQUE
+    ESPORA
+    CHILENA
+    ESPORIM
+    SALTEIRA
+    FERRADURA
+    LAMEIRO
+    LAMEIRO DE BICICLETA
+    LAMEIRO DE CAMINHÃO
+    LANTERNA DE.COCHE
+    PEÇA DE ARREIO
+    BARRIGUEIRA
+    BUÇAL
+    BUÇALETE
+    CABEÇADA
+    CABRESTO
+    CAPELADA
+    CILHA
+    CINCHA
+    CINCHADOR
+    COLDRE (Sela)
+    CORTADEIRA
+    ESTEIRA DE MONTARIA
+    ESTRIBO
+    CAÇAMBA (Estribo)
+    SAPATA
+    FREIO DE CAVALGADURA
+    BRIDÃO
+    GOLÃO
+    LORO
+    MANTA DE SELA
+    BADANA
+    BAIXEIRO
+    CARONA
+    COXINILHO
+    ENXERGÃO
+    PELEGO
+    PEITORAL
+    PORTA-FERRADURAS
+    RABICHO
+    RÉDEA
+    RETRANCA
+    SELA
+    LOMBINHO
+    SELIM
+    SERIGOTE
+    SILHÃO
+    SOBRECINCHA
+    SIA DE CANGALHAS
+  11.4 TRANSPORTE AÉREO
+    BALÃO DIRIGÍVEL
+  11.5 TRANSPORTE MARlTIMO
+    NA Inclui os fluviais. Acrescentar aos descritores abaixo, quando necessário, os termos vela, mo- tor ou misto (vapor/motor e vela) entre parente ses (ex.: Fragata (Vela), Fragata (Motor), Fra gata (Mista).
+    BALEEIRA
+    BARCA
+    BARCO
+    BRIGUE
+    BRIGUE-ESCUNA
+    CANHONEIRA
+    CANOA
+    UBÂ
+    CONTRATORPEDEIRO
+    CORVETA
+    CRUZADOR
+    CÜTER
+    ENCOURAÇADO
+    MONITOR-ENCOURAÇADO
+    ESCUNA
+    FRAGATA
+    GALEÃO
+    GALEOTA
+    IATE
+    JANGADA
+    LANCHA
+    NAU
+    PATACHO
+    REBOCADOR
+    SAVEIRO
+    SUBMARINO
+  11.6 TRANSPORTE TERRESTRE
+    AUTOMÓVEL
+    BERLINDA
+    CADEIRINHA
+    CALEÇA
+    CARRO DE BOI
+    CARROÇA
+    CARROÇA DE PADEIRO
+    CARROÇSO
+    COCHE
+    DILIGÊNCIA
+    LANDAU
+    LITEIRA
+    LOCOMOTIVA
+    TlLBURI
+    TRAQUITANA
+    VAGÃO
+    VITÕRIA
+12 OBJETOS PESSOAIS
+  NA Objetos criados para servir às necessidades pes soais dos indivíduos, tais como proteção e higiene do corpo, adorno, crença etc.
+  12.1 ACESSÕRIO DE INDUMENTÁRIA
+    NA Objetos usados para suster e/ou fixar peças de vestuário ou penteados, mesmo quando fragmen tos, adereços de mão e cabeleiras que complemen tem trajes. Ver também OBJETO DE ADORNO.
+    ABOTOADURA
+    ADEREÇO DE MÃO
+    ALAMAR
+    ALFINETE (Indumentária)
+      ALFINETE DE CHAPÉU
+      ALFINETE DE GRAVATA
+    BARBICACHO
+    BOTÃO
+      BOTÃO DE COLARINHO
+    CABELEIRA
+      CHINÕ
+      PERUCA
+      TRANÇA
+    CINTO
+      CÍNGULO
+      CINTEIRO
+      CINTURÃO
+      GUAIACA
+      FAIXA
+      FAIXA MILITAR
+      TALIM
+    FlBULA
+      FIVELA DE CALÇADO/CINTO
+      NETSUKÉ
+    PRENDEDOR (Indumentária)
+      PRENDEDOR DE CABELO
+      FITA DE CABELO
+      GRAMPO DE CABELO
+      TRAVESSA DE CABELO
+      TREPA-MOLEQUE
+      PRENDEDOR DE LENÇO
+      PRENDEDOR DE SUSPENSÓRIOS
+      SUSPENSÓRIO
+  12.2 ARTIGO DE TABAGISMO
+    NA Objetos relacionados ao hábito de fumar, aspi rar ou mascar tabaco, outras ervas e drogas.
+    BRASEIRO DE FUMANTES
+    CACHIMBO
+    CAIXA DE FÓSFOROS
+    FOSFOREIRA
+    CHARUTO
+    CIGARRO
+    CINZEIRO
+    CORTADOR DE CHARUTO
+    ESTOJO DE PITEIRA
+    ISQUEIRO
+    LIMPA-CACHIMBO
+    NARGUILfi
+    PEGA-BRASAS
+    PITEIRA
+    PORTA-CACHIMBOS
+    PORTA-CAIXA DE FÓSFOROS
+    PORTA-CHARUTOS
+    CAIXA DE CHARUTOS
+    CHARUTEIRA
+    PORTA-CIGARROS
+    CAIXA DE CIGARROS
+    CIGARREIRA
+    COPO DE CIGARROS
+    MAÇO DE CIGARROS
+    PORTA-MAÇO DE CIGARROS
+    PORTA-TABACO
+    BOLSA DE TABACO
+    CAIXA DE RAPÉ
+    CORNIMBOQUE
+    POTE DE TABACO
+    TABAQUEIRA
+    TRITURADOR DE FUMO
+  12.3 ARTIGO DE TOALETE
+    NA Objetos relacionados à higiene e estética soais e aos atos de vestir e calgar.
+    ABOTOADEIRA
+    ABRIDOR DE LUVAS
+    AFASTADOR DE CUTlCULA
+    AFIADOR DE NAVALHAS
+    ALICATE (Toalete)
+      ALICATE DE CUTÍCULA
+      ALICATE DE UNHA
+    APARELHO DE BARBEAR
+    BACIA DE TOALETE
+    BACIA DE BANHO
+    BACIA DE BARBEAR
+    BALDE DE TOALETE
+    BIDÊ PORTÁTIL
+    BORRIFADOR DE PERFUME
+    CAIXA (Toalete)
+      CAIXA DE COSMÉTICO
+      CAIXA DE MIUDEZAS
+    CALÇADEIRA
+    CÁLICE DE LAVAR OLHO
+    COPO DE HIGIENE BUCAL
+    CUBA-RIM
+    DESCALÇADEIRA
+    DILATADOR DE L0BULO DE ORELHA
+    ESCOVA DE TOALETE
+    ESCOVA DE CABELO
+    ESCOVA DE DENTES
+    ESCOVA DE ROUPA
+    ESCOVA DE SAPATO
+    ESCOVA DE UNHA
+    ESPELHO
+    ESTOJO (Toalete)
+      ESTOJO DE COLARINHOS
+      ESTOJO DE MAQUIAGEM
+      ESTOJO DE TOALETE
+      ESTOJO DE UNHA
+    FRASCO (Toucador)
+    FRISADOR
+    GOMIL
+    LIXA DE UNHA
+    NAVALHA
+    PALITO
+    PENTE
+    PENTEADOR
+    PERFURADOR (índio)
+    PERFURADOR AURICULAR
+    PERFURADOR LABIAL
+    PINÇA DE SOBRANCELHA
+    PINCEL DE BARBA
+    POLIDOR DE UNHA
+    PORTA-COLARINHO
+    PORTA-ESCOVA DE CABELO
+    PORTA-ESCOVA DE DENTES
+    PORTA-PENTE
+    PORTA-PERUCA
+    POTE DE COSMÉTICO
+    SABONETEIRA
+    SACHÊ
+    SUPORTE DE BIDÊ
+    TESOURA
+      TESOURA DE CABELO
+      TESOURA DE UNHA
+    TOALHA
+      TOALHA DE BANHO
+      TOALHA DE MÃO
+      TOALHA DE ROSTO
+    URINOL
+    COMADRE
+    COMPADRE
+  12.4 ARTIGO DE VIAGEM/CAMPANHA
+    NA Exclui mobiliário. Ver também OBJETO DÈ AUXÍLIO /CONFORTO PESSOAIS.
+    ALFORJE
+    CANTIL
+    CHAPELEIRA
+    COPO DE VIAGEM
+    GUAMPA
+    GUAMPA
+    ESCRITÕRIO DE VIAGEM
+    ESTOJO DE VIAGEM
+    FRASQUEIRA
+    MALA
+    MALETA
+    MOCHILA
+    PORTA-TEMPERO DE VIAGEM
+    TALHER DE VIAGEM
+    COLHER DE VIAGEM
+    FACA DE VIAGEM
+    GARFO DE VIAGEM
+  12.5 OBJETO DE ADORNO
+    NA Inclui os raspectivos acessórios. Ver também ACESSÓRIO DE INDUMENTÁRIA.
+    ADORNO INDÍGENA
+    ADORNO AURICULAR
+    ADORNO LABIAL
+    ADORNO NASAL
+    ARMAÇÃO DE COCAR
+    BRAÇADEIRA (índio)
+    CINTO (índio)
+    CINTA (índio)
+    COCAR
+    COIFA (índio)
+    DIADEMA (índio)
+    GRINALDA (índio)
+    LEQUE DE OCCIPÍCIO
+    TOUCADO (índio)
+    CORDÃO DE CINTURA (índio)
+    FAIXA (índio)
+    FAIXA DE CORREDOR
+    FAIXA DE PANTURRILHA
+    ANEL
+    ANEL-RELOGIO
+    BRACELETE
+    ESCRAVA
+    BRINCO
+    BROCHE
+    BROCHE
+    CHAVE DE RELÓGIO (Adorno)
+    COLAR
+    GARGANTILHA
+    CORRENTE (Adorno)
+    CORDÃO
+    GÔNDOLA
+    DIADEMA
+    ESTOJO DE JÓIA
+    GRINALDA
+    PENCA DE BALANGANDÃS
+    PINGENTE
+    BALANGANDÃ
+    MEDALHÃO PINGENTE
+    RELÓGIO PINGENTE
+    porta-jóias
+    PULSEIRA
+    ESCRAVA
+    RELOGIO (Adorno)
+    ANEL-REL0GIO
+    RELOGIO DE BOLSO
+    RELÓGIO DE PULSO
+    RELÓGIO PINGENTE
+    TORNOZELEIRA
+  12.6 OBJETO DE AUXÍLIO/CONFORTO PESSOAIS
+    NA Objetos criados para suprir deficiências físi cas dos seres humanos e/ou para lhes dar maior comodidade, e que não se incluem nas demais sub classes do item 12; Inclui os respectivos aces sórios. Ver também ARTIGO DE VIAGEM/CAMPANHA.
+    BENGALA
+    BOLSA
+    CARTEIRA (Bolsa)
+      EMBORNAL
+      PATRONA
+      TROUSSE
+    CADEIRA DE RODAS
+    CANIVETE
+    CARTEIRA DE DINHEIRO
+    CHÃTELAINE
+    CHAVEIRO
+    CHUPETA
+    ESTOJO (Auxllio/conforto pessoais)
+      ESTOJO DE LEQUE
+      ESTOJO DE ÕCULOS
+    FAIXA DE TRANSPORTE
+    GALOCHA
+    GARRAFA DE BOLSO
+    GUARDA-CHUVA
+    INSTRUMENTO 0PTICO PESSOAL
+      LORNHÃO
+      MONÓCULO
+      ÓCULOS
+      PINCE-NEZ
+    LENÇO
+    LEQUE
+    VENTAROLA
+    MÃOZINHA
+    MULETA
+    PASTA
+      PASTA MILITAR
+    PORTA-BUQUÊ
+    PORTA-COMPRIMIDOS
+    PORTA-NlQUEIS
+    PRÓTESE
+      PRÓTESE DENTÁRIA
+      DENTADURA
+      PRÓTESE ORTOPÉDICA
+    SACOLA DE COMPRAS
+    SOMBRINHA
+  12.7 OBJETO DE DEVOÇÃO PESSOAL
+    NA Objetos usados como símbolos de uma crença, pa ra atrair a sorte ou afastar malefícios, que as pessoas, geralmente, trazem consigo. Ver também OBJETO DE CULTO.
+    AMULETO
+      AMULETO PINGENTE
+    BENTINHO
+    BREVE
+    COLAR (Amuleto)
+      PATUÁ
+      CRUCIFIXO PINGENTE
+      CRUZ PINGENTE
+    ESTOJO (Devoção pessoal)
+      ESTOJO DE ROSÁRIO
+      ESTOJO DE TERÇO
+    FITA DEVOCIONAL
+    MEDALHA DEVOCIONAL
+    MADALHA DEVOCIONAL PINGENTE
+    RELICÁRIO PINGENTE
+    ROSÁRIO
+    TALISMÃ
+      TALISMÃ PINGENTE
+    TERÇO
+  12.8 PEÇA DE INDUMENTÁRIA
+    NA Objetos usados como vestimentas ou calçados por seres humanos. Inclui, também, as coberturas de cabeça e máscaras que complementem trajes.
+    AVENTAL
+    AVENTAL (Insígnia)
+      AVENTAL DE PORTA-MACHADO
+      AVENTAL MAÇflNICO
+      AVENTAL ROSA-CRUZ
+    BATINA
+    BECA
+    BLUSA
+    BATA
+    CORPETE
+    CACHECOL
+    CALÇA
+      BOMBACHA
+      CALÇÃO
+      CULOTE
+    CALÇADO
+      BOTA
+      BOTINA
+      BORZEGUIM
+      CHINELO
+      sandália
+      SAPATILHA
+      SAPATO
+      TAMANCO
+    CAMISA
+      CAMISOLA
+    CAPA
+      CAPA DE ASPERGES
+    MANTO
+      OPA
+      PELERINE
+      PONCHO
+      PONCHO-PALA
+      CASACO
+      BOLERO
+      CASACA
+      DO-LMÃ
+      FRAQUE
+      JAQUETA
+      PALETfl
+      SOBRE CASACA
+      VÊSTIA
+    COBERTURA DE CABEÇA
+      BARRETE
+      BARRETINA
+      BOINA
+      BONÉ
+      QUEPE
+      CAPACETE (Indumentária)
+        CAPACETE DE ORIXÁ
+        CAPACETE MILITAR
+      CAPUZ
+      CAPUZ DE FRADE
+      FILÁ
+      CARTOLA
+      CHAPÉU
+      CHAPÉU-ARMADO
+      CHAPÉU-CARDINALlCIO
+      CHAPÊU-COCO
+      CLAQUE
+      GORRO
+      LENÇO DE CABEÇA
+      MITRA
+      SOLIDÊU
+      TOUCA
+      COIFA
+      TURBANTE
+      VÊU
+      MANTILHA
+      VÊU NUPCIAL
+      COBRE-NUCA
+    COLARINHO
+    COLETE
+    COSTUME
+    ECHARPE
+    ESTOJO PENIANO
+    GOLA
+    GORJEIRA
+    GRAVATA
+    HÁBITO
+    LENÇO (Indumentária)
+      LENÇO DE CABEÇA
+      LENÇO DE PESCOÇO
+    LUVA
+      MITENE
+    MÁSCARA (Indumentária)
+      MÁSCARA DE ESGRIMA
+      MÁSCARA DE FANTASIA
+      MÁSCARA DE TEATRO
+    MEIA
+    PARAMENTO
+      ALVA
+      SOBREPELIZ
+      AMITO
+      CAPA DE ASPERGES
+      CASULA
+      DALMÁTICA
+      TUNICELA
+      ESTOLA (Casula)
+      MANIPULO
+    VÊU UMERAL
+    PEITILHO
+    PERNEIRA
+    PIJAMA
+    POLAINA
+    QUIMONO
+    ROBE
+    ROUPA DE BAIXO
+      anAgua
+      CALÇOLA
+      CEROULA
+      COMBINAÇÃO
+      CORPINHO
+      ESPARTILHO
+    ROUPA DE BEBÊ
+      BABADOR
+      CAMISA DE PAGÃO
+      CUEIRO
+      FRALDA
+    ROUPÃO DE BANHO
+    SAIA
+      SAIOTE
+      SARI
+    SOTAINA
+    SUÊTER
+    TANGA
+    TERNO
+    TOfiA
+    TRAJE
+      TRAJE DE FESTA/FOLGUEDO
+        FANTASIA
+      TRAJE DE RITUAL RELIGIOSO
+      TRAJE REGIONAL
+      TÔNICA
+      ALVA
+      DALMÂTICA
+      ULURI
+      UNIFORME
+      FARDA
+        FARDÃO
+      LIBRÊ
+    VESTIDO
+      VESTIDO DE BAILE
+      VESTIDO NUPCIAL
+    XALE
+      ESTOLA
+      PANO-DA-COSTA
+13 CASTIGO/PENITÊNCIA
+  NA Objetos usados para inflingir penas corporais seres humanos ou para a autopenitência.
+  13.1 INSTRUMENTO DE AUTOPENITÊNCIA
+    CILlCIO
+    DISCIPLINA
+  13.2 INSTRUMENTO DE CASTIGO
+    AÇOITE
+    BACALHAU
+    ALGEMA
+    ANJINHO
+    CALCETA
+    CHIBATA
+    CINTO (Castigo)
+    ESPADA (Castigo)
+      ESPADA DE EXECUÇÃO
+      ESPADA DE PRANCHA
+    FERRETE
+    FORCA
+    GARGALHEIRA
+    GOLILHA
+    LIBAMBO
+    MÁSCARA (Castigo)
+      MORDAÇA
+    PALMATÓRIA
+    TRONCO (Castigo)
+      VIRA-MUNDO
+14 MEDIÇÃO/REGISTRO/OBSERVAÇAO/PROCESSAMENTO
+  NA Objetos usados na medição, registro e observação de fenômenos, substâncias, propriedades, volume e massa, ou ainda para processar dados e ampliar a capacidade visual dos seres humanos. Exclui os de correção de defeitos visuais, como os óculos, e os que registram sons. Inclui os respectivos acessorios. Ver também COMUNICAÇÃO e TRABALHO.
+  14.1 INSTRUMENTO DE PRECISÃO/ÔPTICO
+    ACESSÓRIO DE INSTRUMENTO DE precisão/ôptico
+    CHAVE DE RELOGIO
+    ESTOJO (Instrumento de precisão/óptico)
+      ESTOJO DE BALANÇA
+      ESTOJO DE PESOS
+    PESO
+      PESO MONETÁRIO
+    AMPULHETA
+    ANEMÔMETRO
+    BALANÇA
+    BARÔMETRO
+    BINÓCULO
+      BINÓCULO DE TEATRO
+    bOssola
+      AGULHA DE MAREAR
+    COMPASSO
+    CONJUNTO DE MEDIDAS DE CAPACIDADE
+    CRONÔMETRO
+    ESQUADRO
+    FITA MÉTRICA
+    LUPA
+    MEDIDA DE CAPACIDADE
+      MEDIDOR DE PÓLVORA
+      MEDIDOR DE CALIBRE
+      MEDIDOR DE LUZ
+    METRO DOBRÃVEL
+    METRÔNOMO
+    MICROSCÓPIO
+    NÍVEL
+      NÍVEL DE BOLHA
+    PAQUÍMETRO
+    RÉGUA
+    relOgio
+      relOgio-armArio
+      relOgio de mesa
+      relOgio de parede
+      relõgio de ponto
+      relOgio de sol
+    SEXTANTE
+    TELÊMETRO
+      TELÊMETRO DE ARTILHARIA
+      TELÊMETRO DE CAVALARIA
+      TELÊMETRO DE INFANTARIA
+      TELÊMETRO NAVAL
+    TELESCÓPIO
+    LUNETA
+    LUNETA DE MIRA
+    ÓCULO
+    TEODOLITO
+    TERMÔMETRO
+    TRANSFERIDOR
+    TRENA
+  14.2 PROCESSADOR DE DADOS
+    NA Objetos usados para processar dados por manuais, mecânicos ou eletrônicos.
+    ÂBACO
+    CALCULADORA
+    RÉGUA DE CÁLCULO
+15 EMBALAGENS/RECIPÍENTES
+  NA Objetos usados para embalar produtos e mercadorias, e recipientes com função não determinada.
+  BARRICA
+  BARRIL
+  BRUACA
+  CAIXA
+  CAIXOTE
+  ESTOJO
+  CESTA
+  BALAIO
+  jacA
+  JEQUIÂ
+  PANEIRO
+  ENGRADADO
+  FRASCO
+  GARRAFA
+  BOTIJA
+  GARRAFÃO
+  LATA
+  PIPA
+  POTE
+  SACO
+  SURRAO
+  TACHO
+  TINA
+  TONEL
+16 AMOSTRAS/FRAGMENTOS
+  NA Amostras de natureza animal, vegetal oú mineral,em estado bruto ou processadas, desde que não consti tuam um objeto propriamente dito. Inclui, também , amostras ou fragmentos de rendas, tecidos, couros, cabelos etc., quando não tiverem constituído parte de um objeto ou quando este não pôde ser identifi cado, e acessórios de artefatos que não puderam ser.determinados. Os mostruãrios para fins comer ciais pertencem ã subclasse EQUIPAMENTO DE ATIVIDA DES COMERCIAIS.
+  AMOSTRA
+    AMOSTRA ANIMAL
+    AMOSTRA MINERAL
+    AMOSTRA VEGETAL
+  ARGOLA
+  CADEADO
+  CHAVE
+  FITA
+  FIVELA
+  FRAGMENTO
+  PREGO
+  CRAVO (Prego)
+  PARAFUSO
+  PUXADOR
+  tAbua
