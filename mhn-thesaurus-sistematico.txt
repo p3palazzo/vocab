@@ -560,8 +560,7 @@
     VASSOURA (Lareira)
     VENTILADOR
   05.3 EQUIPAMENTO DE SERVIÇOS DOMfiSTICOS
-    NA Objetos usados na limpeza de recintos e na lava gem de roupa, sejam esses serviços realizados em edifícios públicos ou privados. Ver também
-    TRABALHO.
+    NA Objetos usados na limpeza de recintos e na lava gem de roupa, sejam esses serviços realizados em edifícios públicos ou privados. Ver também TRABALHO.
     ASPIRADOR DE PO
     BACIA
     BALDE
